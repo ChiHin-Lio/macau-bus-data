@@ -1,11 +1,11 @@
 {
-  "checksum": "sha256-04f8dc7154031e6c921c903a7ec817bdd5cb354bb52e652e9695f96ffc9eea7c",
+  "checksum": "sha256-05cc78da25be1c86a9bb2f1c11000571c2a241998dcb0f88cdcd92705000fcb4",
   "coverage": {
     "routes": 82,
-    "samples": 3632575,
-    "segments": 54636
+    "samples": 3956182,
+    "segments": 57012
   },
-  "generatedAt": "2026-08-08T17:07:00.513911Z",
+  "generatedAt": "2026-08-09T17:09:47.066025Z",
   "schemaVersion": 1,
   "validRoutes": [
     "1",
@@ -91,5 +91,5 @@
     "N5",
     "N6"
   ],
-  "version": "31268461948-1"
+  "version": "31325480264-1"
 }

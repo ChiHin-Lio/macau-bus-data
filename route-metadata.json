@@ -562,11 +562,11 @@
       }
     },
     "2A": {
-      "nameCht": "東方明珠 ↻ 亞馬喇前地",
-      "namePor": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL",
+      "nameCht": "東城第三街 ↻ 亞馬喇前地",
+      "namePor": "R. TRÊS ZONA ESTE ↻ PRAÇA FERREIRA AMARAL",
       "directionNames": {
-        "0": "東方明珠 ↻ 亞馬喇前地",
-        "1": "東方明珠 ↻ 亞馬喇前地"
+        "0": "東城第三街 ↻ 亞馬喇前地",
+        "1": "東城第三街 ↻ 亞馬喇前地"
       },
       "schedule": {
         "0": {
@@ -649,12 +649,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL",
-        "1": "PÉROLA ORIENTAL ↻ PRAÇA FERREIRA AMARAL"
+        "0": "R. TRÊS ZONA ESTE ↻ PRAÇA FERREIRA AMARAL",
+        "1": "R. TRÊS ZONA ESTE ↻ PRAÇA FERREIRA AMARAL"
       },
       "directionNamesEn": {
-        "0": "Pérola Oriental ↻ Praça Ferreira Amaral",
-        "1": "Pérola Oriental ↻ Praça Ferreira Amaral"
+        "0": "East Zone Third Street ↻ Praça Ferreira Amaral",
+        "1": "East Zone Third Street ↻ Praça Ferreira Amaral"
       }
     },
     "3": {
@@ -928,11 +928,11 @@
       }
     },
     "3AX": {
-      "nameCht": "關閘 ↻ 亞馬喇前地",
-      "namePor": "PORTAS DO CERCO ↻ PRAÇA FERREIRA AMARAL",
+      "nameCht": "城市日大馬路 ↻ 關閘",
+      "namePor": "AV. 24 DE JUNHO ↻ PORTAS DO CERCO",
       "directionNames": {
-        "0": "關閘 ↻ 亞馬喇前地",
-        "1": "關閘 ↻ 亞馬喇前地"
+        "0": "城市日大馬路 ↻ 關閘",
+        "1": "城市日大馬路 ↻ 關閘"
       },
       "schedule": {
         "0": {
@@ -955,12 +955,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "PORTAS DO CERCO ↻ PRAÇA FERREIRA AMARAL",
-        "1": "PORTAS DO CERCO ↻ PRAÇA FERREIRA AMARAL"
+        "0": "AV. 24 DE JUNHO ↻ PORTAS DO CERCO",
+        "1": "AV. 24 DE JUNHO ↻ PORTAS DO CERCO"
       },
       "directionNamesEn": {
-        "0": "Portas do Cerco ↻ Praça Ferreira Amaral",
-        "1": "Portas do Cerco ↻ Praça Ferreira Amaral"
+        "0": "June 24 Avenue ↻ Portas do Cerco",
+        "1": "June 24 Avenue ↻ Portas do Cerco"
       }
     },
     "3X": {
@@ -1438,11 +1438,11 @@
       }
     },
     "6B": {
-      "nameCht": "媽閣 ↻ 山頂醫院",
-      "namePor": "BARRA ↻ HOSPITAL S. JANUÁRIO",
+      "nameCht": "凱泉灣 ↻ 山頂醫院",
+      "namePor": "RIVIERA MACAU ↻ HOSPITAL S. JANUÁRIO",
       "directionNames": {
-        "0": "媽閣 ↻ 山頂醫院",
-        "1": "媽閣 ↻ 山頂醫院"
+        "0": "凱泉灣 ↻ 山頂醫院",
+        "1": "凱泉灣 ↻ 山頂醫院"
       },
       "schedule": {
         "0": {
@@ -1459,12 +1459,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "BARRA ↻ HOSPITAL S. JANUÁRIO",
-        "1": "BARRA ↻ HOSPITAL S. JANUÁRIO"
+        "0": "RIVIERA MACAU ↻ HOSPITAL S. JANUÁRIO",
+        "1": "RIVIERA MACAU ↻ HOSPITAL S. JANUÁRIO"
       },
       "directionNamesEn": {
-        "0": "Barra ↻ Hospital Conde de São Januário",
-        "1": "Barra ↻ Hospital Conde de São Januário"
+        "0": "Hoi Chun Garden ↻ Hospital Conde de São Januário",
+        "1": "Hoi Chun Garden ↻ Hospital Conde de São Januário"
       }
     },
     "7": {
@@ -1978,11 +1978,11 @@
       }
     },
     "9A": {
-      "nameCht": "牧場街 ↻ 旅遊塔",
-      "namePor": "RUA DOS CURRAIS ↻ TORRE DE MACAU",
+      "nameCht": "青茂 ↻ 旅遊塔",
+      "namePor": "QINGMAO ↻ TORRE DE MACAU",
       "directionNames": {
-        "0": "牧場街 ↻ 旅遊塔",
-        "1": "牧場街 ↻ 旅遊塔"
+        "0": "青茂 ↻ 旅遊塔",
+        "1": "青茂 ↻ 旅遊塔"
       },
       "schedule": {
         "0": {
@@ -2073,12 +2073,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "RUA DOS CURRAIS ↻ TORRE DE MACAU",
-        "1": "RUA DOS CURRAIS ↻ TORRE DE MACAU"
+        "0": "QINGMAO ↻ TORRE DE MACAU",
+        "1": "QINGMAO ↻ TORRE DE MACAU"
       },
       "directionNamesEn": {
-        "0": "Rua dos Currais ↻ Macau Tower",
-        "1": "Rua dos Currais ↻ Macau Tower"
+        "0": "Qingmao ↻ Macau Tower",
+        "1": "Qingmao ↻ Macau Tower"
       }
     },
     "10": {
@@ -2734,11 +2734,11 @@
       }
     },
     "15": {
-      "nameCht": "海洋花園 ↻ 九澳村",
-      "namePor": "JARDINS DO OCEANO ↻ POVOAÇÃO DE KA-HÓ",
+      "nameCht": "海洋花園 ↻ 九澳油庫",
+      "namePor": "JARDINS DO OCEANO ↻ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
       "directionNames": {
-        "0": "海洋花園 ↻ 九澳村",
-        "1": "海洋花園 ↻ 九澳村"
+        "0": "海洋花園 ↻ 九澳油庫",
+        "1": "海洋花園 ↻ 九澳油庫"
       },
       "schedule": {
         "0": {
@@ -2773,12 +2773,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "JARDINS DO OCEANO ↻ POVOAÇÃO DE KA-HÓ",
-        "1": "JARDINS DO OCEANO ↻ POVOAÇÃO DE KA-HÓ"
+        "0": "JARDINS DO OCEANO ↻ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ",
+        "1": "JARDINS DO OCEANO ↻ T. DE COMBUSTÍVEIS DO P. DE KÁ-HÓ"
       },
       "directionNamesEn": {
-        "0": "Jardins do Oceano ↻ Ká-Hó Village",
-        "1": "Jardins do Oceano ↻ Ká-Hó Village"
+        "0": "Jardins do Oceano ↻ Ká-Hó Fuel Depot",
+        "1": "Jardins do Oceano ↻ Ká-Hó Fuel Depot"
       }
     },
     "16": {
@@ -4118,11 +4118,11 @@
       }
     },
     "25AX": {
-      "nameCht": "關閘 ⇌ 蝴蝶谷大馬路",
-      "namePor": "PORTAS DO CERCO ⇌ AV. VALE DAS BORBOLETAS",
+      "nameCht": "蝴蝶谷大馬路 ↻ 關閘",
+      "namePor": "AV. VALE DAS BORBOLETAS ↻ PORTAS DO CERCO",
       "directionNames": {
-        "0": "關閘 ⇀ 蝴蝶谷大馬路",
-        "1": "蝴蝶谷大馬路 ⇀ 關閘"
+        "0": "蝴蝶谷大馬路 ↻ 關閘",
+        "1": "蝴蝶谷大馬路 ↻ 關閘"
       },
       "schedule": {
         "0": {
@@ -4145,12 +4145,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "PORTAS DO CERCO ⇀ AV. VALE DAS BORBOLETAS",
-        "1": "AV. VALE DAS BORBOLETAS ⇀ PORTAS DO CERCO"
+        "0": "AV. VALE DAS BORBOLETAS ↻ PORTAS DO CERCO",
+        "1": "AV. VALE DAS BORBOLETAS ↻ PORTAS DO CERCO"
       },
       "directionNamesEn": {
-        "0": "Portas do Cerco ⇀ Av. do Vale das Borboletas",
-        "1": "Av. do Vale das Borboletas ⇀ Portas do Cerco"
+        "0": "Av. do Vale das Borboletas ↻ Portas do Cerco",
+        "1": "Av. do Vale das Borboletas ↻ Portas do Cerco"
       }
     },
     "25B": {
@@ -4378,11 +4378,11 @@
       }
     },
     "26": {
-      "nameCht": "筷子基北灣 ↻ 路環街市",
-      "namePor": "BACIA NORTE DO PATANE ↻ MERCADO M. DE COLOANE",
+      "nameCht": "筷子基北灣 ↻ 路環市區",
+      "namePor": "BACIA NORTE DO PATANE ↻ VILA DE COLOANE",
       "directionNames": {
-        "0": "筷子基北灣 ↻ 路環街市",
-        "1": "筷子基北灣 ↻ 路環街市"
+        "0": "筷子基北灣 ↻ 路環市區",
+        "1": "筷子基北灣 ↻ 路環市區"
       },
       "schedule": {
         "0": {
@@ -4453,12 +4453,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "BACIA NORTE DO PATANE ↻ MERCADO M. DE COLOANE",
-        "1": "BACIA NORTE DO PATANE ↻ MERCADO M. DE COLOANE"
+        "0": "BACIA NORTE DO PATANE ↻ VILA DE COLOANE",
+        "1": "BACIA NORTE DO PATANE ↻ VILA DE COLOANE"
       },
       "directionNamesEn": {
-        "0": "Fái Chi Kei (Praia do Norte) ↻ Coloane Market",
-        "1": "Fái Chi Kei (Praia do Norte) ↻ Coloane Market"
+        "0": "Fái Chi Kei (Praia do Norte) ↻ Coloane Village",
+        "1": "Fái Chi Kei (Praia do Norte) ↻ Coloane Village"
       }
     },
     "26A": {
@@ -4864,11 +4864,11 @@
       }
     },
     "28B": {
-      "nameCht": "青洲 ↻ 媽閣",
-      "namePor": "EST. ILHA VERDE ↻ BARRA",
+      "nameCht": "青洲 ↻ 媽閣廟",
+      "namePor": "EST. ILHA VERDE ↻ TEMPLO Á MA",
       "directionNames": {
-        "0": "青洲 ↻ 媽閣",
-        "1": "青洲 ↻ 媽閣"
+        "0": "青洲 ↻ 媽閣廟",
+        "1": "青洲 ↻ 媽閣廟"
       },
       "schedule": {
         "0": {
@@ -4933,12 +4933,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "EST. ILHA VERDE ↻ BARRA",
-        "1": "EST. ILHA VERDE ↻ BARRA"
+        "0": "EST. ILHA VERDE ↻ TEMPLO Á MA",
+        "1": "EST. ILHA VERDE ↻ TEMPLO Á MA"
       },
       "directionNamesEn": {
-        "0": "Ilha Verde ↻ Barra",
-        "1": "Ilha Verde ↻ Barra"
+        "0": "Ilha Verde ↻ A-Má Temple",
+        "1": "Ilha Verde ↻ A-Má Temple"
       }
     },
     "28C": {
@@ -5046,11 +5046,11 @@
       }
     },
     "29": {
-      "nameCht": "青洲 ↻ 東方拱門",
-      "namePor": "EST. ILHA VERDE ↻ ARCO ORIENTE",
+      "nameCht": "城市日前地 ↻ 青洲",
+      "namePor": "PRACETA 24 DE JUNHO ↻ EST. ILHA VERDE",
       "directionNames": {
-        "0": "青洲 ↻ 東方拱門",
-        "1": "青洲 ↻ 東方拱門"
+        "0": "城市日前地 ↻ 青洲",
+        "1": "城市日前地 ↻ 青洲"
       },
       "schedule": {
         "0": {
@@ -5127,12 +5127,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "EST. ILHA VERDE ↻ ARCO ORIENTE",
-        "1": "EST. ILHA VERDE ↻ ARCO ORIENTE"
+        "0": "PRACETA 24 DE JUNHO ↻ EST. ILHA VERDE",
+        "1": "PRACETA 24 DE JUNHO ↻ EST. ILHA VERDE"
       },
       "directionNamesEn": {
-        "0": "Ilha Verde ↻ Arco Oriente",
-        "1": "Ilha Verde ↻ Arco Oriente"
+        "0": "Praça 24 de Junho ↻ Ilha Verde",
+        "1": "Praça 24 de Junho ↻ Ilha Verde"
       }
     },
     "30": {
@@ -5666,11 +5666,11 @@
       }
     },
     "35": {
-      "nameCht": "蘇利安圓形地 ↻ 溜冰路",
-      "namePor": "ROTUNDA LEONEL SOUSA ↻ RUA DA PATINAGEM",
+      "nameCht": "蘇利安圓形地 ↻ 澳門協和醫院",
+      "namePor": "ROTUNDA LEONEL SOUSA ↻ HOSPITAL MACAU UNION",
       "directionNames": {
-        "0": "蘇利安圓形地 ↻ 溜冰路",
-        "1": "蘇利安圓形地 ↻ 溜冰路"
+        "0": "蘇利安圓形地 ↻ 澳門協和醫院",
+        "1": "蘇利安圓形地 ↻ 澳門協和醫院"
       },
       "schedule": {
         "0": {
@@ -5783,12 +5783,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "ROTUNDA LEONEL SOUSA ↻ RUA DA PATINAGEM",
-        "1": "ROTUNDA LEONEL SOUSA ↻ RUA DA PATINAGEM"
+        "0": "ROTUNDA LEONEL SOUSA ↻ HOSPITAL MACAU UNION",
+        "1": "ROTUNDA LEONEL SOUSA ↻ HOSPITAL MACAU UNION"
       },
       "directionNamesEn": {
-        "0": "Rotunda Leonel de Sousa ↻ Rua da Patinagem",
-        "1": "Rotunda Leonel de Sousa ↻ Rua da Patinagem"
+        "0": "Rotunda Leonel Sousa ↻ Macau Union Hospital",
+        "1": "Rotunda Leonel Sousa ↻ Macau Union Hospital"
       }
     },
     "35S": {
@@ -6838,11 +6838,11 @@
       }
     },
     "59": {
-      "nameCht": "關閘 ⇌ 聯生工業邨",
-      "namePor": "PORTAS DO CERCO ⇌ PARQUE INDUSTRIAL DA CONCÓRDIA",
+      "nameCht": "關閘 ⇌ 聯生圓形地",
+      "namePor": "PORTAS DO CERCO ⇌ ROTUNDA DA CONCÓRDIA",
       "directionNames": {
-        "0": "關閘 ⇀ 聯生工業邨",
-        "1": "聯生工業邨 ⇀ 關閘"
+        "0": "關閘 ⇀ 聯生圓形地",
+        "1": "聯生圓形地 ⇀ 關閘"
       },
       "schedule": {
         "0": {
@@ -6943,12 +6943,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "PORTAS DO CERCO ⇀ PARQUE INDUSTRIAL DA CONCÓRDIA",
-        "1": "PARQUE INDUSTRIAL DA CONCÓRDIA ⇀ PORTAS DO CERCO"
+        "0": "PORTAS DO CERCO ⇀ ROTUNDA DA CONCÓRDIA",
+        "1": "ROTUNDA DA CONCÓRDIA ⇀ PORTAS DO CERCO"
       },
       "directionNamesEn": {
-        "0": "Portas do Cerco ⇀ Liansheng Industrial Estate",
-        "1": "Liansheng Industrial Estate ⇀ Portas do Cerco"
+        "0": "Portas do Cerco ⇀ Rotunda da Concórdia",
+        "1": "Rotunda da Concórdia ⇀ Portas do Cerco"
       }
     },
     "71": {
@@ -7036,11 +7036,11 @@
       }
     },
     "71S": {
-      "nameCht": "澳門大學 ⇌ 凱泉灣",
-      "namePor": "UNIVERSIDADE DE MACAU ⇌ RIVIERA MACAU",
+      "nameCht": "澳門大學 ⇌ 俾若翰街/快富樓",
+      "namePor": "UNIVERSIDADE DE MACAU ⇌ R. DO COMANDANTE JOÃO BELO / EDF. FAI FU",
       "directionNames": {
-        "0": "澳門大學 ⇀ 凱泉灣",
-        "1": "凱泉灣 ⇀ 澳門大學"
+        "0": "澳門大學 ⇀ 俾若翰街/快富樓",
+        "1": "俾若翰街/快富樓 ⇀ 澳門大學"
       },
       "schedule": {
         "0": {
@@ -7055,12 +7055,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "UNIVERSIDADE DE MACAU ⇀ RIVIERA MACAU",
-        "1": "RIVIERA MACAU ⇀ UNIVERSIDADE DE MACAU"
+        "0": "UNIVERSIDADE DE MACAU ⇀ R. DO COMANDANTE JOÃO BELO / EDF. FAI FU",
+        "1": "R. DO COMANDANTE JOÃO BELO / EDF. FAI FU ⇀ UNIVERSIDADE DE MACAU"
       },
       "directionNamesEn": {
-        "0": "University of Macau ⇀ Hoi Chun Garden",
-        "1": "Hoi Chun Garden ⇀ University of Macau"
+        "0": "University of Macau ⇀ R. do Comandante João Belo / Edif. Fai Fu",
+        "1": "R. do Comandante João Belo / Edif. Fai Fu ⇀ University of Macau"
       }
     },
     "72": {
@@ -7294,11 +7294,11 @@
       }
     },
     "701X": {
-      "nameCht": "橫琴澳方口岸 ↻ 路氹連貫公路",
-      "namePor": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ ESTRADA DO ISTMO",
+      "nameCht": "澳門大學 ↻ 望德聖母灣",
+      "namePor": "UNIVERSIDADE DE MACAU ↻ BAÍA DE N SENHORA DA ESPERANÇA",
       "directionNames": {
-        "0": "橫琴澳方口岸 ↻ 路氹連貫公路",
-        "1": " ⇀ 橫琴澳方口岸 ↻ 路氹連貫公路"
+        "0": "澳門大學 ↻ 望德聖母灣",
+        "1": "澳門大學 ↻ 望德聖母灣"
       },
       "schedule": {
         "0": {
@@ -7399,20 +7399,20 @@
         }
       },
       "directionNamesPt": {
-        "0": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ ESTRADA DO ISTMO",
-        "1": "POSTO FRONTEIRIÇO MACAU - HENGQIN ↻ ESTRADA DO ISTMO"
+        "0": "UNIVERSIDADE DE MACAU ↻ BAÍA DE N SENHORA DA ESPERANÇA",
+        "1": "UNIVERSIDADE DE MACAU ↻ BAÍA DE N SENHORA DA ESPERANÇA"
       },
       "directionNamesEn": {
-        "0": "Hengqin Border Post ↻ Estrada da Peneira",
-        "1": " ⇀ 橫琴澳方口岸 ↻ Estrada da Peneira"
+        "0": "University of Macau ↻ Bay of Our Lady of Hope",
+        "1": "University of Macau ↻ Bay of Our Lady of Hope"
       }
     },
     "AP1": {
-      "nameCht": "關閘 ↻ 澳門機場",
-      "namePor": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
+      "nameCht": "青茂 ↻ 澳門機場",
+      "namePor": "QINGMAO ↻ AEROPORTO DE MACAU",
       "directionNames": {
-        "0": "關閘 ↻ 澳門機場",
-        "1": "關閘 ↻ 澳門機場"
+        "0": "青茂 ↻ 澳門機場",
+        "1": "青茂 ↻ 澳門機場"
       },
       "schedule": {
         "0": {
@@ -7525,12 +7525,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU",
-        "1": "PORTAS DO CERCO ↻ AEROPORTO DE MACAU"
+        "0": "QINGMAO ↻ AEROPORTO DE MACAU",
+        "1": "QINGMAO ↻ AEROPORTO DE MACAU"
       },
       "directionNamesEn": {
-        "0": "Portas do Cerco ↻ Macau Airport",
-        "1": "Portas do Cerco ↻ Macau Airport"
+        "0": "Qingmao ↻ Macau Airport",
+        "1": "Qingmao ↻ Macau Airport"
       }
     },
     "H1": {
@@ -8478,10 +8478,11 @@
       }
     },
     "65": {
-      "nameCht": "青洲總站 ↻ 青洲總站",
-      "namePor": "EST. ILHA VERDE ↻ EST. ILHA VERDE",
+      "nameCht": "牧場街 ↻ 司打口",
+      "namePor": "RUA DOS CURRAIS ↻ PRAÇA PONTE HORTA",
       "directionNames": {
-        "0": "青洲總站 ↻ 青洲總站"
+        "0": "牧場街 ↻ 司打口",
+        "1": "牧場街 ↻ 司打口"
       },
       "schedule": {
         "0": {
@@ -8490,12 +8491,12 @@
         }
       },
       "directionNamesPt": {
-        "0": "EST. ILHA VERDE ↻ EST. ILHA VERDE",
-        "1": "EST. ILHA VERDE ↻ EST. ILHA VERDE"
+        "0": "RUA DOS CURRAIS ↻ PRAÇA PONTE HORTA",
+        "1": "RUA DOS CURRAIS ↻ PRAÇA PONTE HORTA"
       },
       "directionNamesEn": {
-        "0": "Ilha Verde Terminal ↻ Ilha Verde Terminal",
-        "1": "Ilha Verde Terminal ↻ Ilha Verde Terminal"
+        "0": "Rua dos Currais ↻ Praça Ponte Horta",
+        "1": "Rua dos Currais ↻ Praça Ponte Horta"
       }
     },
     "101": {
@@ -8694,16 +8695,19 @@
       }
     },
     "2AS": {
-      "nameCht": "黑沙環 ↺ 亞馬喇前地",
-      "namePor": "AREIA PRETA ↺ PRAIA GRANDE",
+      "nameCht": "黑沙環衛生中心 ↺ 亞馬喇前地",
+      "namePor": "CENTRO DE SAÚDE DA AREIA PRETA ↺ PRAÇA FERREIRA AMARAL",
       "directionNames": {
-        "0": "黑沙環 ⇀ 亞馬喇前地"
+        "0": "黑沙環衛生中心 ↺ 亞馬喇前地",
+        "1": "黑沙環衛生中心 ↺ 亞馬喇前地"
       },
       "directionNamesEn": {
-        "0": "Areia Preta ⇀ Praia Grande"
+        "0": "Areia Preta Health Centre ↺ Praça Ferreira Amaral",
+        "1": "Areia Preta Health Centre ↺ Praça Ferreira Amaral"
       },
       "directionNamesPt": {
-        "0": "AREIA PRETA ⇀ PRAIA GRANDE"
+        "0": "CENTRO DE SAÚDE DA AREIA PRETA ↺ PRAÇA FERREIRA AMARAL",
+        "1": "CENTRO DE SAÚDE DA AREIA PRETA ↺ PRAÇA FERREIRA AMARAL"
       },
       "schedule": {
         "0": {
@@ -8721,7 +8725,7 @@
       }
     },
     "61": {
-      "nameCht": "媽閣交通樞紐 ⇌ 關閘總站",
+      "nameCht": "媽閣 ⇌ 關閘",
       "namePor": "BARRA ⇌ PORTAS DO CERCO",
       "directionNames": {
         "0": "媽閣 ⇀ 關閘",

@@ -5,7 +5,7 @@
     "samples": 5898233,
     "segments": 62198
   },
-  "generatedAt": "2026-08-24T17:15:06.696573Z",
+  "generatedAt": "2026-08-25T17:16:36.916070Z",
   "schemaVersion": 1,
   "validRoutes": [
     "1",
@@ -96,5 +96,5 @@
     "N5",
     "N6"
   ],
-  "version": "32754585024-1"
+  "version": "32875860972-1"
 }

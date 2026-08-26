@@ -1,8 +1,8 @@
 {
-  "version": "manual-complete-20260827T0225Z",
-  "generatedAt": "2026-08-26T18:27:24.190278Z",
+  "version": "manual-complete-both-20260827T0230Z",
+  "generatedAt": "2026-08-26T18:31:47.005432Z",
   "schemaVersion": 1,
-  "checksum": "sha256-05c847d7f6730a9065cae295f69571e7916b9b608b4d441ad933c5d108f80122",
+  "checksum": "sha256-71bac9e42684ae19381b94faf29c9031811738796b020823b1613417ea125854",
   "validRoutes": [
     "1",
     "10",
@@ -97,8 +97,8 @@
   ],
   "coverage": {
     "routes": 90,
-    "segments": 64872,
+    "segments": 65712,
     "samples": 5898233,
-    "provisionalEntries": 2674
+    "provisionalEntries": 3514
   }
 }

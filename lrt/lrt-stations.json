@@ -1,0 +1,199 @@
+[
+  {
+    "coordinates": [
+      113.5294126,
+      22.1836681
+    ],
+    "id": "Barra",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Barra",
+    "nameCn": "媽閣",
+    "namePt": "Barra"
+  },
+  {
+    "coordinates": [
+      113.5412974,
+      22.1578433
+    ],
+    "id": "Ocean",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Ocean",
+    "nameCn": "海洋",
+    "namePt": "Oceano"
+  },
+  {
+    "coordinates": [
+      113.5472418,
+      22.1570993
+    ],
+    "id": "Jockey_Club",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Jockey Club",
+    "nameCn": "馬會",
+    "namePt": "Jockey Clube"
+  },
+  {
+    "coordinates": [
+      113.5518827,
+      22.154363
+    ],
+    "id": "Stadium",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Stadium",
+    "nameCn": "運動場",
+    "namePt": "Estádio"
+  },
+  {
+    "coordinates": [
+      113.554546,
+      22.1508702
+    ],
+    "id": "Pai_Kok",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Pai Kok",
+    "nameCn": "排角",
+    "namePt": "Pai Kok"
+  },
+  {
+    "coordinates": [
+      113.5578552,
+      22.145089
+    ],
+    "id": "Cotai_West",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Cotai West",
+    "nameCn": "路氹西",
+    "namePt": "Cotai Oeste"
+  },
+  {
+    "coordinates": [
+      113.5598134,
+      22.1395199
+    ],
+    "id": "Lotus",
+    "lineIds": [
+      "taipa",
+      "hengqin"
+    ],
+    "name": "Lotus",
+    "nameCn": "蓮花",
+    "namePt": "Lótus"
+  },
+  {
+    "coordinates": [
+      113.5686363,
+      22.1424123
+    ],
+    "id": "East_Asian_Games",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "East Asian Games",
+    "nameCn": "東亞運",
+    "namePt": "Jogos da Ásia Oriental"
+  },
+  {
+    "coordinates": [
+      113.5691205,
+      22.1482642
+    ],
+    "id": "Cotai_East",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Cotai East",
+    "nameCn": "路氹東",
+    "namePt": "Cotai Leste"
+  },
+  {
+    "coordinates": [
+      113.5706473,
+      22.1530793
+    ],
+    "id": "MUST",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "MUST",
+    "nameCn": "科大",
+    "namePt": "UCTM"
+  },
+  {
+    "coordinates": [
+      113.5746484,
+      22.1594033
+    ],
+    "id": "Airport",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Airport",
+    "nameCn": "機場",
+    "namePt": "Aeroporto"
+  },
+  {
+    "coordinates": [
+      113.5738656,
+      22.1630091
+    ],
+    "id": "Taipa_Ferry_Terminal",
+    "lineIds": [
+      "taipa"
+    ],
+    "name": "Taipa Ferry Terminal",
+    "nameCn": "氹仔碼頭",
+    "namePt": "Terminal Marítimo da Taipa"
+  },
+  {
+    "coordinates": [
+      113.5633229,
+      22.1387063
+    ],
+    "id": "Union_Hospital",
+    "lineIds": [
+      "taipa",
+      "seac_pai_van"
+    ],
+    "name": "Union Hospital",
+    "nameCn": "協和醫院",
+    "namePt": "Hospital Union"
+  },
+  {
+    "coordinates": [
+      113.5615423,
+      22.1314211
+    ],
+    "id": "Seac_Pai_Van",
+    "lineIds": [
+      "seac_pai_van"
+    ],
+    "name": "Seac Pai Van",
+    "nameCn": "石排灣",
+    "namePt": "Seac Pai Van"
+  },
+  {
+    "coordinates": [
+      113.5449167,
+      22.1406595
+    ],
+    "id": "Hengqin",
+    "lineIds": [
+      "hengqin"
+    ],
+    "name": "Hengqin",
+    "nameCn": "橫琴",
+    "namePt": "Hengqin"
+  }
+]

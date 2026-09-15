@@ -1,0 +1,211 @@
+{
+  "files": {
+    "lrt-lines.json": {
+      "path": "lrt-lines.json",
+      "sha256": "d8006d372986c6b39bd97e935ca8d9ce9aa3f47ba4a295e0bfbd65d04694ae9d",
+      "size": 33990
+    },
+    "lrt-stations.json": {
+      "path": "lrt-stations.json",
+      "sha256": "83088e5641575e2793baffe9be0a6a7dd957765f7b64166d168240ad9013c6aa",
+      "size": 3247
+    },
+    "lrt-trips-friday.json": {
+      "path": "lrt-trips-friday.json",
+      "sha256": "e335116447e750035c961e32938a4114458b867cfaf640ebb31f1d5570995877",
+      "size": 886864
+    },
+    "lrt-trips-mon_thu.json": {
+      "path": "lrt-trips-mon_thu.json",
+      "sha256": "2f4c4c03e1c05a434d8ebee4295db3fca50dfd9e7a11941d243f9bb485bedc64",
+      "size": 853030
+    },
+    "lrt-trips-sat_sun.json": {
+      "path": "lrt-trips-sat_sun.json",
+      "sha256": "01b31e21fdb59ee9fe8c25757db7a6a8250711f6a11c4824f76ecb93df999bec",
+      "size": 836641
+    }
+  },
+  "generatedAt": "2026-09-15T19:55:04Z",
+  "ocr": {
+    "consensus": "dual-pass-structure-checked-row-consensus",
+    "engine": "pytesseract",
+    "passes": 2
+  },
+  "schemaVersion": 1,
+  "sourceAssets": [
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Airport__taipa__TT_AIR_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_AIR_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxp3a2.html",
+      "sha256": "0033be573963cf72411befd350823aabbde7d2f80fb441629f6f786d71e43f69",
+      "stationId": "Airport"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Barra__taipa__TT_BAR_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_BAR_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/lphpolkr.html",
+      "sha256": "653134abd47e822cf9ab29d23574e5e308e25b899f2cc304cd582f6c96499039",
+      "stationId": "Barra"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Cotai_East__taipa__TT_COE_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_COE_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxof24.html",
+      "sha256": "8093ee82425d7e0b9d1102c1d32e4e4d4f900e960b7632fb34bcc2be65485885",
+      "stationId": "Cotai_East"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Cotai_West__taipa__TT_COW_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_COW_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxn6qs.html",
+      "sha256": "e0027e8729523e62e84d6e8ad1ac8fe60c70ecb999fe6e3a86dddfcccd32daba",
+      "stationId": "Cotai_West"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "East_Asian_Games__taipa__TT_EAG_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_EAG_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxo4hs.html",
+      "sha256": "9f104446477498f1620d49732845225d27f91b8eeca22c8dba19da65b6a16812",
+      "stationId": "East_Asian_Games"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Hengqin__hengqin__TT_HQL_HQ_2026_09.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_HQL_HQ_2026_09.jpg",
+      "lineId": "hengqin",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxnr4t.html",
+      "sha256": "ee3e266693b523e856b877272fdc44d237a9fe4281e6c8cea1f9527d7aaf5513",
+      "stationId": "Hengqin"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Jockey_Club__taipa__TT_JOC_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_JOC_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxjnvb.html",
+      "sha256": "38e15aba422ce8e78a51fac70515d61d6251d456b97adc5dc35944047adeda19",
+      "stationId": "Jockey_Club"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Lotus__taipa__TT_LOT_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_LOT_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/m3mcu8fu.html",
+      "sha256": "3dbbfeda19394daa50ba57257b6d10e2a68b27bf6b17f3caaaad759365e60625",
+      "stationId": "Lotus"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Lotus__hengqin__TT_HQL_LOT_2026_09.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_HQL_LOT_2026_09.jpg",
+      "lineId": "hengqin",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/m3mcu8fu.html",
+      "sha256": "41a7b6dcf06eee74e415e7283d53406892d0ed715c12bab819909a17e41c4fd9",
+      "stationId": "Lotus"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "MUST__taipa__TT_MUST_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_MUST_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxottu.html",
+      "sha256": "cfb7fa69cb4819965289559bed3a4a5a77abfb18033af63c88b28a8f75bf1076",
+      "stationId": "MUST"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Ocean__taipa__TT_OCE_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_OCE_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxj8xr.html",
+      "sha256": "723e8dcdcd674471e710a3eb7101ebaa2a06c7bb508cdcd1f3496602d640025b",
+      "stationId": "Ocean"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Pai_Kok__taipa__TT_PAK_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_PAK_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxlnc3.html",
+      "sha256": "86caa63ad7df30a09d2ad7eda796fb5bf2928f7bc215459f79b23cc41e1dd55e",
+      "stationId": "Pai_Kok"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Seac_Pai_Van__seac_pai_van__TT_SPV_2026_09.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_SPV_2026_09.jpg",
+      "lineId": "seac_pai_van",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/m03bueit.html",
+      "sha256": "8d64151e264640b45666941ddd8a89c084fa610efc8339586c5cdde42d70d4b5",
+      "stationId": "Seac_Pai_Van"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Stadium__taipa__TT_STA_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_STA_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxlbxk.html",
+      "sha256": "c097a5c047e3027b3dca3bb070a84bca59c308687faac3b1468fca276289c305",
+      "stationId": "Stadium"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Taipa_Ferry_Terminal__taipa__TT_TFT_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_TFT_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/kblxpddy.html",
+      "sha256": "95b9c32df867b0715aa19468463c26e165f0021292d2b6ba5576528b3ab8a593",
+      "stationId": "Taipa_Ferry_Terminal"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Union_Hospital__taipa__TT_HU_2026_09_V2.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_HU_2026_09_V2.jpg",
+      "lineId": "taipa",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/m2naox9f.html",
+      "sha256": "f2144bed7553bd81809ef652769fcc1ea54ddd50a6196d3d0ed648f7d36ccb05",
+      "stationId": "Union_Hospital"
+    },
+    {
+      "effectiveAs": "2026-09",
+      "filename": "Union_Hospital__seac_pai_van__TT_SPV_HU_2026_09.jpg",
+      "heading": "",
+      "imageUrl": "https://www.mlm.com.mo/images/stations/TimeTable/2026_09/TT_SPV_HU_2026_09.jpg",
+      "lineId": "seac_pai_van",
+      "pageUrl": "https://www.mlm.com.mo/tc/station_locationDetail/article/m2naox9f.html",
+      "sha256": "3396a5881500ca883eabe973a6195f3e5d88ff9987776b3338e407681d275763",
+      "stationId": "Union_Hospital"
+    }
+  ],
+  "sourceUpdatedAt": "2026-09",
+  "sourceUrl": "https://www.mlm.com.mo/tc/route.html",
+  "version": "2026-09-028355cc29a0"
+}

@@ -239,7 +239,7 @@
         },
         "1": {
           "first": "06:00",
-          "last": "00:10",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:00",
@@ -305,15 +305,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             }
           }
         }
@@ -1069,7 +1069,7 @@
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:10",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:00",
@@ -1129,15 +1129,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "00:10"
+              "last": "20:00"
             }
           }
         }
@@ -1987,7 +1987,7 @@
       "schedule": {
         "0": {
           "first": "05:45",
-          "last": "01:10",
+          "last": "20:00",
           "periods": [
             {
               "s": "05:45",
@@ -2059,15 +2059,15 @@
           "hours": {
             "weekdays": {
               "first": "05:45",
-              "last": "01:10"
+              "last": "20:00"
             },
             "weekends": {
               "first": "05:45",
-              "last": "01:10"
+              "last": "20:00"
             },
             "holidays": {
               "first": "05:45",
-              "last": "01:10"
+              "last": "20:00"
             }
           }
         }
@@ -2331,7 +2331,7 @@
         },
         "1": {
           "first": "06:15",
-          "last": "00:00",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:15",
@@ -2403,15 +2403,15 @@
           "hours": {
             "weekdays": {
               "first": "06:15",
-              "last": "00:00"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:15",
-              "last": "00:00"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:15",
-              "last": "00:00"
+              "last": "20:00"
             }
           }
         }
@@ -2781,6 +2781,38 @@
         "1": "Jardins do Oceano ↻ Ká-Hó Fuel Depot"
       }
     },
+    "15T": {
+      "nameCht": "黑沙海灘 ↺ 蝴蝶谷大馬路",
+      "namePor": "PRAIA DE HAC SÁ ↺ AV. VALE DAS BORBOLETAS",
+      "directionNames": {
+        "0": "黑沙海灘 ↺ 蝴蝶谷大馬路",
+        "1": "黑沙海灘 ↺ 蝴蝶谷大馬路"
+      },
+      "directionNamesPt": {
+        "0": "PRAIA DE HAC SÁ ↺ AV. VALE DAS BORBOLETAS",
+        "1": "PRAIA DE HAC SÁ ↺ AV. VALE DAS BORBOLETAS"
+      },
+      "directionNamesEn": {
+        "0": "Hac Sa Beach ↺ Av. Vale das Borboletas",
+        "1": "Hac Sa Beach ↺ Av. Vale das Borboletas"
+      },
+      "schedule": {
+        "0": {
+          "first": "11:00",
+          "last": "19:30",
+          "periods": [
+            {"s": "11:00", "e": "15:00", "f": "12-22", "d": "weekends"},
+            {"s": "15:00", "e": "19:30", "f": "10-22", "d": "weekends"},
+            {"s": "11:00", "e": "15:00", "f": "12-22", "d": "holidays"},
+            {"s": "15:00", "e": "19:30", "f": "10-22", "d": "holidays"}
+          ],
+          "hours": {
+            "weekends": {"first": "11:00", "last": "19:30"},
+            "holidays": {"first": "11:00", "last": "19:30"}
+          }
+        }
+      }
+    },
     "16": {
       "nameCht": "牧場街 ↻ 下環街市",
       "namePor": "RUA DOS CURRAIS ↻ MERCADO DE S. LOURENÇO",
@@ -2791,7 +2823,7 @@
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "01:00",
+          "last": "22:30",
           "periods": [
             {
               "s": "06:00",
@@ -2875,15 +2907,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "22:30"
             },
             "weekends": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "22:30"
             },
             "holidays": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "22:30"
             }
           }
         }
@@ -2949,7 +2981,7 @@
       "schedule": {
         "0": {
           "first": "05:30",
-          "last": "00:50",
+          "last": "20:00",
           "periods": [
             {
               "s": "05:30",
@@ -3015,15 +3047,15 @@
           "hours": {
             "weekdays": {
               "first": "05:30",
-              "last": "00:50"
+              "last": "20:00"
             },
             "weekends": {
               "first": "05:30",
-              "last": "00:50"
+              "last": "20:00"
             },
             "holidays": {
               "first": "05:30",
-              "last": "00:50"
+              "last": "20:00"
             }
           }
         }
@@ -3035,6 +3067,22 @@
       "directionNamesEn": {
         "0": "Jardim de Camões ↻ Alameda Dr. Carlos d'Assumpção",
         "1": "Jardim de Camões ↻ Alameda Dr. Carlos d'Assumpção"
+      }
+    },
+    "17T": {
+      "nameCht": "關閘 ↺ 新勝街",
+      "namePor": "PORTAS DO CERCO ↺ R. TOMÁS VIEIRA",
+      "directionNames": {
+        "0": "關閘 ↺ 新勝街",
+        "1": "關閘 ↺ 新勝街"
+      },
+      "directionNamesEn": {
+        "0": "Barrier Gate ↺ Rua de Tomás Vieira",
+        "1": "Barrier Gate ↺ Rua de Tomás Vieira"
+      },
+      "directionNamesPt": {
+        "0": "PORTAS DO CERCO ↺ R. TOMÁS VIEIRA",
+        "1": "PORTAS DO CERCO ↺ R. TOMÁS VIEIRA"
       }
     },
     "17S": {
@@ -4253,7 +4301,7 @@
         },
         "1": {
           "first": "06:00",
-          "last": "01:00",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:00",
@@ -4319,15 +4367,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "01:00"
+              "last": "20:00"
             }
           }
         }
@@ -4951,7 +4999,7 @@
       "schedule": {
         "0": {
           "first": "05:40",
-          "last": "00:45",
+          "last": "20:00",
           "periods": [
             {
               "s": "05:40",
@@ -5023,15 +5071,15 @@
           "hours": {
             "weekdays": {
               "first": "05:40",
-              "last": "00:45"
+              "last": "20:00"
             },
             "weekends": {
               "first": "05:40",
-              "last": "00:45"
+              "last": "20:00"
             },
             "holidays": {
               "first": "05:40",
-              "last": "00:45"
+              "last": "20:00"
             }
           }
         }
@@ -5265,7 +5313,7 @@
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:00",
@@ -5331,15 +5379,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "20:00"
             }
           }
         }
@@ -5935,7 +5983,7 @@
       "schedule": {
         "0": {
           "first": "06:30",
-          "last": "23:30",
+          "last": "06:30",
           "periods": [
             {
               "s": "06:30",
@@ -5959,15 +6007,15 @@
           "hours": {
             "weekdays": {
               "first": "06:30",
-              "last": "23:30"
+              "last": "06:30"
             },
             "weekends": {
               "first": "06:30",
-              "last": "23:30"
+              "last": "06:30"
             },
             "holidays": {
               "first": "06:30",
-              "last": "23:30"
+              "last": "06:30"
             }
           }
         }
@@ -6465,7 +6513,7 @@
         },
         "1": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "19:00",
           "periods": [
             {
               "s": "06:00",
@@ -6543,15 +6591,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "19:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "19:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "19:00"
             }
           }
         }
@@ -6575,7 +6623,7 @@
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:30",
+          "last": "00:00",
           "periods": [
             {
               "s": "06:00",
@@ -6677,7 +6725,7 @@
       "schedule": {
         "0": {
           "first": "06:00",
-          "last": "00:00",
+          "last": "20:00",
           "periods": [
             {
               "s": "06:00",
@@ -6737,15 +6785,15 @@
           "hours": {
             "weekdays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "20:00"
             },
             "weekends": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "20:00"
             },
             "holidays": {
               "first": "06:00",
-              "last": "00:00"
+              "last": "06:00"
             }
           }
         }
@@ -6961,7 +7009,7 @@
       "schedule": {
         "0": {
           "first": "06:30",
-          "last": "00:00",
+          "last": "22:00",
           "periods": [
             {
               "s": "06:30",
@@ -7627,7 +7675,7 @@
       "schedule": {
         "0": {
           "first": "06:20",
-          "last": "21:30",
+          "last": "09:00",
           "periods": [
             {
               "s": "06:20",
@@ -7663,15 +7711,15 @@
           "hours": {
             "weekdays": {
               "first": "06:20",
-              "last": "21:30"
+              "last": "09:00"
             },
             "weekends": {
               "first": "06:20",
-              "last": "21:30"
+              "last": "09:00"
             },
             "holidays": {
               "first": "06:20",
-              "last": "21:30"
+              "last": "06:20"
             }
           }
         }
@@ -8353,7 +8401,7 @@
     },
     "N3": {
       "nameCht": "亞馬喇前地 ↻ 路環市區",
-      "namePor": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
+      "namePor": "PRAÇA FERREIRA AMARAL ↻ VILA DE COLOANE",
       "directionNames": {
         "0": "亞馬喇前地 ↻ 路環市區",
         "1": "亞馬喇前地 ↻ 路環市區"
@@ -8385,8 +8433,8 @@
         }
       },
       "directionNamesPt": {
-        "0": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE",
-        "1": "PRAÇA FERRIRA AMARAL ↻ VILA DE COLOANE"
+        "0": "PRAÇA FERREIRA AMARAL ↻ VILA DE COLOANE",
+        "1": "PRAÇA FERREIRA AMARAL ↻ VILA DE COLOANE"
       },
       "directionNamesEn": {
         "0": "Praça Ferreira Amaral ↻ Vila de Coloane",
@@ -8986,6 +9034,61 @@
             }
           ]
         }
+      }
+    },
+    "17S1": {
+      "nameCht": "澳門科學館臨時站 ⇀ 關閘廣場",
+      "namePor": "CENTRO DE CIÊNCIA DE MACAU ⇀ PORTAS DO CERCO",
+      "directionNames": {
+        "0": "澳門科學館臨時站 ⇀ 關閘廣場"
+      },
+      "directionNamesEn": {
+        "0": "Macao Science Center ⇀ Barrier Gate"
+      },
+      "directionNamesPt": {
+        "0": "CENTRO DE CIÊNCIA DE MACAU ⇀ PORTAS DO CERCO"
+      }
+    },
+    "26S": {
+      "nameCht": "旅遊塔/行車隧道 ⇀ 蝴蝶谷大馬路",
+      "namePor": "TORRE DE MACAU ⇀ AV. VALE DAS BORBOLETAS",
+      "directionNames": {
+        "0": "旅遊塔/行車隧道 ⇀ 蝴蝶谷大馬路"
+      },
+      "directionNamesEn": {
+        "0": "Macao Tower ⇀ Av. Vale das Borboletas"
+      },
+      "directionNamesPt": {
+        "0": "TORRE DE MACAU ⇀ AV. VALE DAS BORBOLETAS"
+      }
+    },
+    "3AS": {
+      "nameCht": "城市日前地 ⇀ 關閘廣場",
+      "namePor": "PRACETA 24 DE JUNHO ⇀ PORTAS DO CERCO",
+      "directionNames": {
+        "0": "城市日前地 ⇀ 關閘廣場"
+      },
+      "directionNamesEn": {
+        "0": "Praceta 24 de Junho ⇀ Barrier Gate"
+      },
+      "directionNamesPt": {
+        "0": "PRACETA 24 DE JUNHO ⇀ PORTAS DO CERCO"
+      }
+    },
+    "52S": {
+      "nameCht": "亞馬喇前地 ↻ 海洋花園／玫瑰苑",
+      "namePor": "PRAÇA FERREIRA AMARAL ↻ JARDINS DO OCEANO / ROSE COURT",
+      "directionNames": {
+        "0": "亞馬喇前地 ↻ 海洋花園／玫瑰苑",
+        "1": "亞馬喇前地 ↻ 海洋花園／玫瑰苑"
+      },
+      "directionNamesEn": {
+        "0": "Praça Ferreira Amaral ↻ Jardins do Oceano / Rose Court",
+        "1": "Praça Ferreira Amaral ↻ Jardins do Oceano / Rose Court"
+      },
+      "directionNamesPt": {
+        "0": "PRAÇA FERREIRA AMARAL ↻ JARDINS DO OCEANO / ROSE COURT",
+        "1": "PRAÇA FERREIRA AMARAL ↻ JARDINS DO OCEANO / ROSE COURT"
       }
     }
   }

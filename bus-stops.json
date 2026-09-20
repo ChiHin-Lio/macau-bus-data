@@ -641,7 +641,8 @@
       "59",
       "N3",
       "15T",
-      "52"
+      "52",
+      "26S"
     ],
     "nameEn": "AL. DA HARMONIA / EDF. IP HENG",
     "namePor": "AL. DA HARMONIA / EDF. IP HENG"
@@ -751,7 +752,8 @@
       22.128765170960506
     ],
     "routeIds": [
-      "51"
+      "51",
+      "26S"
     ],
     "namePor": "AV. VALE DAS BORBOLETAS / TERMINAL",
     "nameEn": "AV. VALE DAS BORBOLETAS / TERMINAL"
@@ -1153,7 +1155,8 @@
       22.21486011078283
     ],
     "routeIds": [
-      "17"
+      "17",
+      "17T"
     ],
     "namePor": "PORTAS DO CERCO / TERMINAL",
     "nameEn": "BARRIER GATE / TERMINAL"
@@ -1629,7 +1632,8 @@
       "18A",
       "18B",
       "19",
-      "26"
+      "26",
+      "17T"
     ],
     "nameEn": "C. AMARAL / HOSPITAL KIANG WU",
     "namePor": "C. AMARAL / HOSPITAL KIANG WU"
@@ -1643,7 +1647,8 @@
       22.198511167233544
     ],
     "routeIds": [
-      "17"
+      "17",
+      "17T"
     ],
     "nameEn": "R. TOMÁS VIEIRA",
     "namePor": "R. TOMÁS VIEIRA"
@@ -3127,7 +3132,8 @@
       "50",
       "52",
       "N3",
-      "N5"
+      "N5",
+      "52S"
     ],
     "namePor": "PRAÇA FERREIRA AMARAL",
     "nameEn": "PRAÇA FERREIRA AMARAL"
@@ -3989,7 +3995,8 @@
       "30X",
       "51A",
       "103",
-      "N1B"
+      "N1B",
+      "17S1"
     ],
     "nameEn": "R. NOVA AREIA PRETA/ EDF. KIN WA",
     "namePor": "R. NOVA AREIA PRETA/ EDF. KIN WA"
@@ -4552,7 +4559,8 @@
     "routeIds": [
       "3AX",
       "27",
-      "AP1"
+      "AP1",
+      "3AS"
     ],
     "nameEn": "AV. NORDESTE/ EDF. POLY TEX",
     "namePor": "AV. NORDESTE/ EDF. POLY TEX"
@@ -4572,7 +4580,8 @@
       "17S",
       "18A",
       "27",
-      "30X"
+      "30X",
+      "17S1"
     ],
     "nameEn": "R.CENTRAL DA AREIA PRETA/CENTRO DE SAÚDE DA AREIA PRETA",
     "namePor": "R.CENTRAL DA AREIA PRETA/CENTRO DE SAÚDE DA AREIA PRETA"
@@ -4742,7 +4751,8 @@
       "17",
       "17S",
       "102",
-      "N1B"
+      "N1B",
+      "17S1"
     ],
     "nameEn": "AV. AMIZADE / R. TERMINAL MARÍTIMO",
     "namePor": "AV. AMIZADE / R. TERMINAL MARÍTIMO"
@@ -4838,7 +4848,8 @@
       "101",
       "AP1",
       "MT3",
-      "51B"
+      "51B",
+      "3AS"
     ],
     "namePor": "LA MARINA",
     "nameEn": "LA MARINA"
@@ -5029,7 +5040,9 @@
       "12",
       "17",
       "17S",
-      "60"
+      "60",
+      "17S1",
+      "3AS"
     ],
     "nameEn": "AV. DR. SUN YAT-SEN/ SANDS",
     "namePor": "AV. DR. SUN YAT-SEN/ SANDS"
@@ -5265,7 +5278,8 @@
       "MT1",
       "MT2",
       "N1A",
-      "N2"
+      "N2",
+      "3AS"
     ],
     "namePor": "PRACETA 24 DE JUNHO",
     "nameEn": "PRACETA 24 DE JUNHO"
@@ -6104,7 +6118,8 @@
       "17S",
       "28B",
       "29",
-      "102"
+      "102",
+      "17S1"
     ],
     "nameEn": "R BEND / LABOUR AFFAIRS BUREAU",
     "namePor": "R BEND/DSAL"
@@ -6142,7 +6157,8 @@
       "17S",
       "18",
       "18B",
-      "102"
+      "102",
+      "17S1"
     ],
     "nameEn": "AV. NORDESTE  / NAM OU",
     "namePor": "AV. NORDESTE  / NAM OU"
@@ -6337,7 +6353,8 @@
       "30X",
       "103",
       "AP1",
-      "N1B"
+      "N1B",
+      "3AS"
     ],
     "nameEn": "R. NOVA AREIA PRETA/ NAM WA",
     "namePor": "R. NOVA AREIA PRETA/ NAM WA"
@@ -6780,11 +6797,7 @@
       22.206543363619893
     ],
     "routeIds": [
-      "2A",
-      "101",
-      "102",
-      "103",
-      "51B"
+      "103"
     ],
     "nameEn": "AV TAI ON",
     "namePor": "AV TAI ON"
@@ -6811,8 +6824,8 @@
     "name": "M803",
     "nameCn": "東城第三街",
     "coordinates": [
-      113.56831225415627,
-      22.20535538298945
+      113.56764861136459,
+      22.205160519644505
     ],
     "routeIds": [
       "2A"
@@ -6829,11 +6842,7 @@
       22.206016308826232
     ],
     "routeIds": [
-      "2A",
-      "101",
-      "102",
-      "103",
-      "51B"
+      "103"
     ],
     "nameEn": "EDF. TONG SENG",
     "namePor": "EDF. TONG SENG"
@@ -6999,7 +7008,9 @@
     ],
     "routeIds": [
       "27",
-      "AP1"
+      "AP1",
+      "17S1",
+      "3AS"
     ],
     "namePor": "PRAÇA DAS PORTAS DO CERCO",
     "nameEn": "Border Gate Plaza"
@@ -7341,8 +7352,8 @@
     "name": "T305",
     "nameCn": "城市大學",
     "coordinates": [
-      113.55638343230159,
-      22.163850386330846
+      113.55681738171333,
+      22.16427128405611
     ],
     "routeIds": [
       "11",
@@ -7566,7 +7577,8 @@
       "N2",
       "N3",
       "N5",
-      "N6"
+      "N6",
+      "26S"
     ],
     "namePor": "EDF. GREENVILLE",
     "nameEn": "EDF. GREENVILLE"
@@ -7630,7 +7642,8 @@
       "N2",
       "N3",
       "N5",
-      "N6"
+      "N6",
+      "26S"
     ],
     "namePor": "NOBRE CARVALHO / ARMAZEM CEM",
     "nameEn": "NOBRE CARVALHO/ ARMAZEM CEM"
@@ -7866,7 +7879,8 @@
       "72",
       "102",
       "MT3",
-      "N2"
+      "N2",
+      "26S"
     ],
     "namePor": "EDF. JARDIM DE VA POU",
     "nameEn": "EDF. JARDIM DE VA POU"
@@ -7917,7 +7931,8 @@
       "15",
       "26",
       "36",
-      "N5"
+      "N5",
+      "26S"
     ],
     "namePor": "ESTRADA GOV. A. OLIVEIRA",
     "nameEn": "ESTRADA GOV. A. OLIVEIRA"
@@ -8109,7 +8124,8 @@
       "37",
       "MT4",
       "MT5",
-      "N5"
+      "N5",
+      "26S"
     ],
     "namePor": "EDF. NAM SUN",
     "nameEn": "EDF. NAM SUN"
@@ -8223,7 +8239,8 @@
       "36",
       "MT2",
       "MT4",
-      "N5"
+      "N5",
+      "26S"
     ],
     "namePor": "CENTRO DE SAÚDE DOS JARDINS DO OCEANO",
     "nameEn": "CENTRO DE SAÚDE DOS JARDINS DO OCEANO"
@@ -8266,7 +8283,8 @@
       "72",
       "102",
       "MT3",
-      "N2"
+      "N2",
+      "26S"
     ],
     "namePor": "JARDIM CIDADE DAS FLORES",
     "nameEn": "GARDEN OF FLOWER CITY"
@@ -8623,7 +8641,8 @@
       "50",
       "102",
       "701X",
-      "N6"
+      "N6",
+      "26S"
     ],
     "namePor": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS",
     "nameEn": "AUTO-SILO DA ESTRADA FLOR DE LÓTUS"
@@ -8717,7 +8736,8 @@
       "MT4",
       "N3",
       "N6",
-      "51B"
+      "51B",
+      "26S"
     ],
     "namePor": "ROTUNDA FLOR DE LÓTUS",
     "nameEn": "ROTUNDA FLOR DE LÓTUS"
@@ -9073,7 +9093,8 @@
       "56",
       "MT4",
       "N3",
-      "51B"
+      "51B",
+      "26S"
     ],
     "nameEn": "EST. DO ISTMO/ C.O.D.",
     "namePor": "EST. DO ISTMO/ C.O.D."
@@ -9166,7 +9187,8 @@
       "56",
       "MT4",
       "N3",
-      "51B"
+      "51B",
+      "26S"
     ],
     "nameEn": "EST.DO ISTMO / LE JARDIN",
     "namePor": "EST.DO ISTMO / LE JARDIN"
@@ -9190,7 +9212,8 @@
       "56",
       "MT4",
       "N3",
-      "51B"
+      "51B",
+      "26S"
     ],
     "nameEn": "EST.DO ISTMO / LONDONER",
     "namePor": "EST.DO ISTMO / LONDONER"
@@ -10018,7 +10041,8 @@
       "73",
       "MT4",
       "N2",
-      "N3"
+      "N3",
+      "52S"
     ],
     "nameEn": "JARDINS DO OCEANO / ROSE COURT",
     "namePor": "JARDINS DO OCEANO / ROSE COURT"
@@ -10037,7 +10061,9 @@
       "73",
       "MT4",
       "N2",
-      "N3"
+      "N3",
+      "26S",
+      "52S"
     ],
     "nameEn": "PONTE DE SAI VAN / AV. DO OCEANO",
     "namePor": "PONTE DE SAI VAN / AV. DO OCEANO"
@@ -10514,5 +10540,102 @@
     ],
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DA TAIPA",
     "nameEn": "TAIPA FERRY TERMINAL"
+  },
+  {
+    "id": "TEMP11/1",
+    "name": "TEMP11/1",
+    "nameCn": "澳門科學館臨時站",
+    "coordinates": [
+      113.55673428009102,
+      22.187011574778563
+    ],
+    "routeIds": [
+      "17S1",
+      "3AS"
+    ],
+    "nameEn": "PARAGEM PROVISÓRIA DE CENTRO DE CIÊNCIA DE MACAU",
+    "namePor": "PARAGEM PROVISÓRIA DE CENTRO DE CIÊNCIA DE MACAU"
+  },
+  {
+    "id": "M182/2",
+    "name": "M182/2",
+    "nameCn": "旅遊塔/行車隧道",
+    "coordinates": [
+      113.53649497260302,
+      22.179941304862425
+    ],
+    "routeIds": [
+      "26S"
+    ],
+    "nameEn": "TORRE/ TÚNEL RODOVIÁRIOS",
+    "namePor": "TORRE/ TÚNEL RODOVIÁRIOS"
+  },
+  {
+    "id": "M807/1",
+    "name": "M807/1",
+    "nameCn": "東安樓",
+    "coordinates": [
+      113.5663532252054,
+      22.207353654714897
+    ],
+    "routeIds": [
+      "101",
+      "102",
+      "2A",
+      "51B"
+    ],
+    "nameEn": "EDF. TONG ON",
+    "namePor": "EDF. TONG ON"
+  },
+  {
+    "id": "TEAM_17/1",
+    "name": "TEAM_17/1",
+    "nameCn": "馬萬祺東城大廈臨時站",
+    "coordinates": [
+      113.56492397141595,
+      22.20515974698428
+    ],
+    "routeIds": [
+      "101",
+      "102",
+      "2A",
+      "51B"
+    ],
+    "nameEn": "Ma Man Kei / Edf. Tong Seng temporary",
+    "namePor": "Ma Man Kei / Edf. Tong Seng temporary"
+  },
+  {
+    "id": "M805/1",
+    "name": "M805/1",
+    "nameCn": "東強大廈",
+    "coordinates": [
+      113.56419692636523,
+      22.207035103519516
+    ],
+    "routeIds": [
+      "101",
+      "102",
+      "2A",
+      "51B"
+    ],
+    "nameEn": "EDF. TONG KEONG",
+    "namePor": "EDF. TONG KEONG"
+  },
+  {
+    "id": "M806/1",
+    "name": "M806/1",
+    "nameCn": "東富樓",
+    "coordinates": [
+      113.5642558805834,
+      22.207001777632794
+    ],
+    "routeIds": [
+      "101",
+      "102",
+      "2A",
+      "51B"
+    ],
+    "nameEn": "EDF. TONG FU",
+    "namePor": "EDF. TONG FU"
   }
 ]

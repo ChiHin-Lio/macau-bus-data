@@ -1,0 +1,1579 @@
+{
+  "schemaVersion": "mini_macau_bus_service_hours_v1",
+  "source": "https://raw.githubusercontent.com/asdfghj1237890/mini-macau/master/public/data/bus-routes.json",
+  "generatedAt": "2026-09-22T18:19:41Z",
+  "routes": {
+    "1": {
+      "nameCn": "關閘 - 媽閣",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:15"
+        }
+      }
+    },
+    "1A": {
+      "nameCn": "筷子基街 - 新口岸／科英布拉街",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:10"
+        }
+      }
+    },
+    "2": {
+      "nameCn": "永寧廣場 - 媽閣",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "00:00"
+        }
+      }
+    },
+    "2A": {
+      "nameCn": "東城第三街 - 亞馬喇前地",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "23:25"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "23:25"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "23:25"
+        }
+      }
+    },
+    "2AS": {
+      "nameCn": "黑沙環衛生中心 - 亞馬喇前地",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "09:30"
+        }
+      }
+    },
+    "3": {
+      "nameCn": "關閘 - 外港碼頭",
+      "frequencyMinutes": 6,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:15"
+        }
+      }
+    },
+    "3A": {
+      "nameCn": "司打口 - 關閘",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "05:40",
+          "last": "00:45"
+        },
+        "saturday": {
+          "first": "05:40",
+          "last": "00:45"
+        },
+        "sunday": {
+          "first": "05:40",
+          "last": "00:45"
+        }
+      }
+    },
+    "3AX": {
+      "nameCn": "城市日大馬路 - 關閘快線",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "20:00"
+        }
+      }
+    },
+    "3X": {
+      "nameCn": "關閘 - 亞馬喇前地快線",
+      "frequencyMinutes": 8,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "23:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "23:00"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "23:00"
+        }
+      }
+    },
+    "4": {
+      "nameCn": "筷子基 - 新馬路",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:10"
+        }
+      }
+    },
+    "5": {
+      "nameCn": "媽閣 - 華大新村",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "05:40",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "05:40",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "05:40",
+          "last": "01:00"
+        }
+      }
+    },
+    "5X": {
+      "nameCn": "青洲坊 - 皇朝快線",
+      "frequencyMinutes": 8,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "19:30"
+        }
+      }
+    },
+    "6A": {
+      "nameCn": "永寧廣場 - 山頂醫院",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "23:35"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "23:35"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "23:35"
+        }
+      }
+    },
+    "6B": {
+      "nameCn": "媽閣 - 山頂醫院",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "23:30"
+        }
+      }
+    },
+    "7": {
+      "nameCn": "東方明珠街 - 城市日前地",
+      "frequencyMinutes": 7,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "00:10"
+        }
+      }
+    },
+    "8": {
+      "nameCn": "工業園街 - 回力",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "06:10",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:10",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:10",
+          "last": "00:10"
+        }
+      }
+    },
+    "8A": {
+      "nameCn": "工業園街 - 亞馬喇前地",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "23:30"
+        }
+      }
+    },
+    "9": {
+      "nameCn": "牧場街 - 媽閣",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:10"
+        }
+      }
+    },
+    "9A": {
+      "nameCn": "青茂 - 旅遊塔",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:10"
+        }
+      }
+    },
+    "10": {
+      "nameCn": "關閘 - 媽閣",
+      "frequencyMinutes": 8,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:15"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:15"
+        }
+      }
+    },
+    "10B": {
+      "nameCn": "馬場大馬路 - 殷皇子馬路",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:15"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:15"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:15"
+        }
+      }
+    },
+    "11": {
+      "nameCn": "媽閣 - 氹仔官也街",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:10",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:10",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:10",
+          "last": "00:00"
+        }
+      }
+    },
+    "12": {
+      "nameCn": "永寧廣場 - 外港碼頭",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:50"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:50"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:50"
+        }
+      }
+    },
+    "15": {
+      "nameCn": "海洋花園 - 九澳油庫",
+      "frequencyMinutes": 24,
+      "windows": {
+        "weekdays": {
+          "first": "05:30",
+          "last": "19:30"
+        },
+        "saturday": {
+          "first": "05:30",
+          "last": "19:30"
+        },
+        "sunday": {
+          "first": "05:30",
+          "last": "19:30"
+        }
+      }
+    },
+    "15T": {
+      "nameCn": "黑沙海灘 - 蝴蝶谷大馬路臨時線",
+      "frequencyMinutes": 16,
+      "windows": {
+        "saturday": {
+          "first": "11:00",
+          "last": "19:30"
+        },
+        "sunday": {
+          "first": "11:00",
+          "last": "19:30"
+        }
+      }
+    },
+    "16": {
+      "nameCn": "牧場街 - 下環街市",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:00"
+        }
+      }
+    },
+    "16S": {
+      "nameCn": "牧場街 - 媽閣",
+      "frequencyMinutes": 18,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "20:00"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "20:00"
+        }
+      }
+    },
+    "17": {
+      "nameCn": "白鴿巢 - 宋玉生廣場",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "05:30",
+          "last": "00:50"
+        },
+        "saturday": {
+          "first": "05:30",
+          "last": "00:50"
+        },
+        "sunday": {
+          "first": "05:30",
+          "last": "00:50"
+        }
+      }
+    },
+    "17S": {
+      "nameCn": "新口岸／科英布拉街 - 關閘",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:45",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "06:45",
+          "last": "20:00"
+        }
+      }
+    },
+    "18": {
+      "nameCn": "牧場街 - 媽閣",
+      "frequencyMinutes": 19,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:10"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:10"
+        }
+      }
+    },
+    "18A": {
+      "nameCn": "東方明珠街 - 新馬路",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "06:20",
+          "last": "23:40"
+        },
+        "saturday": {
+          "first": "06:20",
+          "last": "23:40"
+        },
+        "sunday": {
+          "first": "06:20",
+          "last": "23:40"
+        }
+      }
+    },
+    "18B": {
+      "nameCn": "永定街 - 媽閣",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "22:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "22:00"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "22:00"
+        }
+      }
+    },
+    "19": {
+      "nameCn": "永寧廣場 - 新馬路",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "00:00"
+        }
+      }
+    },
+    "21A": {
+      "nameCn": "媽閣 - 九澳油庫",
+      "frequencyMinutes": 23,
+      "windows": {
+        "weekdays": {
+          "first": "06:20",
+          "last": "00:30"
+        },
+        "saturday": {
+          "first": "06:20",
+          "last": "00:30"
+        },
+        "sunday": {
+          "first": "06:20",
+          "last": "00:30"
+        }
+      }
+    },
+    "22": {
+      "nameCn": "祐漢第二街 - 柯維納馬路",
+      "frequencyMinutes": 8,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "00:10"
+        }
+      }
+    },
+    "23": {
+      "nameCn": "青洲 - 旅遊塔",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "23:30"
+        }
+      }
+    },
+    "25": {
+      "nameCn": "關閘 - 路環市區",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:15"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:15"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:15"
+        }
+      }
+    },
+    "25AX": {
+      "nameCn": "蝴蝶谷大馬路 - 關閘快線",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "19:00"
+        }
+      }
+    },
+    "25B": {
+      "nameCn": "關閘 - 橫琴澳方口岸",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:00"
+        }
+      }
+    },
+    "25BS": {
+      "nameCn": "橫琴澳方口岸 - 望德聖母灣",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "19:00"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "19:00"
+        }
+      }
+    },
+    "26": {
+      "nameCn": "筷子基北灣 - 路環市區",
+      "frequencyMinutes": 22,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:30"
+        }
+      }
+    },
+    "26A": {
+      "nameCn": "筷子基北灣 - 黑沙海灘",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:00"
+        }
+      }
+    },
+    "27": {
+      "nameCn": "望廈 - 青洲",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "28A": {
+      "nameCn": "外港碼頭 - 柯維納馬路",
+      "frequencyMinutes": 15,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "00:10"
+        }
+      }
+    },
+    "28B": {
+      "nameCn": "青洲 - 媽閣",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:15",
+          "last": "23:45"
+        },
+        "saturday": {
+          "first": "06:15",
+          "last": "23:45"
+        },
+        "sunday": {
+          "first": "06:15",
+          "last": "23:45"
+        }
+      }
+    },
+    "28C": {
+      "nameCn": "回力 - 騎士馬路",
+      "frequencyMinutes": 14,
+      "windows": {
+        "weekdays": {
+          "first": "05:40",
+          "last": "00:45"
+        },
+        "saturday": {
+          "first": "05:40",
+          "last": "00:45"
+        },
+        "sunday": {
+          "first": "05:40",
+          "last": "00:45"
+        }
+      }
+    },
+    "29": {
+      "nameCn": "城市日前地 - 青洲",
+      "frequencyMinutes": 14,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "20:00"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "20:00"
+        }
+      }
+    },
+    "30": {
+      "nameCn": "青洲坊 - 氹仔中央公園",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:10"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:10"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:10"
+        }
+      }
+    },
+    "30X": {
+      "nameCn": "關閘 - 望德聖母灣快線",
+      "frequencyMinutes": 7,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "20:00"
+        }
+      }
+    },
+    "32": {
+      "nameCn": "筷子基 - 旅遊塔",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "33": {
+      "nameCn": "筷子基 - 柯維納馬路",
+      "frequencyMinutes": 7,
+      "windows": {
+        "weekdays": {
+          "first": "05:30",
+          "last": "00:30"
+        },
+        "saturday": {
+          "first": "05:30",
+          "last": "00:30"
+        },
+        "sunday": {
+          "first": "05:30",
+          "last": "00:30"
+        }
+      }
+    },
+    "34": {
+      "nameCn": "青洲坊 - 海洋花園",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:00"
+        }
+      }
+    },
+    "35": {
+      "nameCn": "蘇利安圓形地 - 澳門協和醫院",
+      "frequencyMinutes": 20,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "23:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "23:00"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "23:00"
+        }
+      }
+    },
+    "36": {
+      "nameCn": "蘇利安圓形地 - 澳門機場",
+      "frequencyMinutes": 20,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "23:50"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "23:50"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "23:50"
+        }
+      }
+    },
+    "37": {
+      "nameCn": "松樹尾 - 信安馬路",
+      "frequencyMinutes": 18,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "23:30"
+        }
+      }
+    },
+    "39": {
+      "nameCn": "新口岸／科英布拉街 - 湖畔大廈",
+      "frequencyMinutes": 15,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "50": {
+      "nameCn": "城市日前地 - 路環市區",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "21:45"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "21:45"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "21:45"
+        }
+      }
+    },
+    "50B": {
+      "nameCn": "城市日前地 - 駕考中心",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "20:30"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "20:30"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "20:30"
+        }
+      }
+    },
+    "51": {
+      "nameCn": "蝴蝶谷大馬路 - 關閘",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "05:30",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "05:30",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "05:30",
+          "last": "01:00"
+        }
+      }
+    },
+    "51A": {
+      "nameCn": "海擎天 - 蝴蝶谷大馬路",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "51B": {
+      "nameCn": "蝴蝶谷大馬路 - 關閘",
+      "frequencyMinutes": 9,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "20:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "20:00"
+        }
+      }
+    },
+    "52": {
+      "nameCn": "蝴蝶谷大馬路 - 亞馬喇前地",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "55": {
+      "nameCn": "蝴蝶谷大馬路 - 司打口",
+      "frequencyMinutes": 19,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "56": {
+      "nameCn": "蝴蝶谷大馬路 - 高士德",
+      "frequencyMinutes": 17,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "59": {
+      "nameCn": "關閘 - 聯生圓形地",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "06:10",
+          "last": "20:10"
+        },
+        "saturday": {
+          "first": "06:10",
+          "last": "20:10"
+        },
+        "sunday": {
+          "first": "06:10",
+          "last": "20:10"
+        }
+      }
+    },
+    "60": {
+      "nameCn": "外港碼頭 - 司打口",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:45"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:45"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:45"
+        }
+      }
+    },
+    "61": {
+      "nameCn": "媽閣 - 關閘",
+      "frequencyMinutes": 15,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:30"
+        }
+      }
+    },
+    "65": {
+      "nameCn": "牧場街 - 司打口",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:30"
+        }
+      }
+    },
+    "71": {
+      "nameCn": "澳門大學 - 亞馬喇前地",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "22:00"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "22:00"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "22:00"
+        }
+      }
+    },
+    "71S": {
+      "nameCn": "澳門大學 - 俾若翰街／快富樓",
+      "frequencyMinutes": 37,
+      "windows": {
+        "weekdays": {
+          "first": "07:35",
+          "last": "09:10"
+        }
+      }
+    },
+    "72": {
+      "nameCn": "澳門大學 - 湖畔大廈",
+      "frequencyMinutes": 15,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:15"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:15"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:15"
+        }
+      }
+    },
+    "73": {
+      "nameCn": "澳門大學 - 黑沙環衛生中心",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "00:10"
+        },
+        "saturday": {
+          "first": "06:30",
+          "last": "00:10"
+        },
+        "sunday": {
+          "first": "06:30",
+          "last": "00:10"
+        }
+      }
+    },
+    "101": {
+      "nameCn": "港珠澳大橋邊檢大樓 - 亞馬喇前地",
+      "frequencyMinutes": 13,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "23:50"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "23:50"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "23:50"
+        }
+      }
+    },
+    "102": {
+      "nameCn": "港珠澳大橋邊檢大樓 - 橫琴澳方口岸",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "103": {
+      "nameCn": "氹仔客運碼頭 - 祐漢",
+      "frequencyMinutes": 12,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "23:30"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "23:30"
+        }
+      }
+    },
+    "701X": {
+      "nameCn": "澳門大學 - 望德聖母灣快線",
+      "frequencyMinutes": 19,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "23:35"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "23:35"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "23:35"
+        }
+      }
+    },
+    "701XS": {
+      "nameCn": "澳門大學 - 橫琴澳方口岸快線",
+      "frequencyMinutes": 18,
+      "windows": {
+        "weekdays": {
+          "first": "18:00",
+          "last": "19:30"
+        }
+      }
+    },
+    "AP1": {
+      "nameCn": "青茂 - 澳門機場",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "06:00",
+          "last": "01:20"
+        },
+        "saturday": {
+          "first": "06:00",
+          "last": "01:20"
+        },
+        "sunday": {
+          "first": "06:00",
+          "last": "01:20"
+        }
+      }
+    },
+    "H1": {
+      "nameCn": "山頂醫院 - 水坑尾",
+      "frequencyMinutes": 17,
+      "windows": {
+        "weekdays": {
+          "first": "07:30",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "07:30",
+          "last": "20:30"
+        },
+        "sunday": {
+          "first": "07:30",
+          "last": "20:30"
+        }
+      }
+    },
+    "H2": {
+      "nameCn": "俾若翰街／快富樓 - 山頂醫院",
+      "frequencyMinutes": 28,
+      "windows": {
+        "weekdays": {
+          "first": "06:30",
+          "last": "20:00"
+        }
+      }
+    },
+    "H3": {
+      "nameCn": "蝴蝶谷大馬路 - 山頂醫院",
+      "frequencyMinutes": 17,
+      "windows": {
+        "weekdays": {
+          "first": "06:20",
+          "last": "21:30"
+        },
+        "saturday": {
+          "first": "06:20",
+          "last": "21:30"
+        },
+        "sunday": {
+          "first": "06:20",
+          "last": "21:30"
+        }
+      }
+    },
+    "MT1": {
+      "nameCn": "城市日前地 - 澳門機場",
+      "frequencyMinutes": 14,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "00:00"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "00:00"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "00:00"
+        }
+      }
+    },
+    "MT2": {
+      "nameCn": "城市日前地 - 氹仔中央公園",
+      "frequencyMinutes": 17,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "21:45"
+        },
+        "saturday": {
+          "first": "07:00",
+          "last": "21:45"
+        },
+        "sunday": {
+          "first": "07:00",
+          "last": "21:45"
+        }
+      }
+    },
+    "MT3": {
+      "nameCn": "望廈 - 望德聖母灣",
+      "frequencyMinutes": 14,
+      "windows": {
+        "weekdays": {
+          "first": "06:50",
+          "last": "20:30"
+        },
+        "saturday": {
+          "first": "06:50",
+          "last": "20:30"
+        },
+        "sunday": {
+          "first": "06:50",
+          "last": "20:30"
+        }
+      }
+    },
+    "MT4": {
+      "nameCn": "關閘 - 氹仔客運碼頭",
+      "frequencyMinutes": 11,
+      "windows": {
+        "weekdays": {
+          "first": "05:45",
+          "last": "01:00"
+        },
+        "saturday": {
+          "first": "05:45",
+          "last": "01:00"
+        },
+        "sunday": {
+          "first": "05:45",
+          "last": "01:00"
+        }
+      }
+    },
+    "MT5": {
+      "nameCn": "湖畔大廈 - 皇朝",
+      "frequencyMinutes": 10,
+      "windows": {
+        "weekdays": {
+          "first": "07:00",
+          "last": "21:00"
+        }
+      }
+    },
+    "N1A": {
+      "nameCn": "筷子基北灣 - 亞馬喇前地深宵線",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    },
+    "N1B": {
+      "nameCn": "筷子基北灣 - 亞馬喇前地深宵線",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    },
+    "N2": {
+      "nameCn": "筷子基北灣 - 氹仔客運碼頭深宵線",
+      "frequencyMinutes": 16,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    },
+    "N3": {
+      "nameCn": "亞馬喇前地 - 黑沙海灘深宵線",
+      "frequencyMinutes": 22,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    },
+    "N5": {
+      "nameCn": "亞馬喇前地 - 蝴蝶谷大馬路深宵線",
+      "frequencyMinutes": 22,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    },
+    "N6": {
+      "nameCn": "澳門大學 - 科技大學深宵線",
+      "frequencyMinutes": 30,
+      "windows": {
+        "weekdays": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "saturday": {
+          "first": "00:00",
+          "last": "06:00"
+        },
+        "sunday": {
+          "first": "00:00",
+          "last": "06:00"
+        }
+      }
+    }
+  }
+}

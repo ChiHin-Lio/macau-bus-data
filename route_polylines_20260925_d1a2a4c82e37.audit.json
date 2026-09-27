@@ -1,0 +1,3167 @@
+{
+  "candidate": {
+    "directionCount": 123,
+    "routeCount": 101,
+    "routePairs": [
+      "101:0",
+      "101XS:0",
+      "102:0",
+      "102:1",
+      "103:0",
+      "10:0",
+      "10:1",
+      "10B:0",
+      "11:0",
+      "12:0",
+      "15:0",
+      "15T:0",
+      "16:0",
+      "16S:0",
+      "17:0",
+      "17S1:0",
+      "17S:0",
+      "17S:1",
+      "17T:0",
+      "18:0",
+      "18:1",
+      "18A:0",
+      "18B:0",
+      "18B:1",
+      "19:0",
+      "1:0",
+      "1:1",
+      "1A:0",
+      "1A:1",
+      "21A:0",
+      "21A:1",
+      "21AT:0",
+      "22:0",
+      "23:0",
+      "25:0",
+      "25AX:0",
+      "25B:0",
+      "25B:1",
+      "25BS:0",
+      "26:0",
+      "26A:0",
+      "26A:1",
+      "26AT:0",
+      "26S:0",
+      "27:0",
+      "28A:0",
+      "28B:0",
+      "28C:0",
+      "29:0",
+      "2:0",
+      "2:1",
+      "2A:0",
+      "2AS:0",
+      "30:0",
+      "30X:0",
+      "32:0",
+      "33:0",
+      "34:0",
+      "34:1",
+      "35:0",
+      "36:0",
+      "37:0",
+      "39:0",
+      "3:0",
+      "3:1",
+      "3A:0",
+      "3AS:0",
+      "3AX:0",
+      "3BX:0",
+      "3BX:1",
+      "3X:0",
+      "4:0",
+      "50:0",
+      "50B:0",
+      "51:0",
+      "51A:0",
+      "51A:1",
+      "51B:0",
+      "52:0",
+      "52S:0",
+      "55:0",
+      "56:0",
+      "59:0",
+      "59:1",
+      "5:0",
+      "5X:0",
+      "60:0",
+      "61:0",
+      "61:1",
+      "65:0",
+      "6A:0",
+      "6B:0",
+      "701X:0",
+      "701XS:0",
+      "71:0",
+      "71S:0",
+      "71S:1",
+      "72:0",
+      "73:0",
+      "7:0",
+      "7:1",
+      "8:0",
+      "8:1",
+      "8A:0",
+      "9:0",
+      "9A:0",
+      "AP1:0",
+      "H1:0",
+      "H2:0",
+      "H3:0",
+      "MT1:0",
+      "MT2:0",
+      "MT3:0",
+      "MT4:0",
+      "MT4:1",
+      "MT5:0",
+      "N1A:0",
+      "N1B:0",
+      "N2:0",
+      "N2:1",
+      "N3:0",
+      "N5:0",
+      "N6:0"
+    ],
+    "runtimeFormat": "route -> direction -> [longitude, latitude]",
+    "sourceOnly": true,
+    "sourceVariants": [
+      {
+        "coordinateCount": 1225,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 223,
+        "routePair": "101:0",
+        "sourceDirection": "C",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 1094,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 122,
+        "routePair": "101XS:0",
+        "sourceDirection": "C",
+        "stopCount": 8
+      },
+      {
+        "coordinateCount": 1216,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 175,
+        "routePair": "102:0",
+        "sourceDirection": "A",
+        "stopCount": 24
+      },
+      {
+        "coordinateCount": 1235,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 192,
+        "routePair": "102:1",
+        "sourceDirection": "B",
+        "stopCount": 20
+      },
+      {
+        "coordinateCount": 1158,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 110,
+        "routePair": "103:0",
+        "sourceDirection": "C",
+        "stopCount": 13
+      },
+      {
+        "coordinateCount": 741,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 128,
+        "routePair": "10:0",
+        "sourceDirection": "A",
+        "stopCount": 21
+      },
+      {
+        "coordinateCount": 695,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 144,
+        "routePair": "10:1",
+        "sourceDirection": "B",
+        "stopCount": 19
+      },
+      {
+        "coordinateCount": 892,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 167,
+        "routePair": "10B:0",
+        "sourceDirection": "C",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 1668,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 286,
+        "routePair": "11:0",
+        "sourceDirection": "C",
+        "stopCount": 42
+      },
+      {
+        "coordinateCount": 1249,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 200,
+        "routePair": "12:0",
+        "sourceDirection": "C",
+        "stopCount": 34
+      },
+      {
+        "coordinateCount": 1784,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 252,
+        "routePair": "15:0",
+        "sourceDirection": "C",
+        "stopCount": 40
+      },
+      {
+        "coordinateCount": 702,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 82,
+        "routePair": "15T:0",
+        "sourceDirection": "C",
+        "stopCount": 10
+      },
+      {
+        "coordinateCount": 730,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 156,
+        "routePair": "16:0",
+        "sourceDirection": "C",
+        "stopCount": 27
+      },
+      {
+        "coordinateCount": 741,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 170,
+        "routePair": "16S:0",
+        "sourceDirection": "C",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 879,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 180,
+        "routePair": "17:0",
+        "sourceDirection": "C",
+        "stopCount": 30
+      },
+      {
+        "coordinateCount": 433,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 51,
+        "routePair": "17S1:0",
+        "sourceDirection": "D",
+        "stopCount": 8
+      },
+      {
+        "coordinateCount": 446,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 74,
+        "routePair": "17S:0",
+        "sourceDirection": "A",
+        "stopCount": 9
+      },
+      {
+        "coordinateCount": 489,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 70,
+        "routePair": "17S:1",
+        "sourceDirection": "B",
+        "stopCount": 12
+      },
+      {
+        "coordinateCount": 521,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 110,
+        "routePair": "17T:0",
+        "sourceDirection": "C",
+        "stopCount": 4
+      },
+      {
+        "coordinateCount": 978,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 145,
+        "routePair": "18:0",
+        "sourceDirection": "A",
+        "stopCount": 23
+      },
+      {
+        "coordinateCount": 746,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 129,
+        "routePair": "18:1",
+        "sourceDirection": "B",
+        "stopCount": 22
+      },
+      {
+        "coordinateCount": 549,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 109,
+        "routePair": "18A:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 691,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 102,
+        "routePair": "18B:0",
+        "sourceDirection": "A",
+        "stopCount": 15
+      },
+      {
+        "coordinateCount": 606,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 116,
+        "routePair": "18B:1",
+        "sourceDirection": "B",
+        "stopCount": 20
+      },
+      {
+        "coordinateCount": 553,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 116,
+        "routePair": "19:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 438,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 92,
+        "routePair": "1:0",
+        "sourceDirection": "A",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 467,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 91,
+        "routePair": "1:1",
+        "sourceDirection": "B",
+        "stopCount": 13
+      },
+      {
+        "coordinateCount": 512,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 116,
+        "routePair": "1A:0",
+        "sourceDirection": "A",
+        "stopCount": 17
+      },
+      {
+        "coordinateCount": 339,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 79,
+        "routePair": "1A:1",
+        "sourceDirection": "B",
+        "stopCount": 12
+      },
+      {
+        "coordinateCount": 1609,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 216,
+        "routePair": "21A:0",
+        "sourceDirection": "A",
+        "stopCount": 38
+      },
+      {
+        "coordinateCount": 1446,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 197,
+        "routePair": "21A:1",
+        "sourceDirection": "B",
+        "stopCount": 40
+      },
+      {
+        "coordinateCount": 1430,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 228,
+        "routePair": "21AT:0",
+        "sourceDirection": "C",
+        "stopCount": 10
+      },
+      {
+        "coordinateCount": 1294,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 284,
+        "routePair": "22:0",
+        "sourceDirection": "C",
+        "stopCount": 39
+      },
+      {
+        "coordinateCount": 1374,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 248,
+        "routePair": "23:0",
+        "sourceDirection": "C",
+        "stopCount": 40
+      },
+      {
+        "coordinateCount": 2013,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 371,
+        "routePair": "25:0",
+        "sourceDirection": "C",
+        "stopCount": 50
+      },
+      {
+        "coordinateCount": 1459,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 261,
+        "routePair": "25AX:0",
+        "sourceDirection": "C",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 1066,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 196,
+        "routePair": "25B:0",
+        "sourceDirection": "A",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 1099,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 240,
+        "routePair": "25B:1",
+        "sourceDirection": "B",
+        "stopCount": 26
+      },
+      {
+        "coordinateCount": 595,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 97,
+        "routePair": "25BS:0",
+        "sourceDirection": "C",
+        "stopCount": 12
+      },
+      {
+        "coordinateCount": 3142,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 531,
+        "routePair": "26:0",
+        "sourceDirection": "C",
+        "stopCount": 76
+      },
+      {
+        "coordinateCount": 1195,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 221,
+        "routePair": "26A:0",
+        "sourceDirection": "A",
+        "stopCount": 38
+      },
+      {
+        "coordinateCount": 1190,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 212,
+        "routePair": "26A:1",
+        "sourceDirection": "B",
+        "stopCount": 38
+      },
+      {
+        "coordinateCount": 915,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 182,
+        "routePair": "26AT:0",
+        "sourceDirection": "C",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 856,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 146,
+        "routePair": "26S:0",
+        "sourceDirection": "D",
+        "stopCount": 17
+      },
+      {
+        "coordinateCount": 1090,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 207,
+        "routePair": "27:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 1226,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 248,
+        "routePair": "28A:0",
+        "sourceDirection": "C",
+        "stopCount": 31
+      },
+      {
+        "coordinateCount": 1394,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 220,
+        "routePair": "28B:0",
+        "sourceDirection": "C",
+        "stopCount": 47
+      },
+      {
+        "coordinateCount": 988,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 186,
+        "routePair": "28C:0",
+        "sourceDirection": "C",
+        "stopCount": 36
+      },
+      {
+        "coordinateCount": 1322,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 264,
+        "routePair": "29:0",
+        "sourceDirection": "C",
+        "stopCount": 34
+      },
+      {
+        "coordinateCount": 566,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 101,
+        "routePair": "2:0",
+        "sourceDirection": "A",
+        "stopCount": 19
+      },
+      {
+        "coordinateCount": 660,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 127,
+        "routePair": "2:1",
+        "sourceDirection": "B",
+        "stopCount": 19
+      },
+      {
+        "coordinateCount": 1182,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 172,
+        "routePair": "2A:0",
+        "sourceDirection": "C",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 389,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 66,
+        "routePair": "2AS:0",
+        "sourceDirection": "C",
+        "stopCount": 6
+      },
+      {
+        "coordinateCount": 1502,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 274,
+        "routePair": "30:0",
+        "sourceDirection": "C",
+        "stopCount": 37
+      },
+      {
+        "coordinateCount": 1053,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 155,
+        "routePair": "30X:0",
+        "sourceDirection": "C",
+        "stopCount": 19
+      },
+      {
+        "coordinateCount": 1228,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 248,
+        "routePair": "32:0",
+        "sourceDirection": "C",
+        "stopCount": 32
+      },
+      {
+        "coordinateCount": 1066,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 247,
+        "routePair": "33:0",
+        "sourceDirection": "C",
+        "stopCount": 38
+      },
+      {
+        "coordinateCount": 796,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 139,
+        "routePair": "34:0",
+        "sourceDirection": "A",
+        "stopCount": 22
+      },
+      {
+        "coordinateCount": 780,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 151,
+        "routePair": "34:1",
+        "sourceDirection": "B",
+        "stopCount": 18
+      },
+      {
+        "coordinateCount": 1728,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 268,
+        "routePair": "35:0",
+        "sourceDirection": "C",
+        "stopCount": 40
+      },
+      {
+        "coordinateCount": 1351,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 204,
+        "routePair": "36:0",
+        "sourceDirection": "C",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 1040,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 131,
+        "routePair": "37:0",
+        "sourceDirection": "C",
+        "stopCount": 21
+      },
+      {
+        "coordinateCount": 957,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 135,
+        "routePair": "39:0",
+        "sourceDirection": "C",
+        "stopCount": 15
+      },
+      {
+        "coordinateCount": 482,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 115,
+        "routePair": "3:0",
+        "sourceDirection": "A",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 403,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 78,
+        "routePair": "3:1",
+        "sourceDirection": "B",
+        "stopCount": 15
+      },
+      {
+        "coordinateCount": 1655,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 271,
+        "routePair": "3A:0",
+        "sourceDirection": "C",
+        "stopCount": 36
+      },
+      {
+        "coordinateCount": 456,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 57,
+        "routePair": "3AS:0",
+        "sourceDirection": "D",
+        "stopCount": 7
+      },
+      {
+        "coordinateCount": 821,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 131,
+        "routePair": "3AX:0",
+        "sourceDirection": "C",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 244,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 53,
+        "routePair": "3BX:0",
+        "sourceDirection": "A",
+        "stopCount": 2
+      },
+      {
+        "coordinateCount": 344,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 61,
+        "routePair": "3BX:1",
+        "sourceDirection": "B",
+        "stopCount": 2
+      },
+      {
+        "coordinateCount": 656,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 178,
+        "routePair": "3X:0",
+        "sourceDirection": "C",
+        "stopCount": 16
+      },
+      {
+        "coordinateCount": 297,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 85,
+        "routePair": "4:0",
+        "sourceDirection": "C",
+        "stopCount": 15
+      },
+      {
+        "coordinateCount": 2398,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 365,
+        "routePair": "50:0",
+        "sourceDirection": "C",
+        "stopCount": 45
+      },
+      {
+        "coordinateCount": 1176,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 181,
+        "routePair": "50B:0",
+        "sourceDirection": "C",
+        "stopCount": 24
+      },
+      {
+        "coordinateCount": 1235,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 190,
+        "routePair": "51:0",
+        "sourceDirection": "C",
+        "stopCount": 20
+      },
+      {
+        "coordinateCount": 897,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 187,
+        "routePair": "51A:0",
+        "sourceDirection": "A",
+        "stopCount": 21
+      },
+      {
+        "coordinateCount": 753,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 140,
+        "routePair": "51A:1",
+        "sourceDirection": "B",
+        "stopCount": 18
+      },
+      {
+        "coordinateCount": 1615,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 206,
+        "routePair": "51B:0",
+        "sourceDirection": "C",
+        "stopCount": 30
+      },
+      {
+        "coordinateCount": 1221,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 197,
+        "routePair": "52:0",
+        "sourceDirection": "C",
+        "stopCount": 24
+      },
+      {
+        "coordinateCount": 370,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 57,
+        "routePair": "52S:0",
+        "sourceDirection": "C",
+        "stopCount": 4
+      },
+      {
+        "coordinateCount": 918,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 167,
+        "routePair": "55:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 1302,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 189,
+        "routePair": "56:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 817,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 121,
+        "routePair": "59:0",
+        "sourceDirection": "A",
+        "stopCount": 12
+      },
+      {
+        "coordinateCount": 579,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 92,
+        "routePair": "59:1",
+        "sourceDirection": "B",
+        "stopCount": 11
+      },
+      {
+        "coordinateCount": 952,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 191,
+        "routePair": "5:0",
+        "sourceDirection": "C",
+        "stopCount": 27
+      },
+      {
+        "coordinateCount": 744,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 151,
+        "routePair": "5X:0",
+        "sourceDirection": "C",
+        "stopCount": 21
+      },
+      {
+        "coordinateCount": 1256,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 159,
+        "routePair": "60:0",
+        "sourceDirection": "C",
+        "stopCount": 23
+      },
+      {
+        "coordinateCount": 486,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 106,
+        "routePair": "61:0",
+        "sourceDirection": "A",
+        "stopCount": 7
+      },
+      {
+        "coordinateCount": 344,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 77,
+        "routePair": "61:1",
+        "sourceDirection": "B",
+        "stopCount": 9
+      },
+      {
+        "coordinateCount": 1238,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 224,
+        "routePair": "65:0",
+        "sourceDirection": "C",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 1104,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 203,
+        "routePair": "6A:0",
+        "sourceDirection": "C",
+        "stopCount": 42
+      },
+      {
+        "coordinateCount": 1124,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 159,
+        "routePair": "6B:0",
+        "sourceDirection": "C",
+        "stopCount": 23
+      },
+      {
+        "coordinateCount": 1079,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 148,
+        "routePair": "701X:0",
+        "sourceDirection": "C",
+        "stopCount": 22
+      },
+      {
+        "coordinateCount": 351,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 40,
+        "routePair": "701XS:0",
+        "sourceDirection": "C",
+        "stopCount": 3
+      },
+      {
+        "coordinateCount": 1215,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 158,
+        "routePair": "71:0",
+        "sourceDirection": "C",
+        "stopCount": 21
+      },
+      {
+        "coordinateCount": 690,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 92,
+        "routePair": "71S:0",
+        "sourceDirection": "A",
+        "stopCount": 14
+      },
+      {
+        "coordinateCount": 672,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 110,
+        "routePair": "71S:1",
+        "sourceDirection": "B",
+        "stopCount": 20
+      },
+      {
+        "coordinateCount": 1371,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 187,
+        "routePair": "72:0",
+        "sourceDirection": "C",
+        "stopCount": 32
+      },
+      {
+        "coordinateCount": 1574,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 228,
+        "routePair": "73:0",
+        "sourceDirection": "C",
+        "stopCount": 26
+      },
+      {
+        "coordinateCount": 381,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 73,
+        "routePair": "7:0",
+        "sourceDirection": "A",
+        "stopCount": 15
+      },
+      {
+        "coordinateCount": 712,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 107,
+        "routePair": "7:1",
+        "sourceDirection": "B",
+        "stopCount": 18
+      },
+      {
+        "coordinateCount": 577,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 101,
+        "routePair": "8:0",
+        "sourceDirection": "A",
+        "stopCount": 18
+      },
+      {
+        "coordinateCount": 864,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 129,
+        "routePair": "8:1",
+        "sourceDirection": "B",
+        "stopCount": 23
+      },
+      {
+        "coordinateCount": 801,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 160,
+        "routePair": "8A:0",
+        "sourceDirection": "C",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 1427,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 238,
+        "routePair": "9:0",
+        "sourceDirection": "C",
+        "stopCount": 35
+      },
+      {
+        "coordinateCount": 1177,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 224,
+        "routePair": "9A:0",
+        "sourceDirection": "C",
+        "stopCount": 30
+      },
+      {
+        "coordinateCount": 1517,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 249,
+        "routePair": "AP1:0",
+        "sourceDirection": "C",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 408,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 59,
+        "routePair": "H1:0",
+        "sourceDirection": "C",
+        "stopCount": 12
+      },
+      {
+        "coordinateCount": 1014,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 188,
+        "routePair": "H2:0",
+        "sourceDirection": "C",
+        "stopCount": 25
+      },
+      {
+        "coordinateCount": 1619,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 267,
+        "routePair": "H3:0",
+        "sourceDirection": "C",
+        "stopCount": 24
+      },
+      {
+        "coordinateCount": 1285,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 249,
+        "routePair": "MT1:0",
+        "sourceDirection": "C",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 874,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 159,
+        "routePair": "MT2:0",
+        "sourceDirection": "C",
+        "stopCount": 17
+      },
+      {
+        "coordinateCount": 1010,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 159,
+        "routePair": "MT3:0",
+        "sourceDirection": "C",
+        "stopCount": 22
+      },
+      {
+        "coordinateCount": 1092,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 210,
+        "routePair": "MT4:0",
+        "sourceDirection": "A",
+        "stopCount": 32
+      },
+      {
+        "coordinateCount": 1160,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 241,
+        "routePair": "MT4:1",
+        "sourceDirection": "B",
+        "stopCount": 28
+      },
+      {
+        "coordinateCount": 1087,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 191,
+        "routePair": "MT5:0",
+        "sourceDirection": "C",
+        "stopCount": 20
+      },
+      {
+        "coordinateCount": 844,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 192,
+        "routePair": "N1A:0",
+        "sourceDirection": "C",
+        "stopCount": 24
+      },
+      {
+        "coordinateCount": 560,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 161,
+        "routePair": "N1B:0",
+        "sourceDirection": "C",
+        "stopCount": 23
+      },
+      {
+        "coordinateCount": 1428,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 235,
+        "routePair": "N2:0",
+        "sourceDirection": "A",
+        "stopCount": 29
+      },
+      {
+        "coordinateCount": 1204,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 225,
+        "routePair": "N2:1",
+        "sourceDirection": "B",
+        "stopCount": 27
+      },
+      {
+        "coordinateCount": 1834,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 340,
+        "routePair": "N3:0",
+        "sourceDirection": "C",
+        "stopCount": 48
+      },
+      {
+        "coordinateCount": 2125,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 336,
+        "routePair": "N5:0",
+        "sourceDirection": "C",
+        "stopCount": 38
+      },
+      {
+        "coordinateCount": 2024,
+        "gpsQualified": false,
+        "kind": "direct_source_geometry",
+        "networkSegmentCount": 285,
+        "routePair": "N6:0",
+        "sourceDirection": "C",
+        "stopCount": 36
+      }
+    ],
+    "syntheticReverseCompatibilityExcludedFromRuntime": [
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "101:1",
+        "sourcePair": "101:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "101XS:1",
+        "sourcePair": "101XS:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "103:1",
+        "sourcePair": "103:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "10B:1",
+        "sourcePair": "10B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "11:1",
+        "sourcePair": "11:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "12:1",
+        "sourcePair": "12:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "15:1",
+        "sourcePair": "15:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "15T:1",
+        "sourcePair": "15T:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "16:1",
+        "sourcePair": "16:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "16S:1",
+        "sourcePair": "16S:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "17:1",
+        "sourcePair": "17:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "17S1:1",
+        "sourcePair": "17S1:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "17T:1",
+        "sourcePair": "17T:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "18A:1",
+        "sourcePair": "18A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "19:1",
+        "sourcePair": "19:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "21AT:1",
+        "sourcePair": "21AT:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "22:1",
+        "sourcePair": "22:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "23:1",
+        "sourcePair": "23:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "25:1",
+        "sourcePair": "25:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "25AX:1",
+        "sourcePair": "25AX:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "25BS:1",
+        "sourcePair": "25BS:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "26:1",
+        "sourcePair": "26:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "26AT:1",
+        "sourcePair": "26AT:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "26S:1",
+        "sourcePair": "26S:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "27:1",
+        "sourcePair": "27:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "28A:1",
+        "sourcePair": "28A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "28B:1",
+        "sourcePair": "28B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "28C:1",
+        "sourcePair": "28C:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "29:1",
+        "sourcePair": "29:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "2A:1",
+        "sourcePair": "2A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "2AS:1",
+        "sourcePair": "2AS:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "30:1",
+        "sourcePair": "30:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "30X:1",
+        "sourcePair": "30X:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "32:1",
+        "sourcePair": "32:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "33:1",
+        "sourcePair": "33:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "35:1",
+        "sourcePair": "35:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "36:1",
+        "sourcePair": "36:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "37:1",
+        "sourcePair": "37:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "39:1",
+        "sourcePair": "39:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "3A:1",
+        "sourcePair": "3A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "3AS:1",
+        "sourcePair": "3AS:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "3AX:1",
+        "sourcePair": "3AX:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "3X:1",
+        "sourcePair": "3X:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "4:1",
+        "sourcePair": "4:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "5:1",
+        "sourcePair": "5:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "50:1",
+        "sourcePair": "50:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "50B:1",
+        "sourcePair": "50B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "51:1",
+        "sourcePair": "51:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "51B:1",
+        "sourcePair": "51B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "52:1",
+        "sourcePair": "52:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "52S:1",
+        "sourcePair": "52S:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "55:1",
+        "sourcePair": "55:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "56:1",
+        "sourcePair": "56:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "5X:1",
+        "sourcePair": "5X:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "60:1",
+        "sourcePair": "60:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "65:1",
+        "sourcePair": "65:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "6A:1",
+        "sourcePair": "6A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "6B:1",
+        "sourcePair": "6B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "701X:1",
+        "sourcePair": "701X:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "701XS:1",
+        "sourcePair": "701XS:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "71:1",
+        "sourcePair": "71:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "72:1",
+        "sourcePair": "72:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "73:1",
+        "sourcePair": "73:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "8A:1",
+        "sourcePair": "8A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "9:1",
+        "sourcePair": "9:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "9A:1",
+        "sourcePair": "9A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "AP1:1",
+        "sourcePair": "AP1:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "H1:1",
+        "sourcePair": "H1:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "H2:1",
+        "sourcePair": "H2:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "H3:1",
+        "sourcePair": "H3:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "MT1:1",
+        "sourcePair": "MT1:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "MT2:1",
+        "sourcePair": "MT2:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "MT3:1",
+        "sourcePair": "MT3:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "MT5:1",
+        "sourcePair": "MT5:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "N1A:1",
+        "sourcePair": "N1A:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "N1B:1",
+        "sourcePair": "N1B:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "N3:1",
+        "sourcePair": "N3:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "N5:1",
+        "sourcePair": "N5:0"
+      },
+      {
+        "gpsQualified": false,
+        "kind": "synthetic_reverse_compatibility",
+        "routePair": "N6:1",
+        "sourcePair": "N6:0"
+      }
+    ]
+  },
+  "candidateSha256": "d1a2a4c82e37f7c221d5c677940a6f948bb462385cfacd5f8ca47fc109306bd0",
+  "candidateVersion": "20260925",
+  "comparison": {
+    "existingMobileBaseline": {
+      "baselinePairsNotInSourceOnlyCandidate": [
+        "101:1",
+        "103:1",
+        "10B:1",
+        "11:1",
+        "12:1",
+        "15:1",
+        "15T:1",
+        "16:1",
+        "16S:1",
+        "17:1",
+        "17S1:1",
+        "17T:1",
+        "18A:1",
+        "19:1",
+        "22:1",
+        "23:1",
+        "25:1",
+        "25AX:1",
+        "25BS:1",
+        "26:1",
+        "26S:1",
+        "27:1",
+        "28A:1",
+        "28B:1",
+        "28C:1",
+        "29:1",
+        "2A:1",
+        "2AS:1",
+        "30:1",
+        "30X:1",
+        "32:1",
+        "33:1",
+        "35:1",
+        "36:1",
+        "37:1",
+        "39:1",
+        "3A:1",
+        "3AS:1",
+        "3AX:1",
+        "3X:1",
+        "4:1",
+        "50:1",
+        "50B:1",
+        "51:1",
+        "51B:1",
+        "52:1",
+        "52S:1",
+        "55:1",
+        "56:1",
+        "5:1",
+        "5X:1",
+        "60:1",
+        "65:1",
+        "6A:1",
+        "6B:1",
+        "701X:1",
+        "701XS:1",
+        "71:1",
+        "72:1",
+        "73:1",
+        "8A:1",
+        "9:1",
+        "9A:1",
+        "AP1:1",
+        "H1:1",
+        "H2:1",
+        "H3:1",
+        "MT1:1",
+        "MT2:1",
+        "MT3:1",
+        "MT5:1",
+        "N1A:1",
+        "N1B:1",
+        "N3:1",
+        "N5:1",
+        "N6:1"
+      ],
+      "candidatePairsAlreadyPresent": 118,
+      "candidatePairsNotInBaseline": [
+        "101XS:0",
+        "21AT:0",
+        "26AT:0",
+        "3BX:0",
+        "3BX:1"
+      ],
+      "directionCount": 194,
+      "path": "data/cdn/route_polylines.json",
+      "routeCount": 97
+    },
+    "latestDsatCapture": {
+      "captureStatus": "incomplete",
+      "productionEligible": false,
+      "schemaVersion": "road_provider_stop_sequence_capture_v1",
+      "sequenceComparisonCount": 114,
+      "sequenceComparisons": [
+        {
+          "baseCodeCoverage": 0.9643,
+          "baseCodeLcsCount": 27,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [
+            "L17"
+          ],
+          "providerStopCount": 28,
+          "routePair": "101:0",
+          "sourceOnlyBaseCodes": [
+            "TEAM_17"
+          ],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 0.9583,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [
+            "L17"
+          ],
+          "providerStopCount": 24,
+          "routePair": "102:0",
+          "sourceOnlyBaseCodes": [
+            "TEAM_17"
+          ],
+          "sourceStopCount": 24
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 20,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 20,
+          "routePair": "102:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 20
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 13,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 13,
+          "routePair": "103:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 13
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 21,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 21,
+          "routePair": "10:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 21
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 19,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 19,
+          "routePair": "10:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 19
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 29,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 29,
+          "routePair": "10B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 42,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 42,
+          "routePair": "11:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 42
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 34,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 34,
+          "routePair": "12:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 34
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 40,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 40,
+          "routePair": "15:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 40
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 10,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 10,
+          "routePair": "15T:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 10
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 27,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 27,
+          "routePair": "16:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 27
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 29,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 29,
+          "routePair": "16S:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 30,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 30,
+          "routePair": "17:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 30
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 9,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 9,
+          "routePair": "17S:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 9
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 12,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 12,
+          "routePair": "17S:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 12
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 4,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 4,
+          "routePair": "17T:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 4
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 23,
+          "routePair": "18:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 23
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 22,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 22,
+          "routePair": "18:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 22
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "18A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 15,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 15,
+          "routePair": "18B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 15
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 20,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 20,
+          "routePair": "18B:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 20
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "19:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 16,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 16,
+          "routePair": "1:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 16
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 13,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 13,
+          "routePair": "1:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 13
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 17,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 17,
+          "routePair": "1A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 17
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 12,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 12,
+          "routePair": "1A:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 12
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 38,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 38,
+          "routePair": "21A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 38
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 40,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 40,
+          "routePair": "21A:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 40
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 39,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 39,
+          "routePair": "22:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 39
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 40,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 40,
+          "routePair": "23:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 40
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 50,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 50,
+          "routePair": "25:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 50
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 16,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 16,
+          "routePair": "25AX:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 16
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 28,
+          "routePair": "25B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 26,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 26,
+          "routePair": "25B:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 26
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 12,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 12,
+          "routePair": "25BS:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 12
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 76,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 76,
+          "routePair": "26:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 76
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 38,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 38,
+          "routePair": "26A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 38
+        },
+        {
+          "baseCodeCoverage": 0.9737,
+          "baseCodeLcsCount": 37,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 37,
+          "routePair": "26A:1",
+          "sourceOnlyBaseCodes": [
+            "C686"
+          ],
+          "sourceStopCount": 38
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "27:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 31,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 31,
+          "routePair": "28A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 31
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 47,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 47,
+          "routePair": "28B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 47
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 36,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 36,
+          "routePair": "28C:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 36
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 34,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 34,
+          "routePair": "29:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 34
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 19,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 19,
+          "routePair": "2:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 19
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 19,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 19,
+          "routePair": "2:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 19
+        },
+        {
+          "baseCodeCoverage": 0.9655,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [
+            "L17"
+          ],
+          "providerStopCount": 29,
+          "routePair": "2A:0",
+          "sourceOnlyBaseCodes": [
+            "TEAM_17"
+          ],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 6,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 6,
+          "routePair": "2AS:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 6
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 37,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 37,
+          "routePair": "30:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 37
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 19,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 19,
+          "routePair": "30X:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 19
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 32,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 32,
+          "routePair": "32:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 32
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 38,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 38,
+          "routePair": "33:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 38
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 22,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 22,
+          "routePair": "34:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 22
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 18,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 18,
+          "routePair": "34:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 18
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 40,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 40,
+          "routePair": "35:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 40
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 28,
+          "routePair": "36:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 21,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 21,
+          "routePair": "37:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 21
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 15,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 15,
+          "routePair": "39:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 15
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 16,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 16,
+          "routePair": "3:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 16
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 15,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 15,
+          "routePair": "3:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 15
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 36,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 36,
+          "routePair": "3A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 36
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 16,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 16,
+          "routePair": "3AX:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 16
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 16,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 16,
+          "routePair": "3X:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 16
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 15,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 15,
+          "routePair": "4:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 15
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 45,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 45,
+          "routePair": "50:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 45
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 24,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 24,
+          "routePair": "50B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 24
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 20,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 20,
+          "routePair": "51:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 20
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 21,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 21,
+          "routePair": "51A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 21
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 18,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 18,
+          "routePair": "51A:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 18
+        },
+        {
+          "baseCodeCoverage": 0.9333,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [
+            "L17"
+          ],
+          "providerStopCount": 29,
+          "routePair": "51B:0",
+          "sourceOnlyBaseCodes": [
+            "TEAM_17"
+          ],
+          "sourceStopCount": 30
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 24,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 24,
+          "routePair": "52:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 24
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "55:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "56:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 12,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 12,
+          "routePair": "59:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 12
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 11,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 11,
+          "routePair": "59:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 11
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 27,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 27,
+          "routePair": "5:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 27
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 21,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 21,
+          "routePair": "5X:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 21
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 23,
+          "routePair": "60:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 23
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 7,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 7,
+          "routePair": "61:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 7
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 9,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 9,
+          "routePair": "61:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 9
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 28,
+          "routePair": "65:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 42,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 42,
+          "routePair": "6A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 42
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 23,
+          "routePair": "6B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 23
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 22,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 22,
+          "routePair": "701X:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 22
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 3,
+          "exactSequenceMatch": true,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 3,
+          "routePair": "701XS:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 3
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 21,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 21,
+          "routePair": "71:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 21
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 14,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 14,
+          "routePair": "71S:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 14
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 20,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 20,
+          "routePair": "71S:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 20
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 32,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 32,
+          "routePair": "72:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 32
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 26,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 26,
+          "routePair": "73:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 26
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 15,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 15,
+          "routePair": "7:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 15
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 18,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 18,
+          "routePair": "7:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 18
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 18,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 18,
+          "routePair": "8:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 18
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 23,
+          "routePair": "8:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 23
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 29,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 29,
+          "routePair": "8A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 35,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 35,
+          "routePair": "9:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 35
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 30,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 30,
+          "routePair": "9A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 30
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 28,
+          "routePair": "AP1:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 12,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 12,
+          "routePair": "H1:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 12
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 25,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 25,
+          "routePair": "H2:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 25
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 24,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 24,
+          "routePair": "H3:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 24
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 29,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 29,
+          "routePair": "MT1:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 17,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 17,
+          "routePair": "MT2:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 17
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 22,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 22,
+          "routePair": "MT3:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 22
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 32,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 32,
+          "routePair": "MT4:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 32
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 28,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 28,
+          "routePair": "MT4:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 28
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 20,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 20,
+          "routePair": "MT5:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 20
+        },
+        {
+          "baseCodeCoverage": 0.96,
+          "baseCodeLcsCount": 24,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [
+            "M278"
+          ],
+          "providerStopCount": 25,
+          "routePair": "N1A:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 24
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 23,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 23,
+          "routePair": "N1B:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 23
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 29,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 29,
+          "routePair": "N2:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 29
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 27,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 27,
+          "routePair": "N2:1",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 27
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 48,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 48,
+          "routePair": "N3:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 48
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 38,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 38,
+          "routePair": "N5:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 38
+        },
+        {
+          "baseCodeCoverage": 1.0,
+          "baseCodeLcsCount": 36,
+          "exactSequenceMatch": false,
+          "providerOnlyBaseCodes": [],
+          "providerStopCount": 36,
+          "routePair": "N6:0",
+          "sourceOnlyBaseCodes": [],
+          "sourceStopCount": 36
+        }
+      ],
+      "snapshotCount": 118,
+      "snapshotStatuses": {
+        "failed": 4,
+        "ok": 114
+      },
+      "sourceDirectionCoverageCount": 118,
+      "uniqueRouteDirectionCount": 118
+    },
+    "notableCaptureFindings": [
+      {
+        "baseCodeCoverage": 1.0,
+        "baseCodeLcsCount": 18,
+        "exactSequenceMatch": false,
+        "finding": "stop-order bases align, but terminal official/source label differs from captured DSAT label M2/2",
+        "providerOnlyBaseCodes": [],
+        "providerStopCount": 18,
+        "routePair": "7:1",
+        "sourceOnlyBaseCodes": [],
+        "sourceStopCount": 18
+      },
+      {
+        "baseCodeCoverage": 0.96,
+        "baseCodeLcsCount": 24,
+        "exactSequenceMatch": false,
+        "finding": "capture includes M278 between M10 and M222; source sequence has no M278 occurrence",
+        "providerOnlyBaseCodes": [
+          "M278"
+        ],
+        "providerStopCount": 25,
+        "routePair": "N1A:0",
+        "sourceOnlyBaseCodes": [],
+        "sourceStopCount": 24
+      }
+    ],
+    "productionCoverage": {
+      "catalogDirectionCount": 124,
+      "catalogRouteCount": 97,
+      "missingOfficialTargetDirections": [
+        {
+          "oppositeSourceDirectionPresent": true,
+          "reason": "official_production_direction_has_no_source_geometry",
+          "routePair": "101XS:1",
+          "sourceDirectionPresent": false
+        },
+        {
+          "oppositeSourceDirectionPresent": true,
+          "reason": "official_production_direction_has_no_source_geometry",
+          "routePair": "17T:1",
+          "sourceDirectionPresent": false
+        },
+        {
+          "oppositeSourceDirectionPresent": true,
+          "reason": "official_production_direction_has_no_source_geometry",
+          "routePair": "26AT:1",
+          "sourceDirectionPresent": false
+        },
+        {
+          "oppositeSourceDirectionPresent": true,
+          "reason": "official_production_direction_has_no_source_geometry",
+          "routePair": "65:1",
+          "sourceDirectionPresent": false
+        },
+        {
+          "oppositeSourceDirectionPresent": true,
+          "reason": "official_production_direction_has_no_source_geometry",
+          "routePair": "701XS:1",
+          "sourceDirectionPresent": false
+        }
+      ],
+      "officialTargetCount": 124,
+      "productionEligible": false,
+      "sourceGeometryForOfficialTargetsCount": 119,
+      "sourceGeometryForSupportedCount": 112,
+      "supportedCount": 112
+    }
+  },
+  "generatedAt": "2026-09-27T15:34:43Z",
+  "legacyNetworkCompatibility": {
+    "assessment": "not_directly_compatible",
+    "boundedDirectedEdgeProbe": [
+      {
+        "maxBoundaryGapMeters": 41.82,
+        "missingDirectedEdges": 9,
+        "routePair": "3BX:0",
+        "sourceSegments": 53,
+        "topologyBreaks": 29
+      },
+      {
+        "maxBoundaryGapMeters": 70.3,
+        "missingDirectedEdges": 11,
+        "routePair": "3BX:1",
+        "sourceSegments": 61,
+        "topologyBreaks": 30
+      },
+      {
+        "maxBoundaryGapMeters": 88.21,
+        "missingDirectedEdges": 28,
+        "routePair": "21AT:0",
+        "sourceSegments": 228,
+        "topologyBreaks": 120
+      },
+      {
+        "maxBoundaryGapMeters": 95.9,
+        "missingDirectedEdges": 20,
+        "routePair": "26AT:0",
+        "sourceSegments": 182,
+        "topologyBreaks": 95
+      },
+      {
+        "maxBoundaryGapMeters": 70.3,
+        "missingDirectedEdges": 25,
+        "routePair": "101XS:0",
+        "sourceSegments": 122,
+        "topologyBreaks": 56
+      }
+    ],
+    "finding": "These new source route paths do not map continuously to the existing directed network edges. Keep the legacy network/model identity unchanged; production path migration or a rebuilt network/model is required before using these routes for road ETA.",
+    "modelHash": "sha256:8895422dbf2147bd94fd7b2c151c088da11331ac234c678b4aed9104ef5ae9d4",
+    "networkHash": "sha256:149110eaf38a44e8162dbb91bc98509fde5bb3ed0aa11bb30ede69bd52eee560",
+    "pathsHash": "sha256:89acc697162a8948496679afe26b25c97e332284ce865f7a2561fb8d2d0d8f08"
+  },
+  "provenance": {
+    "coordinateTransform": "EPSG:8433 to EPSG:4326 via pyproj",
+    "downloadUrl": null,
+    "sourceAuthority": "DSAT official export",
+    "sourceClaim": "user-confirmed",
+    "sourceDate": "2026-09-25",
+    "sourceDirectoryName": "ExportShapeFile20260925",
+    "sourceFiles": {
+      "BUS_POLE.cpg": {
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      },
+      "BUS_POLE.dbf": {
+        "bytes": 1414577,
+        "sha256": "e3a1c539bab723bc6beb05e88ce745abfc0fb93914b0894e8cc1c88a9a1390c2"
+      },
+      "BUS_POLE.prj": {
+        "bytes": 401,
+        "sha256": "d5526b1dd2dbba114cbd7046d586028a9eee798070637971285a84a4377af739"
+      },
+      "BUS_POLE.shp": {
+        "bytes": 17264,
+        "sha256": "5f25b382a18a079772afa90d26933a744f48a6385af1a77258e60f6e4163714a"
+      },
+      "BUS_POLE.shx": {
+        "bytes": 5004,
+        "sha256": "f233ab18ce630380f4d827d0cc47af8ac06ee9e9841a1c22b6068f5b9d1d3390"
+      },
+      "BUS_ROUTE_SEQ.xls": {
+        "bytes": 6066688,
+        "sha256": "3c22a8dd6ab1e9bbb966c1b7d4fdcb17db1cd3f0e4008dd3e4e1c1f72726bba7"
+      },
+      "ROUTE_NETWORK.cpg": {
+        "bytes": 5,
+        "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+      },
+      "ROUTE_NETWORK.dbf": {
+        "bytes": 763033,
+        "sha256": "d348cb4c7a8ecd313339e04b04c6045a3a91ab98e5e50aec9382a87c056debcb"
+      },
+      "ROUTE_NETWORK.prj": {
+        "bytes": 401,
+        "sha256": "d5526b1dd2dbba114cbd7046d586028a9eee798070637971285a84a4377af739"
+      },
+      "ROUTE_NETWORK.shp": {
+        "bytes": 571532,
+        "sha256": "d952805d95ea4b68cc40a970a35928171bdb9397e6fa68104b9bc579388ea63e"
+      },
+      "ROUTE_NETWORK.shx": {
+        "bytes": 23132,
+        "sha256": "bf5604636435bac93d8253f22318554cc73584e05cae1b0de02a9a1b09899d65"
+      }
+    },
+    "vehicleGpsIncluded": false
+  },
+  "schemaVersion": "dsat_shape_route_candidate_audit_v1",
+  "validation": {
+    "directionMapping": "A->0, B->1, C->0, D->0; validate against live DSAT direction metadata before promotion",
+    "duplicateSequenceVariantCount": 0,
+    "maxNetworkConnectionGapMeters": 0.074,
+    "maxStopDistanceToPathMeters": 0.0,
+    "networkFeatureCount": 2879,
+    "poleCount": 613,
+    "routeCount": 101,
+    "sequenceGapCount": 0,
+    "variantCount": 123
+  }
+}

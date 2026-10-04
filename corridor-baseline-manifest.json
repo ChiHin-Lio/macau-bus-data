@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "road_eta_corridor_baseline_manifest_v1",
+  "version": "20261005-6cafaec422cf",
+  "fileName": "corridor-baseline/corridor_historical_20261005-6cafaec422cf.json",
+  "checksum": "6cafaec422cf9275a46045375cced57856b7fec190f0cb3759e0e6903a7c31b6",
+  "networkHash": "sha256:26762f22b2b6b1bfc9b4583d481f2b695fd5ddd1467849bdcd7244179c275950",
+  "pathsHash": "sha256:5ecb23822da6c826353ce57c6d9e1124349cc13c80d8b6054cd8c3106911c385",
+  "maximumBytes": 20000000,
+  "bytes": 14762097,
+  "productionServing": true,
+  "generatedAt": "2026-10-04T16:44:48.620Z",
+  "sourceCompleteDays": 18,
+  "sourceFromDate": "2026-09-15",
+  "sourceThroughDate": "2026-10-03",
+  "corridorCount": 1275,
+  "fallback": "existing_segment_times_v2_when_unavailable_or_day_type_profile_missing"
+}

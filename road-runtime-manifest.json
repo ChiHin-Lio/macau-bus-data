@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "road_runtime_manifest_v1",
+  "releaseId": "20261004-59c72ece0f66",
+  "version": "20261004-59c72ece0f66",
+  "generatedAt": "2026-10-04T03:03:21.037Z",
+  "status": "candidate_only",
+  "candidateOnly": true,
+  "identities": {
+    "modelHash": "sha256:59c72ece0f669ccec96da0efaeb084a33460bb7be8b27a30b1e55f165d49c76f",
+    "networkHash": "sha256:26762f22b2b6b1bfc9b4583d481f2b695fd5ddd1467849bdcd7244179c275950",
+    "networkArtifactHash": "sha256:44ac24fffaf0531b009d16a416efdc010ef53d9a7d51847e4e8f5c008f89d28d",
+    "pathsHash": "sha256:5ecb23822da6c826353ce57c6d9e1124349cc13c80d8b6054cd8c3106911c385",
+    "runtimePackHash": "sha256:d2f8aaf18bf53043c8461fa7b75acd215bacc056d30745873f9133bdb0eb9ab7",
+    "geometryArtifactHash": "sha256:566f0036941eff0307e41089ddca948236a9c0e79b6c1be36700bc2ebc822f8e"
+  },
+  "artifacts": {
+    "runtime": {
+      "path": "road-eta/20261004-59c72ece0f66/road_service_runtime_v1.json",
+      "url": "https://chihin-lio.github.io/macau-bus-data/road-eta/20261004-59c72ece0f66/road_service_runtime_v1.json",
+      "artifactHash": "sha256:d2f8aaf18bf53043c8461fa7b75acd215bacc056d30745873f9133bdb0eb9ab7",
+      "contentHash": "sha256:85dcd032bc7f1dd15e31c164899a18d369d8d77edbfbc88e463efb9801c4b78b",
+      "byteCount": 18427343,
+      "modelHash": "sha256:59c72ece0f669ccec96da0efaeb084a33460bb7be8b27a30b1e55f165d49c76f",
+      "networkHash": "sha256:26762f22b2b6b1bfc9b4583d481f2b695fd5ddd1467849bdcd7244179c275950",
+      "pathsHash": "sha256:5ecb23822da6c826353ce57c6d9e1124349cc13c80d8b6054cd8c3106911c385"
+    },
+    "model": {
+      "path": "road-eta/20261004-59c72ece0f66/road_model_v1.json.gz",
+      "url": "https://chihin-lio.github.io/macau-bus-data/road-eta/20261004-59c72ece0f66/road_model_v1.json.gz",
+      "artifactHash": "sha256:59c72ece0f669ccec96da0efaeb084a33460bb7be8b27a30b1e55f165d49c76f",
+      "contentHash": "sha256:39a9959da4a8bb1fc3668b9c521055277d635b0269be6fcb4ee8f9bbdc4d1a07",
+      "byteCount": 13581145,
+      "contentEncoding": "gzip",
+      "uncompressedByteCount": 60624617
+    },
+    "network": {
+      "path": "road-eta/20261004-59c72ece0f66/road_network_v1.json",
+      "url": "https://chihin-lio.github.io/macau-bus-data/road-eta/20261004-59c72ece0f66/road_network_v1.json",
+      "artifactHash": "sha256:44ac24fffaf0531b009d16a416efdc010ef53d9a7d51847e4e8f5c008f89d28d",
+      "contentHash": "sha256:6645066925b973d630d16c93c32e6824a437e892e27da06589340b929084f6d3",
+      "byteCount": 5334176
+    },
+    "paths": {
+      "path": "road-eta/20261004-59c72ece0f66/route_paths_v1.json",
+      "url": "https://chihin-lio.github.io/macau-bus-data/road-eta/20261004-59c72ece0f66/route_paths_v1.json",
+      "artifactHash": "sha256:5ecb23822da6c826353ce57c6d9e1124349cc13c80d8b6054cd8c3106911c385",
+      "contentHash": "sha256:8cfb5923b4a3b02af257c5491e77fccb00ca94e05eec0ec9fa4b28741646fd4b",
+      "byteCount": 19110673
+    },
+    "geometry": {
+      "path": "road-eta/20261004-59c72ece0f66/macao-route-geometry-official-20261004.json",
+      "url": "https://chihin-lio.github.io/macau-bus-data/road-eta/20261004-59c72ece0f66/macao-route-geometry-official-20261004.json",
+      "artifactHash": "sha256:566f0036941eff0307e41089ddca948236a9c0e79b6c1be36700bc2ebc822f8e",
+      "contentHash": "sha256:76ccb8259b9394c41b09ee55a8aea23d2a61d0817fb7ad9b1f9aacf4b586a0e5",
+      "byteCount": 5881515
+    }
+  },
+  "training": {
+    "window": {
+      "from": "2026-10-01",
+      "through": "2026-10-03"
+    },
+    "trainDates": [
+      "2026-10-01",
+      "2026-10-02"
+    ],
+    "holdoutDate": "2026-10-03",
+    "trainLabelCount": 2793919,
+    "holdoutLabelCount": 1355285,
+    "heldOutMetricScope": "per-edge road traversal seconds MAE; not actual stop-to-stop or passenger arrival ETA MAE",
+    "candidateHoldoutMaeSeconds": 8.51,
+    "baselineHoldoutMaeSeconds": 12.435,
+    "improvementMaeSeconds": 3.925,
+    "trainedEdgeCount": 2658,
+    "directedEdgeCount": 2992,
+    "unsupportedEdgesRetainHourlyPrior": true,
+    "productionEligible": false
+  },
+  "runtimeCoverage": {
+    "routePairCount": 123,
+    "edgeProfileCount": 2992,
+    "fallbackRoutePairCount": 0,
+    "missingSegmentSlots": 0,
+    "providerSequenceCaptured": false,
+    "sequenceSource": "target official route_paths_v1 stop order; no independent provider recapture"
+  }
+}

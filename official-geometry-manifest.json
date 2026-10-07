@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "parkgo_official_geometry_manifest_v1",
+  "datasetId": "e7b2e84d-3333-42f0-b676-64ce95306f0d",
+  "sourceUrl": "https://data.gov.mo/Detail?id=e7b2e84d-3333-42f0-b676-64ce95306f0d",
+  "zipSha256": "6917ebbb927373a19ba9fa9a13e11dfe234d506cca1ec339f281f433da9764c4",
+  "fileId": 722,
+  "zipBytes": 1330002,
+  "geometrySha256": "99b83a94521979d8af1d60d1f87658ac2a3ebc7fbf5c693f2c28e8eb25f34514",
+  "publishedAt": "2026-10-07T08:16:58.544728+00:00",
+  "qualifiedDirectionCount": 115,
+  "routeCount": 95,
+  "liveCatalogueGeneratedAt": "2026-10-07T08:16:15.968Z",
+  "rejectedVariants": [
+    {
+      "variant": "17S1:0",
+      "reason": "no_fresh_live_direction"
+    },
+    {
+      "variant": "26A:1",
+      "reason": "live_station_sequence_mismatch"
+    },
+    {
+      "variant": "26S:0",
+      "reason": "no_fresh_live_direction"
+    },
+    {
+      "variant": "3AS:0",
+      "reason": "no_fresh_live_direction"
+    },
+    {
+      "variant": "51B:0",
+      "reason": "live_station_sequence_mismatch"
+    },
+    {
+      "variant": "52S:0",
+      "reason": "no_fresh_live_direction"
+    },
+    {
+      "variant": "7:1",
+      "reason": "live_station_sequence_mismatch"
+    },
+    {
+      "variant": "N1A:0",
+      "reason": "live_station_sequence_mismatch"
+    }
+  ],
+  "stationOrderSource": "VPS collector DSAT routeInfo; geometry does not override live station order",
+  "directionPolicy": "Official directions only; no reversed compatibility directions"
+}

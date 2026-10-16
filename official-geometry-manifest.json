@@ -8,7 +8,7 @@
   "fileId": 722,
   "zipBytes": 1330002,
   "geometrySha256": "3bbc3a4e400f527ef2f90d9edacf0cb62e701f40d9fb89996f3894ad9e971199",
-  "publishedAt": "2026-10-15T09:05:07.812158+00:00",
+  "publishedAt": "2026-10-16T08:57:40.273318+00:00",
   "qualifiedDirectionCount": 113,
   "retainedDirectionCount": 6,
   "publishedDirectionCount": 119,
@@ -849,7 +849,7 @@
       "routePair": "71S:0",
       "stopCount": 14,
       "stopSequenceSha256": "fe9f8d4ce6031ff0efd2108d4a421e320142cdc65abdb73f2fbc01052e4abd37",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 690
     },
     {
@@ -996,28 +996,28 @@
       "routePair": "N1A:0",
       "stopCount": 25,
       "stopSequenceSha256": "8332f85ec8ee7691fa0bfeeb9ee6f5d86f16d2ac0ce08df91e30ac32aefa11d0",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 844
     },
     {
       "routePair": "N1B:0",
       "stopCount": 23,
       "stopSequenceSha256": "09b174aa473abffc548eca726f2b7857361e5ce394ac4f65654a193a531b4e2c",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 560
     },
     {
       "routePair": "N2:0",
       "stopCount": 29,
       "stopSequenceSha256": "4b2323a0a547581dcd148eb727ea9ba6016d16cf8895593f2d8e78a923dc669a",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1428
     },
     {
       "routePair": "N2:1",
       "stopCount": 27,
       "stopSequenceSha256": "1f1c65ee6a9c2212fe0191a796b3b045b2b2678ca284df54efa5635855ce1308",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1204
     },
     {
@@ -1031,7 +1031,7 @@
       "routePair": "N5:0",
       "stopCount": 38,
       "stopSequenceSha256": "47a4f252592f27435176369520958ea399636ae53fda7ad6136235639a64fd85",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2125
     },
     {
@@ -1106,7 +1106,7 @@
       "remove-51B0-seq93-pole1114"
     ]
   },
-  "liveCatalogueGeneratedAt": "2026-10-15T09:04:33.050Z",
+  "liveCatalogueGeneratedAt": "2026-10-16T08:57:09.351Z",
   "rejectedVariants": [
     {
       "variant": "101XS:0",

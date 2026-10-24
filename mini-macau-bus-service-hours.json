@@ -1,7 +1,7 @@
 {
   "schemaVersion": "mini_macau_bus_service_hours_v1",
   "source": "https://raw.githubusercontent.com/asdfghj1237890/mini-macau/master/public/data/bus-routes.json",
-  "generatedAt": "2026-09-22T18:19:41Z",
+  "generatedAt": "2026-10-24T02:33:16.817523+00:00",
   "routes": {
     "1": {
       "nameCn": "關閘 - 媽閣",
@@ -909,24 +909,6 @@
         }
       }
     },
-    "36": {
-      "nameCn": "蘇利安圓形地 - 澳門機場",
-      "frequencyMinutes": 20,
-      "windows": {
-        "weekdays": {
-          "first": "07:00",
-          "last": "23:50"
-        },
-        "saturday": {
-          "first": "07:00",
-          "last": "23:50"
-        },
-        "sunday": {
-          "first": "07:00",
-          "last": "23:50"
-        }
-      }
-    },
     "37": {
       "nameCn": "松樹尾 - 信安馬路",
       "frequencyMinutes": 18,
@@ -1404,20 +1386,20 @@
       }
     },
     "MT2": {
-      "nameCn": "城市日前地 - 氹仔中央公園",
-      "frequencyMinutes": 17,
+      "nameCn": "城市日前地 - 澳門機場",
+      "frequencyMinutes": null,
       "windows": {
         "weekdays": {
-          "first": "07:00",
-          "last": "21:45"
+          "first": "06:50",
+          "last": "23:40"
         },
         "saturday": {
-          "first": "07:00",
-          "last": "21:45"
+          "first": "06:50",
+          "last": "23:40"
         },
         "sunday": {
-          "first": "07:00",
-          "last": "21:45"
+          "first": "06:50",
+          "last": "23:40"
         }
       }
     },
@@ -1575,5 +1557,6 @@
         }
       }
     }
-  }
+  },
+  "officialChangesSource": "https://www.gcs.gov.mo/news/detail/zh-hant/N26JPwiov6"
 }

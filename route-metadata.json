@@ -2801,14 +2801,40 @@
           "first": "11:00",
           "last": "19:30",
           "periods": [
-            {"s": "11:00", "e": "15:00", "f": "12-22", "d": "weekends"},
-            {"s": "15:00", "e": "19:30", "f": "10-22", "d": "weekends"},
-            {"s": "11:00", "e": "15:00", "f": "12-22", "d": "holidays"},
-            {"s": "15:00", "e": "19:30", "f": "10-22", "d": "holidays"}
+            {
+              "s": "11:00",
+              "e": "15:00",
+              "f": "12-22",
+              "d": "weekends"
+            },
+            {
+              "s": "15:00",
+              "e": "19:30",
+              "f": "10-22",
+              "d": "weekends"
+            },
+            {
+              "s": "11:00",
+              "e": "15:00",
+              "f": "12-22",
+              "d": "holidays"
+            },
+            {
+              "s": "15:00",
+              "e": "19:30",
+              "f": "10-22",
+              "d": "holidays"
+            }
           ],
           "hours": {
-            "weekends": {"first": "11:00", "last": "19:30"},
-            "holidays": {"first": "11:00", "last": "19:30"}
+            "weekends": {
+              "first": "11:00",
+              "last": "19:30"
+            },
+            "holidays": {
+              "first": "11:00",
+              "last": "19:30"
+            }
           }
         }
       }
@@ -5895,84 +5921,6 @@
         "1": "Edifício do Lago ↻ Kiang Wu Nursing College"
       }
     },
-    "36": {
-      "nameCht": "蘇利安圓形地 ↻ 澳門機場",
-      "namePor": "ROTUNDA LEONEL SOUSA ↻ AEROPORTO DE MACAU",
-      "directionNames": {
-        "0": "蘇利安圓形地 ↻ 澳門機場",
-        "1": "蘇利安圓形地 ↻ 澳門機場"
-      },
-      "schedule": {
-        "0": {
-          "first": "07:00",
-          "last": "23:50",
-          "periods": [
-            {
-              "s": "07:00",
-              "e": "09:00",
-              "f": "",
-              "d": "weekdays"
-            },
-            {
-              "s": "09:00",
-              "e": "16:30",
-              "f": "",
-              "d": "weekdays"
-            },
-            {
-              "s": "16:30",
-              "e": "19:00",
-              "f": "",
-              "d": "weekdays"
-            },
-            {
-              "s": "19:00",
-              "e": "23:50",
-              "f": "",
-              "d": "weekdays"
-            },
-            {
-              "s": "07:00",
-              "e": "23:50",
-              "f": "15-20",
-              "d": "holidays"
-            },
-            {
-              "s": "07:00",
-              "e": "20:00",
-              "f": "12-18",
-              "d": "weekdays"
-            },
-            {
-              "s": "20:00",
-              "e": "23:50",
-              "f": "15-18",
-              "d": "weekdays"
-            },
-            {
-              "s": "07:00",
-              "e": "20:00",
-              "f": "12-18",
-              "d": "weekends"
-            },
-            {
-              "s": "20:00",
-              "e": "23:50",
-              "f": "15-18",
-              "d": "weekends"
-            }
-          ]
-        }
-      },
-      "directionNamesPt": {
-        "0": "ROTUNDA LEONEL SOUSA ↻ AEROPORTO DE MACAU",
-        "1": "ROTUNDA LEONEL SOUSA ↻ AEROPORTO DE MACAU"
-      },
-      "directionNamesEn": {
-        "0": "Rotunda Leonel de Sousa ↻ Macau Airport",
-        "1": "Rotunda Leonel de Sousa ↻ Macau Airport"
-      }
-    },
     "37": {
       "nameCht": "松樹尾 ↻ 信安馬路",
       "namePor": "CHUN SU MEI ↻ AV. SON ON",
@@ -7830,81 +7778,63 @@
       }
     },
     "MT2": {
-      "nameCht": "城市日前地 ↻ 氹仔中央公園",
-      "namePor": "PRACETA 24 DE JUNHO ↻ PARQUE CENTRAL DA TAIPA",
+      "nameCht": "城市日前地 ↻ 澳門機場",
+      "namePor": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
       "directionNames": {
-        "0": "城市日前地 ↻ 氹仔中央公園",
-        "1": "城市日前地 ↻ 氹仔中央公園"
+        "0": "城市日前地 ↻ 澳門機場",
+        "1": "城市日前地 ↻ 澳門機場"
       },
       "schedule": {
         "0": {
-          "first": "07:00",
-          "last": "21:45",
+          "first": "06:50",
+          "last": "23:40",
           "periods": [
             {
-              "s": "07:00",
-              "e": "10:00",
+              "s": "06:50",
+              "e": "09:00",
               "f": "12-15",
               "d": "weekdays"
             },
             {
-              "s": "10:00",
-              "e": "15:00",
+              "s": "09:00",
+              "e": "16:30",
               "f": "15-18",
               "d": "weekdays"
             },
             {
-              "s": "15:00",
-              "e": "20:00",
+              "s": "16:30",
+              "e": "19:00",
               "f": "12-15",
               "d": "weekdays"
             },
             {
-              "s": "20:00",
-              "e": "21:45",
+              "s": "19:00",
+              "e": "23:40",
               "f": "18-22",
               "d": "weekdays"
             },
             {
-              "s": "07:00",
-              "e": "21:45",
+              "s": "06:50",
+              "e": "23:40",
+              "f": "18-22",
+              "d": "weekends"
+            },
+            {
+              "s": "06:50",
+              "e": "23:40",
               "f": "18-22",
               "d": "holidays"
-            },
-            {
-              "s": "07:00",
-              "e": "10:00",
-              "f": "12-15",
-              "d": "weekends"
-            },
-            {
-              "s": "10:00",
-              "e": "15:00",
-              "f": "15-18",
-              "d": "weekends"
-            },
-            {
-              "s": "15:00",
-              "e": "20:00",
-              "f": "12-15",
-              "d": "weekends"
-            },
-            {
-              "s": "20:00",
-              "e": "21:45",
-              "f": "18-22",
-              "d": "weekends"
             }
           ]
         }
       },
       "directionNamesPt": {
-        "0": "PRACETA 24 DE JUNHO ↻ PARQUE CENTRAL DA TAIPA",
-        "1": "PRACETA 24 DE JUNHO ↻ PARQUE CENTRAL DA TAIPA"
+        "0": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU",
+        "1": "PRACETA 24 DE JUNHO ↻ AEROPORTO DE MACAU"
       },
       "directionNamesEn": {
-        "0": "Praceta 24 de Junho ↻ Parque Central da Taipa",
-        "1": "Praceta 24 de Junho ↻ Parque Central da Taipa"
+        "0": "Praceta 24 de Junho ↻ Macau Airport",
+        "1": "Praceta 24 de Junho ↻ Macau Airport"
       }
     },
     "MT3": {

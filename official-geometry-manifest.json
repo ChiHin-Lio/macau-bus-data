@@ -8,7 +8,7 @@
   "fileId": 722,
   "zipBytes": 1278722,
   "geometrySha256": "3d2042fb5ce295b4ed1f3c87d9fdcaea96fd190d39ea0fae833a0c72d9e18230",
-  "publishedAt": "2026-10-25T09:05:18.890224+00:00",
+  "publishedAt": "2026-10-26T10:00:43.500164+00:00",
   "qualifiedDirectionCount": 108,
   "retainedDirectionCount": 0,
   "publishedDirectionCount": 108,
@@ -553,7 +553,7 @@
       "routePair": "2AS:0",
       "stopCount": 6,
       "stopSequenceSha256": "f658c8fa6ba0db0c69579fce1856df8ffa151e1a6827e500b3aa141da0d6e269",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 389
     },
     {
@@ -798,7 +798,7 @@
       "routePair": "701XS:0",
       "stopCount": 3,
       "stopSequenceSha256": "899df45fc4a0af84e6d3c4d66bc469c8815dde72a7e876d88a5e9efb940f1651",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 351
     },
     {
@@ -1006,7 +1006,7 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-10-25T09:04:55.682Z",
+  "liveCatalogueGeneratedAt": "2026-10-26T10:00:16.148Z",
   "rejectedVariants": [
     {
       "variant": "26A:1",

@@ -4,11 +4,11 @@
   "geometryProducerVersion": "official_zip_service_stop_overlay_live_sequence_v2",
   "qualificationVersion": "official_zip_service_stop_overlay_live_sequence_v2",
   "sourceUrl": "https://data.gov.mo/Detail?id=e7b2e84d-3333-42f0-b676-64ce95306f0d",
-  "zipSha256": "62323a35bc790baf97d93ccf5728d37b687eb328b4d54190047aa0281a482882",
+  "zipSha256": "4cddf2288bc623fff007569a2c5f37471c7863f35cac5ac09cb21d63e7eefddc",
   "fileId": 722,
   "zipBytes": 1278722,
   "geometrySha256": "3d2042fb5ce295b4ed1f3c87d9fdcaea96fd190d39ea0fae833a0c72d9e18230",
-  "publishedAt": "2026-10-26T10:00:43.500164+00:00",
+  "publishedAt": "2026-10-27T09:45:02.437203+00:00",
   "qualifiedDirectionCount": 108,
   "retainedDirectionCount": 0,
   "publishedDirectionCount": 108,
@@ -819,7 +819,7 @@
       "routePair": "71S:1",
       "stopCount": 20,
       "stopSequenceSha256": "c715b509b6553e105f20d29f596f2551cf8f722d3ad8b6e4b45d210f69fcc086",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 672
     },
     {
@@ -952,7 +952,7 @@
       "routePair": "N1B:0",
       "stopCount": 23,
       "stopSequenceSha256": "09b174aa473abffc548eca726f2b7857361e5ce394ac4f65654a193a531b4e2c",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 560
     },
     {
@@ -1006,7 +1006,7 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-10-26T10:00:16.148Z",
+  "liveCatalogueGeneratedAt": "2026-10-27T09:44:45.179Z",
   "rejectedVariants": [
     {
       "variant": "26A:1",

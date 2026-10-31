@@ -8,7 +8,7 @@
   "fileId": 722,
   "zipBytes": 1278722,
   "geometrySha256": "3d2042fb5ce295b4ed1f3c87d9fdcaea96fd190d39ea0fae833a0c72d9e18230",
-  "publishedAt": "2026-10-30T10:50:38.223882+00:00",
+  "publishedAt": "2026-10-31T10:18:01.954515+00:00",
   "qualifiedDirectionCount": 108,
   "retainedDirectionCount": 0,
   "publishedDirectionCount": 108,
@@ -553,7 +553,7 @@
       "routePair": "2AS:0",
       "stopCount": 6,
       "stopSequenceSha256": "f658c8fa6ba0db0c69579fce1856df8ffa151e1a6827e500b3aa141da0d6e269",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 389
     },
     {
@@ -812,7 +812,7 @@
       "routePair": "71S:0",
       "stopCount": 14,
       "stopSequenceSha256": "fe9f8d4ce6031ff0efd2108d4a421e320142cdc65abdb73f2fbc01052e4abd37",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 690
     },
     {
@@ -966,7 +966,7 @@
       "routePair": "N2:1",
       "stopCount": 27,
       "stopSequenceSha256": "1f1c65ee6a9c2212fe0191a796b3b045b2b2678ca284df54efa5635855ce1308",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1204
     },
     {
@@ -980,14 +980,14 @@
       "routePair": "N5:0",
       "stopCount": 38,
       "stopSequenceSha256": "47a4f252592f27435176369520958ea399636ae53fda7ad6136235639a64fd85",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2126
     },
     {
       "routePair": "N6:0",
       "stopCount": 36,
       "stopSequenceSha256": "df0447177cb207b23024d3676cd65605fc5e392f15225336893273cfc7894f13",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2024
     }
   ],
@@ -1006,7 +1006,7 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-10-30T10:50:11.489Z",
+  "liveCatalogueGeneratedAt": "2026-10-31T10:17:50.755Z",
   "rejectedVariants": [
     {
       "variant": "26A:1",

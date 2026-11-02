@@ -7,10 +7,10 @@
   "zipSha256": "4cddf2288bc623fff007569a2c5f37471c7863f35cac5ac09cb21d63e7eefddc",
   "fileId": 722,
   "zipBytes": 1278722,
-  "geometrySha256": "3d2042fb5ce295b4ed1f3c87d9fdcaea96fd190d39ea0fae833a0c72d9e18230",
-  "publishedAt": "2026-11-01T11:12:48.097915+00:00",
-  "qualifiedDirectionCount": 108,
-  "retainedDirectionCount": 0,
+  "geometrySha256": "4ecf9e214dda9ca613b10b739a92fbd9f206a7b25039b8548b97b1c47315266c",
+  "publishedAt": "2026-11-02T12:14:42.443251+00:00",
+  "qualifiedDirectionCount": 107,
+  "retainedDirectionCount": 1,
   "publishedDirectionCount": 108,
   "routeCount": 89,
   "qualifiedRoutePairs": [
@@ -24,7 +24,6 @@
     "11:0",
     "12:0",
     "15:0",
-    "15T:0",
     "16:0",
     "16S:0",
     "17:0",
@@ -305,13 +304,6 @@
       "coordinateCount": 1785
     },
     {
-      "routePair": "15T:0",
-      "stopCount": 10,
-      "stopSequenceSha256": "ecec68aba661a442cb1edd6d86d292f003a3e57ea587bdd745e3154baa5abb94",
-      "sequenceSource": "fresh_collector_catalogue",
-      "coordinateCount": 702
-    },
-    {
       "routePair": "16:0",
       "stopCount": 27,
       "stopSequenceSha256": "af6a1ed87413cd97c2b7109cdee23fbc04769c45c7bb880fc71ddf5c66312245",
@@ -343,7 +335,7 @@
       "routePair": "17S:1",
       "stopCount": 12,
       "stopSequenceSha256": "858eeac0e70ec8b4afc010521d716fb1cdf02c1e9e9fa0e9f3a4b5967f1f5e7a",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 489
     },
     {
@@ -455,7 +447,7 @@
       "routePair": "25AX:0",
       "stopCount": 16,
       "stopSequenceSha256": "87034ee92ff27edfe744160f927ac18f1bb9188ccefcd1efa3b8c239ca3b1c5e",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 1459
     },
     {
@@ -742,7 +734,7 @@
       "routePair": "5X:0",
       "stopCount": 21,
       "stopSequenceSha256": "3be5b55fa852f2d10ea29320d25cd4d085ce8373b85a1e6b15acc42e717404c2",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 744
     },
     {
@@ -798,7 +790,7 @@
       "routePair": "701XS:0",
       "stopCount": 3,
       "stopSequenceSha256": "899df45fc4a0af84e6d3c4d66bc469c8815dde72a7e876d88a5e9efb940f1651",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 351
     },
     {
@@ -973,25 +965,34 @@
       "routePair": "N3:0",
       "stopCount": 48,
       "stopSequenceSha256": "84899f5f6dbb56408c5062a0c790b877675c1f1b0d1e7fa0981199ce958fec20",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1834
     },
     {
       "routePair": "N5:0",
       "stopCount": 38,
       "stopSequenceSha256": "47a4f252592f27435176369520958ea399636ae53fda7ad6136235639a64fd85",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2126
     },
     {
       "routePair": "N6:0",
       "stopCount": 36,
       "stopSequenceSha256": "df0447177cb207b23024d3676cd65605fc5e392f15225336893273cfc7894f13",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2024
     }
   ],
-  "retainedVariants": [],
+  "retainedVariants": [
+    {
+      "routePair": "15T:0",
+      "reason": "same_zip_geometry_identical_current_routeinfo_unavailable",
+      "qualificationFailureReason": "official_routeInfo_empty",
+      "lastQualifiedAt": "2026-11-01T11:12:24.051Z",
+      "sourceGeometrySha256": "3d2042fb5ce295b4ed1f3c87d9fdcaea96fd190d39ea0fae833a0c72d9e18230",
+      "lastQualifiedSequenceSource": "fresh_collector_catalogue"
+    }
+  ],
   "serviceStopOverlay": {
     "fileName": "dsat_service_stops_20261002.json",
     "sha256": "e3ecd3e4e3a9649a39276fdf6945b95dedfd342add1fa77dd706bab8ba3bd06f",
@@ -1006,8 +1007,12 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-11-01T11:12:24.051Z",
+  "liveCatalogueGeneratedAt": "2026-11-02T12:14:19.604Z",
   "rejectedVariants": [
+    {
+      "variant": "15T:0",
+      "reason": "official_routeInfo_empty"
+    },
     {
       "variant": "26A:1",
       "reason": "live_station_sequence_mismatch",

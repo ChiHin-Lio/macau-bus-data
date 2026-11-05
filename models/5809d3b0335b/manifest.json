@@ -1,0 +1,11 @@
+{
+  "version": "5809d3b0335b",
+  "sha256": {
+    "macau-tower": "c9d58687d5eb9787a664562ee515414c8f39569c0c0c8b3c3597aac8751956ed",
+    "sunlight-bus-hzmb": "70a49de74364a15e9cde7b81e3fc3b6bcc1dc6cd11d2fc223dd9d11242a4097f",
+    "sunlight-bus-tcm": "e2f4b4cf5e0a930690c6cf2e392d2b7c0fdc7b508382b2bc85d5170af2cfd683",
+    "sunlight-bus-transmac": "51143be085350b6cbc2634ef1650cce1f89ccf48acff04695a31cb5c51682d80",
+    "sunlight-bus": "41247a2cbb34c336672cb91a9025d649565ec7e19ac1f6ad84ea355943729e6c",
+    "sunlight-car": "508d3903e46b5f9e1627d1ed926b546569d67d2f75b0923d99af12ba97fa9726"
+  }
+}

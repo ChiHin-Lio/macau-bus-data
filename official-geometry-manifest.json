@@ -8,7 +8,7 @@
   "fileId": 722,
   "zipBytes": 1278722,
   "geometrySha256": "4ecf9e214dda9ca613b10b739a92fbd9f206a7b25039b8548b97b1c47315266c",
-  "publishedAt": "2026-11-05T12:08:59.865596+00:00",
+  "publishedAt": "2026-11-06T12:00:02.369524+00:00",
   "qualifiedDirectionCount": 107,
   "retainedDirectionCount": 1,
   "publishedDirectionCount": 108,
@@ -468,7 +468,7 @@
       "routePair": "25BS:0",
       "stopCount": 12,
       "stopSequenceSha256": "6776cae86dabb6f1ef4153fe5203065c22244a46fbf06b9fbc918d8f1ec1c7d6",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 595
     },
     {
@@ -811,7 +811,7 @@
       "routePair": "71S:1",
       "stopCount": 20,
       "stopSequenceSha256": "c715b509b6553e105f20d29f596f2551cf8f722d3ad8b6e4b45d210f69fcc086",
-      "sequenceSource": "fresh_collector_catalogue",
+      "sequenceSource": "official_routeInfo_fallback",
       "coordinateCount": 672
     },
     {
@@ -972,7 +972,7 @@
       "routePair": "N5:0",
       "stopCount": 38,
       "stopSequenceSha256": "47a4f252592f27435176369520958ea399636ae53fda7ad6136235639a64fd85",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2126
     },
     {
@@ -1007,7 +1007,7 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-11-05T12:08:35.618Z",
+  "liveCatalogueGeneratedAt": "2026-11-06T11:59:37.036Z",
   "rejectedVariants": [
     {
       "variant": "15T:0",

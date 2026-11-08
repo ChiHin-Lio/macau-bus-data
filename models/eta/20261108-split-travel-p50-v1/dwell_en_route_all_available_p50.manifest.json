@@ -1,0 +1,4166 @@
+{
+  "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+  "candidateOnly": true,
+  "committedDayProvenance": {
+    "2026-09-15": {
+      "auditReportSha256": "a015bca58a61b0f590c059aad993989fbc7985e53c98986569771f142b4cda94",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "fdfc875ab7bec9527e3a6d773a5cd580e7f9cd9c1a70e7dae4542fc783ad031d",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "a015bca58a61b0f590c059aad993989fbc7985e53c98986569771f142b4cda94",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-15",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 1977,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:26a0cd221e8cf607a21ad6bff5818d4c16dfe6d8b60cc77710f3d08fe094bce8"
+          },
+          {
+            "bytes": 20,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          },
+          {
+            "bytes": 2755558,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:9c42d0400f2ed0534ae98571bb81fe788c18bdfd98f8805f89141bf8e8d2111e"
+          },
+          {
+            "bytes": 9074105,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:2d473f25d8607b7fd359e10258d83b43f8ae745641a3f5505900517a6946d1ac"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-15",
+        "sourceSha256FromAudit": "5b3239b116dc3b9a216afc4fd93050fe5430e3a3772e0d040eb333d4e655f1e2",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1789585115000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1789585115000000000,
+              "sizeBytes": 1977
+            },
+            {
+              "ctimeNs": 1789585115000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1789585115000000000,
+              "sizeBytes": 20
+            },
+            {
+              "ctimeNs": 1789585115000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1789585115000000000,
+              "sizeBytes": 2755558
+            },
+            {
+              "ctimeNs": 1789585115000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1789585115000000000,
+              "sizeBytes": 9074105
+            },
+            {
+              "ctimeNs": 1789585115000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1789585115000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-15",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "5b3239b116dc3b9a216afc4fd93050fe5430e3a3772e0d040eb333d4e655f1e2",
+        "status": "verified"
+      }
+    },
+    "2026-09-16": {
+      "auditReportSha256": "5ba41c9e5b3c39a2d5c799d31ca092c38a8a35391d31770cd4cbb62c04aeb75d",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "7798b81b59372a23381a813e2a966b3fc3cdfb93ad2a41aaa80c745c4bd54377",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "5ba41c9e5b3c39a2d5c799d31ca092c38a8a35391d31770cd4cbb62c04aeb75d",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-16",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8309,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:819178df2e80d7d86a231805fcd865e6b40d5386690140a21072ac9406af9a70"
+          },
+          {
+            "bytes": 1174,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:86a7b86b6eb5cd7ac0ec9ccc3484cf708684b2fc58afcc228d2449aea671eb58"
+          },
+          {
+            "bytes": 22296343,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:3dd1d6751cb3986e75067a589e3b18652971fac016d6a9aeeb0699723173b562"
+          },
+          {
+            "bytes": 96242906,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:714d063f62994f070af4a0cd280981c6724ed26d7e0a1e79a4aee63497852ac5"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-16",
+        "sourceSha256FromAudit": "f17f5ff60a007b286b5ffae0722c287e06570d558a71fee9ec03276669d7527e",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1789671658000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1789671658000000000,
+              "sizeBytes": 8309
+            },
+            {
+              "ctimeNs": 1789671658000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1789671658000000000,
+              "sizeBytes": 1174
+            },
+            {
+              "ctimeNs": 1789671658000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1789671658000000000,
+              "sizeBytes": 22296343
+            },
+            {
+              "ctimeNs": 1789671658000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1789671658000000000,
+              "sizeBytes": 96242906
+            },
+            {
+              "ctimeNs": 1789671658000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1789671658000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-16",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "f17f5ff60a007b286b5ffae0722c287e06570d558a71fee9ec03276669d7527e",
+        "status": "verified"
+      }
+    },
+    "2026-09-17": {
+      "auditReportSha256": "e362e4cc4dc728da7a9e2b36651d0774fe05a647a183c365234389aaefa444f4",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "6f4352001ffe5d5b9cae09c3d316dbd8082dd55aacb61559c264c7f144cf9113",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "e362e4cc4dc728da7a9e2b36651d0774fe05a647a183c365234389aaefa444f4",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-17",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8337,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:9e700959a67a203c9abad9a8908166a7d395f3b2a1c2dd41604042120b2442e8"
+          },
+          {
+            "bytes": 1037,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:b3c5d3ddd436728a1e2e05db25c6839653716903d30d1f7e55cfc43e636361fd"
+          },
+          {
+            "bytes": 22313759,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:15d0d8cfbe7fdfd3cd1cb676662e7fe2991fd9b7f4d6f30cf995d31f340d5101"
+          },
+          {
+            "bytes": 97370049,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:81062b448ecc790b81188b41a52316b5bc5bb35c3bfc798937fe5c85fc142c46"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-17",
+        "sourceSha256FromAudit": "e65e16e4972c99fc00ae1176690aaca561886f768306a58de7ce33784512ab41",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1789758058000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1789758058000000000,
+              "sizeBytes": 8337
+            },
+            {
+              "ctimeNs": 1789758058000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1789758058000000000,
+              "sizeBytes": 1037
+            },
+            {
+              "ctimeNs": 1789758058000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1789758058000000000,
+              "sizeBytes": 22313759
+            },
+            {
+              "ctimeNs": 1789758058000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1789758058000000000,
+              "sizeBytes": 97370049
+            },
+            {
+              "ctimeNs": 1789758058000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1789758058000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-17",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "e65e16e4972c99fc00ae1176690aaca561886f768306a58de7ce33784512ab41",
+        "status": "verified"
+      }
+    },
+    "2026-09-18": {
+      "auditReportSha256": "51de435b7dab26cf67199c312ae2995b1326e4320806f585ae505513f92f19f5",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "be09c2b53e9a226149a40c4c3c578f8d5b6c4f7742e7958cd35f43102f4c12fd",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "51de435b7dab26cf67199c312ae2995b1326e4320806f585ae505513f92f19f5",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-18",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8285,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:f5d44555a6de154780a1eec41adc5dd425d9db1e255018e19f83ae21199ed5f0"
+          },
+          {
+            "bytes": 2159,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:0dc7b81364778bbd7e66e331d83ce123eb110039365c4c901d8745d095385733"
+          },
+          {
+            "bytes": 22417167,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:86aac0fc37654a891eecc599939605e564c003d7552753695e0af0eb7a5363b2"
+          },
+          {
+            "bytes": 97442712,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:2699187736153fe16688d4ec84354eaed1079d39ff4520fc6475fa7c2eaaa1f8"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-18",
+        "sourceSha256FromAudit": "0d27481dc49bec379515ee4af41bd4059d00051732e479284408a5179a4ccf7c",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1789844459000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1789844459000000000,
+              "sizeBytes": 8285
+            },
+            {
+              "ctimeNs": 1789844459000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1789844459000000000,
+              "sizeBytes": 2159
+            },
+            {
+              "ctimeNs": 1789844459000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1789844459000000000,
+              "sizeBytes": 22417167
+            },
+            {
+              "ctimeNs": 1789844459000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1789844459000000000,
+              "sizeBytes": 97442712
+            },
+            {
+              "ctimeNs": 1789844459000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1789844459000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-18",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "0d27481dc49bec379515ee4af41bd4059d00051732e479284408a5179a4ccf7c",
+        "status": "verified"
+      }
+    },
+    "2026-09-19": {
+      "auditReportSha256": "fd5f906d2de705df9e180f2fb8e83267a08b8ab3db8756ebc49c68bccae5c4e6",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "817318cbe4c108a97d977e702ae4d102f8447a460ca340f2c56fa693c1e38274",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "fd5f906d2de705df9e180f2fb8e83267a08b8ab3db8756ebc49c68bccae5c4e6",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-19",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7927,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:7a45f39c0e791863987235ef34e5d7b71f6866bd3d60bc6695202cc7cbe243a6"
+          },
+          {
+            "bytes": 2777,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:3ad86d54f640ad38ba3d49a663e141f2a1bb11417c9e0f24d8b0f5040b0921f7"
+          },
+          {
+            "bytes": 22459319,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:d5892496c086874f3ac6d0e0f167fe1f7638a32188bcaa26813744313c5bc25f"
+          },
+          {
+            "bytes": 94887235,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:5fb5e8cbd3f8076d5256cf8ec512deac8b43a33c0be01f1e132471f225c80ba4"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-19",
+        "sourceSha256FromAudit": "ae5dee0cd12fc978f8ffad363849b664f4c4821cb800d8df78401d35574e0432",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1789930852000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1789930852000000000,
+              "sizeBytes": 7927
+            },
+            {
+              "ctimeNs": 1789930852000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1789930852000000000,
+              "sizeBytes": 2777
+            },
+            {
+              "ctimeNs": 1789930852000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1789930852000000000,
+              "sizeBytes": 22459319
+            },
+            {
+              "ctimeNs": 1789930852000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1789930852000000000,
+              "sizeBytes": 94887235
+            },
+            {
+              "ctimeNs": 1789930852000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1789930852000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-19",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "ae5dee0cd12fc978f8ffad363849b664f4c4821cb800d8df78401d35574e0432",
+        "status": "verified"
+      }
+    },
+    "2026-09-20": {
+      "auditReportSha256": "55e1d5fb49fd246502058409438bda5b0fa44b3e6087a97f6c59d6b3e5641609",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "6a727ca64ba7c20efd20939bbfdcdc4a4084296f90f83472e24134af9f2de85a",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "55e1d5fb49fd246502058409438bda5b0fa44b3e6087a97f6c59d6b3e5641609",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-20",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7099,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:d26e510a12aea55c91003033e13db0c70c01ea2af26be8d8b0c7e1a079ccd80d"
+          },
+          {
+            "bytes": 1560,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:d57e1d8f4367179f730e1165382fe4c6deac2b070cb6c6ea88a6c99f57d9931c"
+          },
+          {
+            "bytes": 22076701,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:27e440c112bad43d11b6bf6f78a21e42ddc605439b0e1472492c7fbdeae498df"
+          },
+          {
+            "bytes": 81934123,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:b3311fa7b3eeed2078821210ab6eaea526b8981abc05542633aedd788f8eb386"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-20",
+        "sourceSha256FromAudit": "fafae6ec918c13fdb4d16a334334a823569854a52c8d482f6cf47db6fc3f9cb5",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790017234000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790017234000000000,
+              "sizeBytes": 7099
+            },
+            {
+              "ctimeNs": 1790017234000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790017234000000000,
+              "sizeBytes": 1560
+            },
+            {
+              "ctimeNs": 1790017234000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790017234000000000,
+              "sizeBytes": 22076701
+            },
+            {
+              "ctimeNs": 1790017234000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790017234000000000,
+              "sizeBytes": 81934123
+            },
+            {
+              "ctimeNs": 1790017234000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790017234000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-20",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "fafae6ec918c13fdb4d16a334334a823569854a52c8d482f6cf47db6fc3f9cb5",
+        "status": "verified"
+      }
+    },
+    "2026-09-21": {
+      "auditReportSha256": "0028f09c1637d93d5a9110698adf3665d90990d592624fac83c76b17800843be",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "de8308a2f27c441e744a5b3f441328bfea44e8f161bf9982542287b784dbafbc",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "0028f09c1637d93d5a9110698adf3665d90990d592624fac83c76b17800843be",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-21",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8010,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:e97b4db78cf9a1cdf1a3c509df7caec13e7f91aaafed2a89195e0249474948e5"
+          },
+          {
+            "bytes": 2154,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:fa821378841b3d5e264f1895ad4a93dd29730996e1b4d3243606795ce0b1b37c"
+          },
+          {
+            "bytes": 22452683,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:e9106e6b630f04b05b6b8d4566fe155fa4ee4c3803f297f5bbbe716b478dbfa2"
+          },
+          {
+            "bytes": 96431663,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:0394a311257b26700b250009a1c7caa7554918ce325a32ae6b245ef473472f2e"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-21",
+        "sourceSha256FromAudit": "3cde5a8821492c6631213bea0dcfeea1a7284711a4ef428a9c2e04ead83fa022",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790103653000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790103653000000000,
+              "sizeBytes": 8010
+            },
+            {
+              "ctimeNs": 1790103653000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790103653000000000,
+              "sizeBytes": 2154
+            },
+            {
+              "ctimeNs": 1790103653000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790103653000000000,
+              "sizeBytes": 22452683
+            },
+            {
+              "ctimeNs": 1790103653000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790103653000000000,
+              "sizeBytes": 96431663
+            },
+            {
+              "ctimeNs": 1790103653000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790103653000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-21",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "3cde5a8821492c6631213bea0dcfeea1a7284711a4ef428a9c2e04ead83fa022",
+        "status": "verified"
+      }
+    },
+    "2026-09-22": {
+      "auditReportSha256": "057c733f688a8b842d13e47bbd14888a4a307dfe1bdcb7aca10e9e839e7effe8",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "aad467ee6f57d77184424cccafcc4ad2169f9c7427f663af51e3de56fe7e9a39",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "057c733f688a8b842d13e47bbd14888a4a307dfe1bdcb7aca10e9e839e7effe8",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-22",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8009,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:8088c5c7ed878156f0b71b77854f4c0a3110076703dc60b253f97755bd793310"
+          },
+          {
+            "bytes": 1954,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:bf30dd12b6e0fe9ce95ef1fa72d405eafaf8abd81581d21c20492ffd127caa37"
+          },
+          {
+            "bytes": 22452526,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:b97b49244fbe15e94c20a3fbd96e2caeee6a8fa60670bf6c74af3ef60efc45e6"
+          },
+          {
+            "bytes": 96505793,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:d764e2af3454d202d1b0e893d9c812c5c0b748deecb31fb1b7e8f8450fe796cf"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-22",
+        "sourceSha256FromAudit": "8e7b1aafc47190abda761e42397d39893ef5fa2e65b2ddf5391b96892f2d5d3b",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790190054000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790190054000000000,
+              "sizeBytes": 8009
+            },
+            {
+              "ctimeNs": 1790190054000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790190054000000000,
+              "sizeBytes": 1954
+            },
+            {
+              "ctimeNs": 1790190054000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790190054000000000,
+              "sizeBytes": 22452526
+            },
+            {
+              "ctimeNs": 1790190054000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790190054000000000,
+              "sizeBytes": 96505793
+            },
+            {
+              "ctimeNs": 1790190054000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790190054000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-22",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "8e7b1aafc47190abda761e42397d39893ef5fa2e65b2ddf5391b96892f2d5d3b",
+        "status": "verified"
+      }
+    },
+    "2026-09-24": {
+      "auditReportSha256": "ccc92826ee9bb23311ea6f41e5f1365e5f3343f93b2841365f3647aada71af13",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "d0e8b10cb45f70e420030e1605fdea96a04ce5e14586dc588363213c63f697bd",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "ccc92826ee9bb23311ea6f41e5f1365e5f3343f93b2841365f3647aada71af13",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-24",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7734,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:2939f985affb124338fba1c7833978069380c3fe30dc83e69bd52355ad886d25"
+          },
+          {
+            "bytes": 1809,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:5b8fe32035b2a0cbf59ae89461d90d5d2fc604829511a503b78adfa1e6540fc1"
+          },
+          {
+            "bytes": 20874334,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:23a1742cf8cf022c2dec8363ca4fb124123ab4ab3683f9fc08a2bde6abac65fe"
+          },
+          {
+            "bytes": 88888216,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:2c8dbaf46e9d91adab4f6179b54ac5786768f748e8efc4353da409c19d7fa44b"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-24",
+        "sourceSha256FromAudit": "e6e48470d2d43698a2b0f8b3153e13cdee25975562cf676c46625b40420f50e1",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790339913000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790339913000000000,
+              "sizeBytes": 7734
+            },
+            {
+              "ctimeNs": 1790339913000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790339913000000000,
+              "sizeBytes": 1809
+            },
+            {
+              "ctimeNs": 1790339913000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790339913000000000,
+              "sizeBytes": 20874334
+            },
+            {
+              "ctimeNs": 1790339913000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790339913000000000,
+              "sizeBytes": 88888216
+            },
+            {
+              "ctimeNs": 1790339913000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790339913000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-24",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "e6e48470d2d43698a2b0f8b3153e13cdee25975562cf676c46625b40420f50e1",
+        "status": "verified"
+      }
+    },
+    "2026-09-25": {
+      "auditReportSha256": "9e38733d8b986d7adff6d940943c96126e6fbb414d82c136372c5a37b1e33dc4",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "b52ff07291652551bf65880a2a5b2d521de2a5fe700e0e7fcac8183c07493e7d",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "9e38733d8b986d7adff6d940943c96126e6fbb414d82c136372c5a37b1e33dc4",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-25",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8337,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:5b544401d7d5784a6223d99a3a70110c4771cec9ec6917006c6707d0b9bff685"
+          },
+          {
+            "bytes": 1399,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:e101c31c269b767b0d8ab15029ea02311749386ae6997549db13d32165dd2b57"
+          },
+          {
+            "bytes": 23515831,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:bba5f94858ed8b777c6e5815959a82c2698d5089b40df77ff31ba2bf81bfc230"
+          },
+          {
+            "bytes": 97954792,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:b47719aebfe4a5f133cf261a9f73bf15eaf58a1e0d3665878be3a5bdc7c0ba57"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-25",
+        "sourceSha256FromAudit": "39b2eb1a5977d22d43215441b64c8387d65365c9c99a7d64c8929b4c45cfb11a",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790426481000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790426481000000000,
+              "sizeBytes": 8337
+            },
+            {
+              "ctimeNs": 1790426481000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790426481000000000,
+              "sizeBytes": 1399
+            },
+            {
+              "ctimeNs": 1790426481000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790426481000000000,
+              "sizeBytes": 23515831
+            },
+            {
+              "ctimeNs": 1790426481000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790426481000000000,
+              "sizeBytes": 97954792
+            },
+            {
+              "ctimeNs": 1790426481000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790426481000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-25",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "39b2eb1a5977d22d43215441b64c8387d65365c9c99a7d64c8929b4c45cfb11a",
+        "status": "verified"
+      }
+    },
+    "2026-09-26": {
+      "auditReportSha256": "8c25fff29335524a82500107ee138fe413fe3ee565bbf97b9472ff995e2f5f36",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "082c59adec698ebe4edc40dbc68afc493973de71ff68cde4c83031b954339431",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "8c25fff29335524a82500107ee138fe413fe3ee565bbf97b9472ff995e2f5f36",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-26",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7594,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:2cdad12fd67118a3496669d00ee53b1b52e1b26b5d01ad92b3e67b75d3d30025"
+          },
+          {
+            "bytes": 1238,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:5f7eced87b3df40d6f1119d8e838199d7167de618d152c6ad85ccedfd41cae08"
+          },
+          {
+            "bytes": 23097505,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:fa4caa474007869dacdbcdfd66ba4474d930db2360869848cc3708922bf778cf"
+          },
+          {
+            "bytes": 87748179,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:aa12ffcafec288b3afe43fdb786fcb696421d6afe5941f32486014d7e19190c3"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-26",
+        "sourceSha256FromAudit": "c4503985e568c76d98072e0aa5a94d1bd6ed5a96b317e037aead112a15d3656e",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790512862000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790512862000000000,
+              "sizeBytes": 7594
+            },
+            {
+              "ctimeNs": 1790512862000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790512862000000000,
+              "sizeBytes": 1238
+            },
+            {
+              "ctimeNs": 1790512862000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790512862000000000,
+              "sizeBytes": 23097505
+            },
+            {
+              "ctimeNs": 1790512862000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790512862000000000,
+              "sizeBytes": 87748179
+            },
+            {
+              "ctimeNs": 1790512862000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790512862000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-26",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "c4503985e568c76d98072e0aa5a94d1bd6ed5a96b317e037aead112a15d3656e",
+        "status": "verified"
+      }
+    },
+    "2026-09-27": {
+      "auditReportSha256": "85b6cd50f2892942e1fa728b02b709d9487d5f135782205dac54f29940644196",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "edaf8498a76ba0377e5151aa593d0065ae88d304078dfa339f2a6ec69e22a397",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "85b6cd50f2892942e1fa728b02b709d9487d5f135782205dac54f29940644196",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-27",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7293,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:5d0f92d63e6c0592d7e292da019f838f99579eb8843321fa4022652216beed60"
+          },
+          {
+            "bytes": 1761,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:d73f54c6eac3ac7b76f9f17e1cd4d9de498b9418238147a919cf93ab476446fc"
+          },
+          {
+            "bytes": 22460444,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:7d96c4b0dfa3d8fec8ef2915845f0b6bc868fddfe9ca5028bcb85c9b8c6075a3"
+          },
+          {
+            "bytes": 82659665,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:bc1a0f21a1bd48a3667ee536fc0fa110677816c07ecff5e0a6badb1daa52dbc7"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-27",
+        "sourceSha256FromAudit": "1ab9bf6dba514ec3de7291b75e60a7e5f5d9334997825eb4d3590f43016ec271",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790599256000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790599256000000000,
+              "sizeBytes": 7293
+            },
+            {
+              "ctimeNs": 1790599256000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790599256000000000,
+              "sizeBytes": 1761
+            },
+            {
+              "ctimeNs": 1790599256000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790599256000000000,
+              "sizeBytes": 22460444
+            },
+            {
+              "ctimeNs": 1790599256000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790599256000000000,
+              "sizeBytes": 82659665
+            },
+            {
+              "ctimeNs": 1790599256000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790599256000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-27",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "1ab9bf6dba514ec3de7291b75e60a7e5f5d9334997825eb4d3590f43016ec271",
+        "status": "verified"
+      }
+    },
+    "2026-09-28": {
+      "auditReportSha256": "16240f77a62eb1e303d421f97c0787fc35598b1f11663860d18c9a451c6bf4b6",
+      "candidateCacheSha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+      "dayManifestSha256": "2ee7e9c707a26986ee97f39ad348dad77cf9cc2c86ea26480c71e803d480cf14",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "16240f77a62eb1e303d421f97c0787fc35598b1f11663860d18c9a451c6bf4b6",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 0,
+        "checkpointProjectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-28",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 7897,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:2ecec12b26a00525625362e68105df8cf7cdce01d5548cef32621f85ca26c3e1"
+          },
+          {
+            "bytes": 1455,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:ef98a78e5f77a2f528012e3a9428dc10d6f2b2391f1c0eb921341c08ba9f8e87"
+          },
+          {
+            "bytes": 22631267,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:6a13211dcf69ea788c8d2a78edec00a9f74b34e70e045a568c3a673872d4d00e"
+          },
+          {
+            "bytes": 91434660,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:8b95be4417dc2c6ba1e015ef02186b7dd8762357f81e8bfbe6685f0d9bf97f2d"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-28",
+        "sourceSha256FromAudit": "49640978b581f999158f81720a218c36fb5aa929fbc544cca7a9b7db48839064",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790685674000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790685674000000000,
+              "sizeBytes": 7897
+            },
+            {
+              "ctimeNs": 1790685673000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790685673000000000,
+              "sizeBytes": 1455
+            },
+            {
+              "ctimeNs": 1790685674000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790685674000000000,
+              "sizeBytes": 22631267
+            },
+            {
+              "ctimeNs": 1790685673000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790685673000000000,
+              "sizeBytes": 91434660
+            },
+            {
+              "ctimeNs": 1790685674000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790685674000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-28",
+        "projectionRows": 0,
+        "projectionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "49640978b581f999158f81720a218c36fb5aa929fbc544cca7a9b7db48839064",
+        "status": "verified"
+      }
+    },
+    "2026-09-29": {
+      "auditReportSha256": "42588517ccd3163d81a447f46db3f62ff3397050f453c6afb163d49ee398e229",
+      "candidateCacheSha256": "394b87e1e27fbfe3f9f1dafeb50bb754122c644db00864995e521516e71277fd",
+      "dayManifestSha256": "f7d6dea179aeb241d153a6c36c9b52d9540492af661dce434f6ef772eb0c5a8b",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "42588517ccd3163d81a447f46db3f62ff3397050f453c6afb163d49ee398e229",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 262014,
+        "checkpointProjectionSha256": "3b65ae4494577e3ff16bc984427bb4a3c81c68d9916c4d719f94eeee7ebe8a4d",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-29",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 8766,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:e64f4be114fbdfbba426983fe85d688d609b71be21895505ad6f5e539df664a2"
+          },
+          {
+            "bytes": 1566744,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:828625ce6780aac56098b47a4c113e3332624b41b992dfbd10ce55e77d32588b"
+          },
+          {
+            "bytes": 79556401,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:fa04a3ae3ed51e15de28f670d55a77ea63776a988eb292c15edd5d522d39ce30"
+          },
+          {
+            "bytes": 95702212,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:5bb9d626248523411420de3e8b9c99b8c2edb226e0441e01ec74f57e4a4395da"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-29",
+        "sourceSha256FromAudit": "d71ca8ea58bfca5e6c64781932372b7514666c667e4884ada3672814c03fe311",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790772099000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790772099000000000,
+              "sizeBytes": 8766
+            },
+            {
+              "ctimeNs": 1790772099000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790772099000000000,
+              "sizeBytes": 1566744
+            },
+            {
+              "ctimeNs": 1790772099000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790772099000000000,
+              "sizeBytes": 79556401
+            },
+            {
+              "ctimeNs": 1790772099000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790772099000000000,
+              "sizeBytes": 95702212
+            },
+            {
+              "ctimeNs": 1790772099000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790772099000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-29",
+        "projectionRows": 262014,
+        "projectionSha256": "3b65ae4494577e3ff16bc984427bb4a3c81c68d9916c4d719f94eeee7ebe8a4d",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "d71ca8ea58bfca5e6c64781932372b7514666c667e4884ada3672814c03fe311",
+        "status": "verified"
+      }
+    },
+    "2026-09-30": {
+      "auditReportSha256": "028bea25871f028d0d68c312af2358c224062708c4a7ef5bc014deeb705a0d57",
+      "candidateCacheSha256": "2f27def4d91bd4c48afeaaf7e7edb5f9298efeedc37770fa31be5d84b67404d6",
+      "dayManifestSha256": "04d1465296b326aecf30921af49c94ab4d5a4ffb2e6923ef159cfb8dcff8b3a2",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "028bea25871f028d0d68c312af2358c224062708c4a7ef5bc014deeb705a0d57",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 1205002,
+        "checkpointProjectionSha256": "f20160dff9e1317566b378e831b95630552327cb9a17207c3d37ae85a8b4f681",
+        "checkpointSource": "checkpoint",
+        "date": "2026-09-30",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 10258,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:a061ffc691aebc1699464f5b2b9d86ea41c1c1ef14cad00e7b50667541182de5"
+          },
+          {
+            "bytes": 5902945,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:d90637cd0e38bf05d2c8ea65330eef28b938f4d03428d0f9ffdd9b45b73c340c"
+          },
+          {
+            "bytes": 207761570,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:a08306ce8a7d116d0857c34076f62fc29df3b225ee4ab5ee5f1f910853482783"
+          },
+          {
+            "bytes": 95384010,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:1e4149e878dd4f825ff52eea855693fa0ce2d3f2f3a17890c72694a7badf1f99"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-09-30",
+        "sourceSha256FromAudit": "81918979c43a53a28a5166629592c3c8dfff5abf9cf6b760e94460102719e0a8",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790858556000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790858556000000000,
+              "sizeBytes": 10258
+            },
+            {
+              "ctimeNs": 1790858556000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790858556000000000,
+              "sizeBytes": 5902945
+            },
+            {
+              "ctimeNs": 1790858556000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790858556000000000,
+              "sizeBytes": 207761570
+            },
+            {
+              "ctimeNs": 1790858556000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790858556000000000,
+              "sizeBytes": 95384010
+            },
+            {
+              "ctimeNs": 1790858556000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790858556000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-09-30",
+        "projectionRows": 1205002,
+        "projectionSha256": "f20160dff9e1317566b378e831b95630552327cb9a17207c3d37ae85a8b4f681",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "81918979c43a53a28a5166629592c3c8dfff5abf9cf6b760e94460102719e0a8",
+        "status": "verified"
+      }
+    },
+    "2026-10-01": {
+      "auditReportSha256": "46e91f0e8d38f1ac9c74493f79c9ed8704b6333ca0a5e01e6aa97c0015d59123",
+      "candidateCacheSha256": "3b921903c796d96af8a958f30658921f1258799aca25b4b9d9e1c94187f9cf94",
+      "dayManifestSha256": "891b94d2f2dab099bc52c81795bb1f1da3d1c4dd62ff868db4605c4b84678253",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "46e91f0e8d38f1ac9c74493f79c9ed8704b6333ca0a5e01e6aa97c0015d59123",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 1143781,
+        "checkpointProjectionSha256": "31be26aa00a23425cf8f3163667d487c16d5bf2c2f7b0a4738739933ced01786",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-01",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 9818,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:b679d65ffa4fc675f59dabfab594b2ce3ff69cb953e293ed37186ebc80b9bdaf"
+          },
+          {
+            "bytes": 5865121,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:5980c0f37cf1a33b62f3e4e582180137fb88fde148374bae6a0ef76faa4362b7"
+          },
+          {
+            "bytes": 210286106,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:74fd72f550da98901558bb58c1579dc579fe29a20305dbbf05f4df9d40346c04"
+          },
+          {
+            "bytes": 91010598,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:c6faa6faa6fa242fa4070dc47d80923d81cae94a5e52301a92a8100620302bf9"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-10-01",
+        "sourceSha256FromAudit": "9df028b377505beac0db68a707a1e76d79a6c6fdc1c3b4e6b036e1f703a66a37",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1790944947000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1790944947000000000,
+              "sizeBytes": 9818
+            },
+            {
+              "ctimeNs": 1790944947000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1790944947000000000,
+              "sizeBytes": 5865121
+            },
+            {
+              "ctimeNs": 1790944947000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1790944947000000000,
+              "sizeBytes": 210286106
+            },
+            {
+              "ctimeNs": 1790944947000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1790944947000000000,
+              "sizeBytes": 91010598
+            },
+            {
+              "ctimeNs": 1790944947000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1790944947000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-01",
+        "projectionRows": 1143781,
+        "projectionSha256": "31be26aa00a23425cf8f3163667d487c16d5bf2c2f7b0a4738739933ced01786",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "9df028b377505beac0db68a707a1e76d79a6c6fdc1c3b4e6b036e1f703a66a37",
+        "status": "verified"
+      }
+    },
+    "2026-10-02": {
+      "auditReportSha256": "d3891d7ded982a6dda6a47026e42f3b03dea8719bf54bfa42ad01491ed914574",
+      "candidateCacheSha256": "64ab848cc1de11ada35fb56240bef39c28394f739f27daad19eb1f5d13ad45f2",
+      "dayManifestSha256": "7bf50ed02779286ccc780d4760f4fce93b4d8c565a62e31d66dfafd5787e376e",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "d3891d7ded982a6dda6a47026e42f3b03dea8719bf54bfa42ad01491ed914574",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 1192960,
+        "checkpointProjectionSha256": "981756153006b52d2f420b9f909fdda9233f1e04c82b6c04e07a89ebf7b65558",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-02",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 10093,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:00a73ffb42a66ed3c072997ad6c0391ba3295501032142b766e8a349e8c706d2"
+          },
+          {
+            "bytes": 5831078,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:7467f1d7c0ec6111e558c026dd212bf88d06617ea75eebdb279f516cdb016605"
+          },
+          {
+            "bytes": 211203045,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:cc93c7dc66b45e96ddb9740539329f19e84b6c90309ab05eae98383790a21e5a"
+          },
+          {
+            "bytes": 94393619,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:dabd736ca62e432f37d663aa5620535cb4d307d4fe98c35df66597b315e92541"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-10-02",
+        "sourceSha256FromAudit": "1a58e0d5036f4cfbd75e5b32f18f19816db94a5b067e2a45003edc5da0da181c",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791031353000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1791031353000000000,
+              "sizeBytes": 10093
+            },
+            {
+              "ctimeNs": 1791031353000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1791031353000000000,
+              "sizeBytes": 5831078
+            },
+            {
+              "ctimeNs": 1791031353000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1791031353000000000,
+              "sizeBytes": 211203045
+            },
+            {
+              "ctimeNs": 1791031353000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1791031353000000000,
+              "sizeBytes": 94393619
+            },
+            {
+              "ctimeNs": 1791031353000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1791031353000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-02",
+        "projectionRows": 1192960,
+        "projectionSha256": "981756153006b52d2f420b9f909fdda9233f1e04c82b6c04e07a89ebf7b65558",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "1a58e0d5036f4cfbd75e5b32f18f19816db94a5b067e2a45003edc5da0da181c",
+        "status": "verified"
+      }
+    },
+    "2026-10-03": {
+      "auditReportSha256": "35815344670610e5cc1a9273a34aa2ac6d47ed6f86917dbba1e4da71f5d92a29",
+      "candidateCacheSha256": "fad476acb8caa38a547bee1a0110a29ac07c2e3866d5822dab27fb0cf60f58b0",
+      "dayManifestSha256": "5141a5c77a79b0fd51e9b0606f1825b5861aa26aa560a0e384d3e99e5112c1bc",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "35815344670610e5cc1a9273a34aa2ac6d47ed6f86917dbba1e4da71f5d92a29",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 1200029,
+        "checkpointProjectionSha256": "8e88def51f07ebeb81e16ccc1a31224b4b317218a5e04110f5f1422fe0d75a64",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-03",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 10173,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:90685f692042b922331270a1eed02055a01182283c1e2196574fb07e0abc8311"
+          },
+          {
+            "bytes": 5789114,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:955e4e1fff0a1985437cb336ddf2fb5a57e2df967f5136f53cf7f97b6105d9dd"
+          },
+          {
+            "bytes": 208818637,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:315e8b9aeec66fc67601f32417561b95edf6b6bdd6fe5ea7a0d9f5ea9e1374b2"
+          },
+          {
+            "bytes": 94882059,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:54b156898314620234f5da7fe0f0f843a6ab886ccc4b97c3d4b2781919a416a9"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-10-03",
+        "sourceSha256FromAudit": "81e871b3d2ad317cb3a3210f61ce953ca7f03732bf7c99e0fc5e70a9860f80d6",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791117757000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1791117757000000000,
+              "sizeBytes": 10173
+            },
+            {
+              "ctimeNs": 1791117757000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1791117757000000000,
+              "sizeBytes": 5789114
+            },
+            {
+              "ctimeNs": 1791117757000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1791117757000000000,
+              "sizeBytes": 208818637
+            },
+            {
+              "ctimeNs": 1791117757000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1791117757000000000,
+              "sizeBytes": 94882059
+            },
+            {
+              "ctimeNs": 1791117757000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1791117757000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-03",
+        "projectionRows": 1200029,
+        "projectionSha256": "8e88def51f07ebeb81e16ccc1a31224b4b317218a5e04110f5f1422fe0d75a64",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "81e871b3d2ad317cb3a3210f61ce953ca7f03732bf7c99e0fc5e70a9860f80d6",
+        "status": "verified"
+      }
+    },
+    "2026-10-04": {
+      "auditReportSha256": "b09c029d30558df6260716fa34f5645337872337c361dd882bcf09c00e009e37",
+      "candidateCacheSha256": "acaad5663be87238354055fef6b4af5f0fd8d10bfbae531f3c4f2e9192cc5674",
+      "dayManifestSha256": "255099bba15e5ce6a38e8bc94da1638e2cdbf05fdac601e28ffb67a042be54a8",
+      "sourceIdentity": {
+        "archiveSelection": null,
+        "auditDetail": "core",
+        "auditReportSha256": "b09c029d30558df6260716fa34f5645337872337c361dd882bcf09c00e009e37",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 1070223,
+        "checkpointProjectionSha256": "392d7fc4c19ed59e209138a8adde84cad5ab76bfc2af821660a741a4de216f22",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-04",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [
+          {
+            "bytes": 9433,
+            "fileName": "compact_manifest.json",
+            "sha256": "sha256:e3bfc8d9a3e8a74c05196869d198ce62c09857a7e593d2a9ef7c600debce4367"
+          },
+          {
+            "bytes": 5030823,
+            "fileName": "dwell.jsonl.gz",
+            "sha256": "sha256:e5b74699524544cb7d3689b101e3db2f8fc9a9529c3c0f3953e46174fbdcab2e"
+          },
+          {
+            "bytes": 187090833,
+            "fileName": "health.jsonl.gz",
+            "sha256": "sha256:5cc21cd4e0ddbb76a9e59c4e41bb3ffae7965804208d03e91cb3938daa04496b"
+          },
+          {
+            "bytes": 82382348,
+            "fileName": "observations.jsonl.gz",
+            "sha256": "sha256:6b68d187e997eb9dd056b8a524384adcb3ca38044c57592a32eb883c89348f98"
+          },
+          {
+            "bytes": 20,
+            "fileName": "predictions.jsonl.gz",
+            "sha256": "sha256:d1111b245f685176180e6f1631e6dc49badf6672368e9ce260c71355165effdf"
+          }
+        ],
+        "sourceKind": "legacy_loose_gzip",
+        "sourcePath": "compact/2026-10-04",
+        "sourceSha256FromAudit": "efa13527e9e5420638398fda74497afe29893e9ce45ee8615bf672fe830035bb",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791204105000000000,
+              "fileName": "compact_manifest.json",
+              "mtimeNs": 1791204105000000000,
+              "sizeBytes": 9433
+            },
+            {
+              "ctimeNs": 1791204105000000000,
+              "fileName": "dwell.jsonl.gz",
+              "mtimeNs": 1791204105000000000,
+              "sizeBytes": 5030823
+            },
+            {
+              "ctimeNs": 1791204105000000000,
+              "fileName": "health.jsonl.gz",
+              "mtimeNs": 1791204105000000000,
+              "sizeBytes": 187090833
+            },
+            {
+              "ctimeNs": 1791204105000000000,
+              "fileName": "observations.jsonl.gz",
+              "mtimeNs": 1791204105000000000,
+              "sizeBytes": 82382348
+            },
+            {
+              "ctimeNs": 1791204105000000000,
+              "fileName": "predictions.jsonl.gz",
+              "mtimeNs": 1791204105000000000,
+              "sizeBytes": 20
+            }
+          ],
+          "kind": "legacy_loose_gzip"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-04",
+        "projectionRows": 1070223,
+        "projectionSha256": "392d7fc4c19ed59e209138a8adde84cad5ab76bfc2af821660a741a4de216f22",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": "legacy_loose_gzip",
+        "sourceSha256": "efa13527e9e5420638398fda74497afe29893e9ce45ee8615bf672fe830035bb",
+        "status": "verified"
+      }
+    },
+    "2026-10-07": {
+      "auditReportSha256": "159ecd23646d5c37543b1b2a4857d9dba8b8e33166ae85644e7903a721d3347f",
+      "candidateCacheSha256": "702ca7cd6db85670878ae8d763408a490a3e2ccb725407df370cd2d48d71826f",
+      "dayManifestSha256": "fb633422ef4e24894b37a356982e85a71c5bc7a3e1fdebe0246ae5be3bd1e394",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-07-b6429d67ed1272ea36d727119d5f57503e7a44dd2428388186a6adc54f7dc4cc.tar.zst",
+          "selectedMtimeNs": 1791494361000000000,
+          "selectedSizeBytes": 671330997,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "159ecd23646d5c37543b1b2a4857d9dba8b8e33166ae85644e7903a721d3347f",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 769498,
+        "checkpointProjectionSha256": "c35f36caa503a7a21fdfd144169f8ec55319bbc8cc6b0d9c7fb8e51023d33fd6",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-07",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-07-b6429d67ed1272ea36d727119d5f57503e7a44dd2428388186a6adc54f7dc4cc.tar.zst",
+        "sourceSha256FromAudit": "72163d68e416b0dbf3e4479a79fab66d37942fd650b395f8430c492570588942",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791495022000000000,
+              "fileName": "2026-10-07-b6429d67ed1272ea36d727119d5f57503e7a44dd2428388186a6adc54f7dc4cc.tar.zst",
+              "mtimeNs": 1791494361000000000,
+              "sizeBytes": 671330997
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-07",
+        "projectionRows": 769498,
+        "projectionSha256": "c35f36caa503a7a21fdfd144169f8ec55319bbc8cc6b0d9c7fb8e51023d33fd6",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "72163d68e416b0dbf3e4479a79fab66d37942fd650b395f8430c492570588942",
+        "status": "verified"
+      }
+    },
+    "2026-10-08": {
+      "auditReportSha256": "464e976b0c6274f55311df20baef1807992ea86c9240a40e364807eefcc9e225",
+      "candidateCacheSha256": "f85286910d0297c6c49cb1731f240a59104cfdfdc896444fd933fb0edaf25976",
+      "dayManifestSha256": "2a1668463de2c91db3faf4ff4a20c19a50558f2f47b755b2a3fde3e746e77fff",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [
+            {
+              "fileName": "2026-10-08-d11153c4401ea43aee4f4233f3766470b86ee5789aa436d095481d74f490264f.tar.zst",
+              "mtimeNs": 1791528731000000000,
+              "sizeBytes": 1892601096
+            }
+          ],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 2,
+          "policy": "latest_canonical_day_archive_mtime_ns_then_filename_v1",
+          "selectedFile": "2026-10-08-cd11151ada594610b717ec2ec41c153263c1c6e5caaa3dd2d2740e747132ed5c.tar.zst",
+          "selectedMtimeNs": 1791772850000000000,
+          "selectedSizeBytes": 2164590792,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "464e976b0c6274f55311df20baef1807992ea86c9240a40e364807eefcc9e225",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2912380,
+        "checkpointProjectionSha256": "ff2763bcd168c7783baecb3652167d42bee48982d9b28c0806cb47256d33cf76",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-08",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-08-cd11151ada594610b717ec2ec41c153263c1c6e5caaa3dd2d2740e747132ed5c.tar.zst",
+        "sourceSha256FromAudit": "1c1ff10fafe79223f116eeb1ee1e78926b266eb90c8c7f4e547251178678432a",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791775015000000000,
+              "fileName": "2026-10-08-cd11151ada594610b717ec2ec41c153263c1c6e5caaa3dd2d2740e747132ed5c.tar.zst",
+              "mtimeNs": 1791772850000000000,
+              "sizeBytes": 2164590792
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-08",
+        "projectionRows": 2912380,
+        "projectionSha256": "ff2763bcd168c7783baecb3652167d42bee48982d9b28c0806cb47256d33cf76",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "1c1ff10fafe79223f116eeb1ee1e78926b266eb90c8c7f4e547251178678432a",
+        "status": "verified"
+      }
+    },
+    "2026-10-09": {
+      "auditReportSha256": "ff9c947d18ac9336c38e511a4dade5b49969b3e635f1c7803e9ce98fba980e5e",
+      "candidateCacheSha256": "9f8f6b4ec327375a300376717a8a008fb2088d637b06e408b8897e2924855e1d",
+      "dayManifestSha256": "4bfbafab81d04c48b12675e7307ad5f0c216896c2c7ab31bb0a27aedd0fef8f5",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [
+            {
+              "fileName": "2026-10-09-e9e0c01e352ff0b4879886dcf7fa1cc30af46421c2c85ef0e77b159a5336fb5b.tar.zst",
+              "mtimeNs": 1791601091000000000,
+              "sizeBytes": 2330668775
+            }
+          ],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 2,
+          "policy": "latest_canonical_day_archive_mtime_ns_then_filename_v1",
+          "selectedFile": "2026-10-09-5db970bc7e27382414f63525d4b6316ee8ae39649eebc12c0a0c2a749eacd023.tar.zst",
+          "selectedMtimeNs": 1791777426000000000,
+          "selectedSizeBytes": 2621952085,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "ff9c947d18ac9336c38e511a4dade5b49969b3e635f1c7803e9ce98fba980e5e",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3347481,
+        "checkpointProjectionSha256": "b69c7fabc3f75017d57264a06559b1946bbbbdb785df4a4769247f8650c49f41",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-09",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-09-5db970bc7e27382414f63525d4b6316ee8ae39649eebc12c0a0c2a749eacd023.tar.zst",
+        "sourceSha256FromAudit": "8effd4efb4f09d1b9a17661d6aec7c837a0fa3b0527d44194af05bc7d99f4c7f",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791861838000000000,
+              "fileName": "2026-10-09-5db970bc7e27382414f63525d4b6316ee8ae39649eebc12c0a0c2a749eacd023.tar.zst",
+              "mtimeNs": 1791777426000000000,
+              "sizeBytes": 2621952085
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-09",
+        "projectionRows": 3347481,
+        "projectionSha256": "b69c7fabc3f75017d57264a06559b1946bbbbdb785df4a4769247f8650c49f41",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "8effd4efb4f09d1b9a17661d6aec7c837a0fa3b0527d44194af05bc7d99f4c7f",
+        "status": "verified"
+      }
+    },
+    "2026-10-10": {
+      "auditReportSha256": "e82b041bc4af97b05d59324de2abffd76908b865c39537c4fdc40f67c8977292",
+      "candidateCacheSha256": "5617682a4f84fba4761af08249a08488fe5907dd4aef601fe247f0f4de28758b",
+      "dayManifestSha256": "dbad10005ee30dcc8a1984c25ac1c5419508d15a4fed3a86d24f1c46a245243d",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-10-e0ede25fcf0185f22d1156e8a052c022270ade75f2129b91f4b4d8155e6f30c2.tar.zst",
+          "selectedMtimeNs": 1791687215000000000,
+          "selectedSizeBytes": 1504998232,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "e82b041bc4af97b05d59324de2abffd76908b865c39537c4fdc40f67c8977292",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3105832,
+        "checkpointProjectionSha256": "6d0931302c6d41dff4f70f974a67fc41106ad615c3ce14c9ea5196c2207747bd",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-10",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-10-e0ede25fcf0185f22d1156e8a052c022270ade75f2129b91f4b4d8155e6f30c2.tar.zst",
+        "sourceSha256FromAudit": "29f0aee89cc04bb66d610bf50231a9db428383e1200db83a39bd7af8205cfdec",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791688725000000000,
+              "fileName": "2026-10-10-e0ede25fcf0185f22d1156e8a052c022270ade75f2129b91f4b4d8155e6f30c2.tar.zst",
+              "mtimeNs": 1791687215000000000,
+              "sizeBytes": 1504998232
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-10",
+        "projectionRows": 3105832,
+        "projectionSha256": "6d0931302c6d41dff4f70f974a67fc41106ad615c3ce14c9ea5196c2207747bd",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "29f0aee89cc04bb66d610bf50231a9db428383e1200db83a39bd7af8205cfdec",
+        "status": "verified"
+      }
+    },
+    "2026-10-11": {
+      "auditReportSha256": "bb42b1ac3f38ce19d732ba08d3ea6879e17e9830922e9e1a4aedb623ce167d60",
+      "candidateCacheSha256": "b204c95aad2f351d3f0f5b2f936f5375b063465bb1310a36b9de2cf066502149",
+      "dayManifestSha256": "56b96cc44e11156c483ccbe075b364a8edd1e1a44335d8227da8b3c18713ae15",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-11-72b7e6b743f2ae4abdbec33029c2166ef1d17cedb9cb0fe93632e210cc4c084c.tar.zst",
+          "selectedMtimeNs": 1791788725000000000,
+          "selectedSizeBytes": 1727902516,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "bb42b1ac3f38ce19d732ba08d3ea6879e17e9830922e9e1a4aedb623ce167d60",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2916407,
+        "checkpointProjectionSha256": "64e352a38992dc6e301d476a61e15a5751e44d2d26d2368b459ac714a7761601",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-11",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-11-72b7e6b743f2ae4abdbec33029c2166ef1d17cedb9cb0fe93632e210cc4c084c.tar.zst",
+        "sourceSha256FromAudit": "ac411f180ae35859686b013d50c74c896a57b1f7306b8f2bb45d48ed2448805d",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791790587000000000,
+              "fileName": "2026-10-11-72b7e6b743f2ae4abdbec33029c2166ef1d17cedb9cb0fe93632e210cc4c084c.tar.zst",
+              "mtimeNs": 1791788725000000000,
+              "sizeBytes": 1727902516
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-11",
+        "projectionRows": 2916407,
+        "projectionSha256": "64e352a38992dc6e301d476a61e15a5751e44d2d26d2368b459ac714a7761601",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "ac411f180ae35859686b013d50c74c896a57b1f7306b8f2bb45d48ed2448805d",
+        "status": "verified"
+      }
+    },
+    "2026-10-12": {
+      "auditReportSha256": "c3414f88088dc0e2cbf13bf7e470d46434d29f95bfbf5f438c5c861bea3c39a7",
+      "candidateCacheSha256": "197ec68808562b5cbf2d29fc8424b9f3e4b652d1913685fc8e55de67c91ec3d0",
+      "dayManifestSha256": "658c850c526ade9cc3a5e8bdf6ffacb3ab5909aab6e26d0c9ebe9ff2bd1d9e3f",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-12-59ef0310d06d8a38ab60f815084fad9181330b06245ce2295870a065b7fa7a3e.tar.zst",
+          "selectedMtimeNs": 1791863939000000000,
+          "selectedSizeBytes": 1842895977,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "c3414f88088dc0e2cbf13bf7e470d46434d29f95bfbf5f438c5c861bea3c39a7",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3308833,
+        "checkpointProjectionSha256": "aac7fcd6cb0a74c98cb9aac43145c01e9d1fcbad8daecb651fa7e87e35f6c9d2",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-12",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-12-59ef0310d06d8a38ab60f815084fad9181330b06245ce2295870a065b7fa7a3e.tar.zst",
+        "sourceSha256FromAudit": "a0752041f5d83c8c9416e848ac0bf1a62417fa73f5cd11161d555c5a25958c86",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791865745000000000,
+              "fileName": "2026-10-12-59ef0310d06d8a38ab60f815084fad9181330b06245ce2295870a065b7fa7a3e.tar.zst",
+              "mtimeNs": 1791863939000000000,
+              "sizeBytes": 1842895977
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-12",
+        "projectionRows": 3308833,
+        "projectionSha256": "aac7fcd6cb0a74c98cb9aac43145c01e9d1fcbad8daecb651fa7e87e35f6c9d2",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "a0752041f5d83c8c9416e848ac0bf1a62417fa73f5cd11161d555c5a25958c86",
+        "status": "verified"
+      }
+    },
+    "2026-10-13": {
+      "auditReportSha256": "0e8b0315ed2e39ad795f1d540071e1867e5785e8871d07d1d81f1a2a8224fd86",
+      "candidateCacheSha256": "fe1ce5ab5ef4c5d8a6b75119709d4c0f0d10a471d0d884f6e58b4317b22672fb",
+      "dayManifestSha256": "ac6296ce21bb6cf94bc08ee9f9838ac08b6c0d55c8d1aacb21700a9b255aff31",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-13-708f8b4dfc0b3ef1001d4469401d396efdf4afa4e05981cf0d41bf7f191f1538.tar.zst",
+          "selectedMtimeNs": 1791946244000000000,
+          "selectedSizeBytes": 1844626504,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "0e8b0315ed2e39ad795f1d540071e1867e5785e8871d07d1d81f1a2a8224fd86",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3345422,
+        "checkpointProjectionSha256": "790b157ffdafd469493d74e29a95b8dd3b64861bfb2885311caff679b41d3d1c",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-13",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-13-708f8b4dfc0b3ef1001d4469401d396efdf4afa4e05981cf0d41bf7f191f1538.tar.zst",
+        "sourceSha256FromAudit": "47bab8d1c16f4baff8048eefd2470be8a1616fe636a9fd0082d9b79587f9b5a7",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1791948106000000000,
+              "fileName": "2026-10-13-708f8b4dfc0b3ef1001d4469401d396efdf4afa4e05981cf0d41bf7f191f1538.tar.zst",
+              "mtimeNs": 1791946244000000000,
+              "sizeBytes": 1844626504
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-13",
+        "projectionRows": 3345422,
+        "projectionSha256": "790b157ffdafd469493d74e29a95b8dd3b64861bfb2885311caff679b41d3d1c",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "47bab8d1c16f4baff8048eefd2470be8a1616fe636a9fd0082d9b79587f9b5a7",
+        "status": "verified"
+      }
+    },
+    "2026-10-14": {
+      "auditReportSha256": "4d97e1f1cdcfb5ffd73206befe0fe5e85a10c4c511777c2aed89c4b325cb0555",
+      "candidateCacheSha256": "7f5083f2da593e3a4cc48eaff247006e28701bc6193e96b50d5786b47b720aa4",
+      "dayManifestSha256": "2eb149afa6a40d3148bedfc94d47b97411332e957af2ffe5ba56255220ce93fa",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-14-98c6a86e39fec3ed748259e54df6307a5c84a9e5fd2300e33c7fc9b7c1157149.tar.zst",
+          "selectedMtimeNs": 1792032677000000000,
+          "selectedSizeBytes": 1864854347,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "4d97e1f1cdcfb5ffd73206befe0fe5e85a10c4c511777c2aed89c4b325cb0555",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3364365,
+        "checkpointProjectionSha256": "9000f59b8c7446d280eb0fde746f9c9f8f890358a1305a69b44ddc88af745d78",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-14",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-14-98c6a86e39fec3ed748259e54df6307a5c84a9e5fd2300e33c7fc9b7c1157149.tar.zst",
+        "sourceSha256FromAudit": "af0bb5928c98a6c8647fb538f74895d494ec621ecec2be175167b5d2a5526635",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792034559000000000,
+              "fileName": "2026-10-14-98c6a86e39fec3ed748259e54df6307a5c84a9e5fd2300e33c7fc9b7c1157149.tar.zst",
+              "mtimeNs": 1792032677000000000,
+              "sizeBytes": 1864854347
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-14",
+        "projectionRows": 3364365,
+        "projectionSha256": "9000f59b8c7446d280eb0fde746f9c9f8f890358a1305a69b44ddc88af745d78",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "af0bb5928c98a6c8647fb538f74895d494ec621ecec2be175167b5d2a5526635",
+        "status": "verified"
+      }
+    },
+    "2026-10-15": {
+      "auditReportSha256": "54a7ef6d8c708c385a3c8f98ee0870249b821141e485532ae98b733000d3c0e2",
+      "candidateCacheSha256": "ec0dc66a62340f037eb0622ec772d3ece35c152f50e22588f2cc54ee201217f6",
+      "dayManifestSha256": "18fe24599a0dc676930636bb168c15ac6e21cf5c51c7b15a230f565eb05f8c61",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-15-a5514676fe84365655e7528d274b5376989df5e9f31a464734b45742ffd3bca3.tar.zst",
+          "selectedMtimeNs": 1792118828000000000,
+          "selectedSizeBytes": 1640983265,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "54a7ef6d8c708c385a3c8f98ee0870249b821141e485532ae98b733000d3c0e2",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3070370,
+        "checkpointProjectionSha256": "24a3fb44a576f478cc4cb56040174692a72bf6ba0796713066f4fb98d97e57d1",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-15",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-15-a5514676fe84365655e7528d274b5376989df5e9f31a464734b45742ffd3bca3.tar.zst",
+        "sourceSha256FromAudit": "ea7598203d9aa663292bf7df850926b32f2403e132a311c74d58ac35cdf58835",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792120492000000000,
+              "fileName": "2026-10-15-a5514676fe84365655e7528d274b5376989df5e9f31a464734b45742ffd3bca3.tar.zst",
+              "mtimeNs": 1792118828000000000,
+              "sizeBytes": 1640983265
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-15",
+        "projectionRows": 3070370,
+        "projectionSha256": "24a3fb44a576f478cc4cb56040174692a72bf6ba0796713066f4fb98d97e57d1",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "ea7598203d9aa663292bf7df850926b32f2403e132a311c74d58ac35cdf58835",
+        "status": "verified"
+      }
+    },
+    "2026-10-16": {
+      "auditReportSha256": "8980c2f9531bb6dd83e6debb57405a0e95c9874056d62288836506318e1fd011",
+      "candidateCacheSha256": "75ec8943710a3a92c15580a2393827c85ea9243ecd2ccb3feae5bf2f224c35a4",
+      "dayManifestSha256": "46580a6c2b22a885ee70027a769bebeb8546273b72344e3595df90472a98710e",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-16-88942d7ebc2f1577dac7f0a98b6bd83f92a94d6c927f225fdb6726a8b2f5664b.tar.zst",
+          "selectedMtimeNs": 1792205317000000000,
+          "selectedSizeBytes": 1641890426,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "8980c2f9531bb6dd83e6debb57405a0e95c9874056d62288836506318e1fd011",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3078148,
+        "checkpointProjectionSha256": "a3f6f5e400779e1df1ab78e56b90e1ce5acf0b7c7851dc6527d6ddddb4de7058",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-16",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-16-88942d7ebc2f1577dac7f0a98b6bd83f92a94d6c927f225fdb6726a8b2f5664b.tar.zst",
+        "sourceSha256FromAudit": "c91f5053728dec474e821fe3ba1d1c570e798198f89b36d638e2c8c56af4f3e2",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792206975000000000,
+              "fileName": "2026-10-16-88942d7ebc2f1577dac7f0a98b6bd83f92a94d6c927f225fdb6726a8b2f5664b.tar.zst",
+              "mtimeNs": 1792205317000000000,
+              "sizeBytes": 1641890426
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-16",
+        "projectionRows": 3078148,
+        "projectionSha256": "a3f6f5e400779e1df1ab78e56b90e1ce5acf0b7c7851dc6527d6ddddb4de7058",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "c91f5053728dec474e821fe3ba1d1c570e798198f89b36d638e2c8c56af4f3e2",
+        "status": "verified"
+      }
+    },
+    "2026-10-17": {
+      "auditReportSha256": "5991fa4a1ee5cbc794e91ce0b95e06e594f455179327422231b14279509448ba",
+      "candidateCacheSha256": "8a7bc050adcfafa9546dede27cbe9b5beed85b83d33193647ce9ea246f3d4503",
+      "dayManifestSha256": "df3b124cad41c7840c11c9d7b994524731433b6de8ecd126114ed7b7f4f98f07",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-17-1e964788d1b3fa418f94ef63213e5f34b8b59920eb688cc467c0c7082a81bfa1.tar.zst",
+          "selectedMtimeNs": 1792291634000000000,
+          "selectedSizeBytes": 1610513965,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "5991fa4a1ee5cbc794e91ce0b95e06e594f455179327422231b14279509448ba",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2953637,
+        "checkpointProjectionSha256": "298ecc0fca91865a45e77a181f1e1300f6d8653da0f8dbc2c903e69bf5b746c0",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-17",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-17-1e964788d1b3fa418f94ef63213e5f34b8b59920eb688cc467c0c7082a81bfa1.tar.zst",
+        "sourceSha256FromAudit": "f0274359b03ca32608a6e4670e351d74f145e5b84229fdd25744f20948d5b76d",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792293262000000000,
+              "fileName": "2026-10-17-1e964788d1b3fa418f94ef63213e5f34b8b59920eb688cc467c0c7082a81bfa1.tar.zst",
+              "mtimeNs": 1792291634000000000,
+              "sizeBytes": 1610513965
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-17",
+        "projectionRows": 2953637,
+        "projectionSha256": "298ecc0fca91865a45e77a181f1e1300f6d8653da0f8dbc2c903e69bf5b746c0",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "f0274359b03ca32608a6e4670e351d74f145e5b84229fdd25744f20948d5b76d",
+        "status": "verified"
+      }
+    },
+    "2026-10-18": {
+      "auditReportSha256": "f9149dd06a19988a17373fd29bbe8d6c97623ce7d37e7793dfdef18d32bdc318",
+      "candidateCacheSha256": "5b75a51beafb6676d3e7e0212dff082b5a9774e9b8899b45e1e8af014f411188",
+      "dayManifestSha256": "4204a2de4e2672418c1656a86fe72b64fe330339870915235c6f991a3c2dc47f",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-18-f018f6e368c8f0a3359c07fd0d87b1540caff5e96e69f0a6010e4893f0ac8c13.tar.zst",
+          "selectedMtimeNs": 1792378118000000000,
+          "selectedSizeBytes": 1661112341,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "f9149dd06a19988a17373fd29bbe8d6c97623ce7d37e7793dfdef18d32bdc318",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3039684,
+        "checkpointProjectionSha256": "3c430d3761766aefcfe11e0e9338b1443fa34e93f8c58953aea3b3edcdef2d32",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-18",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-18-f018f6e368c8f0a3359c07fd0d87b1540caff5e96e69f0a6010e4893f0ac8c13.tar.zst",
+        "sourceSha256FromAudit": "8ae3f02fa1c582eae982166619d6e8e2a130eb87888e36a90f9064998e79c808",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792465494000000000,
+              "fileName": "2026-10-18-f018f6e368c8f0a3359c07fd0d87b1540caff5e96e69f0a6010e4893f0ac8c13.tar.zst",
+              "mtimeNs": 1792378118000000000,
+              "sizeBytes": 1661112341
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-18",
+        "projectionRows": 3039684,
+        "projectionSha256": "3c430d3761766aefcfe11e0e9338b1443fa34e93f8c58953aea3b3edcdef2d32",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "8ae3f02fa1c582eae982166619d6e8e2a130eb87888e36a90f9064998e79c808",
+        "status": "verified"
+      }
+    },
+    "2026-10-19": {
+      "auditReportSha256": "fdeb7092b27fa94fe9fe1da1ad4225a9067d2db1f36665848409fa086f6148b0",
+      "candidateCacheSha256": "0ea94e30caf0dd41bd6507dd22f9fc38eb1394f8ff3589096d7ab8474f2f2caa",
+      "dayManifestSha256": "b610ef8d1ce742a3639ffa400f363db1729fb6c728dab581d8b81cf799b8e9d0",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-19-10607ab8bbd14b2725f4a00f4b66b35c82cf4eebaeb1683f883c7a6870b59eaa.tar.zst",
+          "selectedMtimeNs": 1792467862000000000,
+          "selectedSizeBytes": 1662299576,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "fdeb7092b27fa94fe9fe1da1ad4225a9067d2db1f36665848409fa086f6148b0",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3030249,
+        "checkpointProjectionSha256": "644214c0cfd4a0510c1fe6e0ee943ab0bf24af564afd6c4cb7273918f0191caa",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-19",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-19-10607ab8bbd14b2725f4a00f4b66b35c82cf4eebaeb1683f883c7a6870b59eaa.tar.zst",
+        "sourceSha256FromAudit": "76a611a5e1a3010122fd3ec2134d1bc1e6bf19022e1529a27a26b02db511d257",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792551999000000000,
+              "fileName": "2026-10-19-10607ab8bbd14b2725f4a00f4b66b35c82cf4eebaeb1683f883c7a6870b59eaa.tar.zst",
+              "mtimeNs": 1792467862000000000,
+              "sizeBytes": 1662299576
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-19",
+        "projectionRows": 3030249,
+        "projectionSha256": "644214c0cfd4a0510c1fe6e0ee943ab0bf24af564afd6c4cb7273918f0191caa",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "76a611a5e1a3010122fd3ec2134d1bc1e6bf19022e1529a27a26b02db511d257",
+        "status": "verified"
+      }
+    },
+    "2026-10-20": {
+      "auditReportSha256": "c37f10a10eba54781cacb0fbdf04ef18f9cd4295711ba5436d79bf3ff9b84cd4",
+      "candidateCacheSha256": "93fdf9ec2aeb3c989e1568d5051f5d77a528276470cc03561c7d447296223b73",
+      "dayManifestSha256": "7900e66197df382f8eeb5fb4d999d52df73e4c7eb6bd8a6ccb9b139cd2ece2ed",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-20-c8a2e4341092013698de672c347f4d1184d3e5be4f23ddfdd71e404eb963b9b3.tar.zst",
+          "selectedMtimeNs": 1792554387000000000,
+          "selectedSizeBytes": 1615827089,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "c37f10a10eba54781cacb0fbdf04ef18f9cd4295711ba5436d79bf3ff9b84cd4",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2983300,
+        "checkpointProjectionSha256": "6b371efe64df8b85d540915a74e00f9533a83d4b58508f4dac440bda30f488c0",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-20",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-20-c8a2e4341092013698de672c347f4d1184d3e5be4f23ddfdd71e404eb963b9b3.tar.zst",
+        "sourceSha256FromAudit": "56e58543e2d3f8f117c038fd4d5aed7a8bd821d2a13f48c1a9dcb8da48a15327",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792638360000000000,
+              "fileName": "2026-10-20-c8a2e4341092013698de672c347f4d1184d3e5be4f23ddfdd71e404eb963b9b3.tar.zst",
+              "mtimeNs": 1792554387000000000,
+              "sizeBytes": 1615827089
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-20",
+        "projectionRows": 2983300,
+        "projectionSha256": "6b371efe64df8b85d540915a74e00f9533a83d4b58508f4dac440bda30f488c0",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "56e58543e2d3f8f117c038fd4d5aed7a8bd821d2a13f48c1a9dcb8da48a15327",
+        "status": "verified"
+      }
+    },
+    "2026-10-21": {
+      "auditReportSha256": "541205590362e32283941968bb61e708884be848d88827b63bbd21346ea4b635",
+      "candidateCacheSha256": "e7ff85796f00cba3c38bb1a9a8df6b4122431dc09713d1c82b3bb837442a4369",
+      "dayManifestSha256": "c8d2c080885cf528806d17f6f890edc3da4852eb8f785fe6c625adae0b47b34e",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-21-20839699c973bfe6749eefe33927bdade3e511e3aacc31fd3a79672d70435730.tar.zst",
+          "selectedMtimeNs": 1792640697000000000,
+          "selectedSizeBytes": 1616257287,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "541205590362e32283941968bb61e708884be848d88827b63bbd21346ea4b635",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2988022,
+        "checkpointProjectionSha256": "fec209722d420b5b468ba01f1e4f9ce14c61a224c5abe7a57dd1872a5b75c880",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-21",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-21-20839699c973bfe6749eefe33927bdade3e511e3aacc31fd3a79672d70435730.tar.zst",
+        "sourceSha256FromAudit": "b87ab202c9127f0ab5c1bf14ec933e6d7a8d8293c443a7829f321ac6d8f37f06",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792724711000000000,
+              "fileName": "2026-10-21-20839699c973bfe6749eefe33927bdade3e511e3aacc31fd3a79672d70435730.tar.zst",
+              "mtimeNs": 1792640697000000000,
+              "sizeBytes": 1616257287
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-21",
+        "projectionRows": 2988022,
+        "projectionSha256": "fec209722d420b5b468ba01f1e4f9ce14c61a224c5abe7a57dd1872a5b75c880",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "b87ab202c9127f0ab5c1bf14ec933e6d7a8d8293c443a7829f321ac6d8f37f06",
+        "status": "verified"
+      }
+    },
+    "2026-10-22": {
+      "auditReportSha256": "a4560aab8603258ff0c5b763db91a77e6332b538fb98f5b8d30c2d453bd9f72b",
+      "candidateCacheSha256": "b385c7bd83d730be72e964c138dc39443b3b351bc85bd54270f9f19cee90df8d",
+      "dayManifestSha256": "eb3157955d46fdaa033092e2eccb361b61b1a4b1a80544cdeda0b6f216dcb0c4",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-22-3ed4ce6c086cff8490f8dd31792c835ec240f4f1d3ce8c48cab27ace1c722940.tar.zst",
+          "selectedMtimeNs": 1792727038000000000,
+          "selectedSizeBytes": 1627427037,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "a4560aab8603258ff0c5b763db91a77e6332b538fb98f5b8d30c2d453bd9f72b",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3000140,
+        "checkpointProjectionSha256": "354c90f236e48e331fafaa672d3bb52dcc1191da2ee1d2aec0256b56ab7d3e06",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-22",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-22-3ed4ce6c086cff8490f8dd31792c835ec240f4f1d3ce8c48cab27ace1c722940.tar.zst",
+        "sourceSha256FromAudit": "a0c6e788a58b9e9f44152fa3bb6269dbb539dc15a71f2e4e2561e974ebe5171a",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792811120000000000,
+              "fileName": "2026-10-22-3ed4ce6c086cff8490f8dd31792c835ec240f4f1d3ce8c48cab27ace1c722940.tar.zst",
+              "mtimeNs": 1792727038000000000,
+              "sizeBytes": 1627427037
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-22",
+        "projectionRows": 3000140,
+        "projectionSha256": "354c90f236e48e331fafaa672d3bb52dcc1191da2ee1d2aec0256b56ab7d3e06",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "a0c6e788a58b9e9f44152fa3bb6269dbb539dc15a71f2e4e2561e974ebe5171a",
+        "status": "verified"
+      }
+    },
+    "2026-10-23": {
+      "auditReportSha256": "472678284ba725efdb8977d342867d0f030783a90f92a7b587d5913523778c85",
+      "candidateCacheSha256": "5d7309c9c000e7289430bb58c4a85248b455811ea942b2f77a22c1c4fbe686a9",
+      "dayManifestSha256": "f92a736e7126419887e6d303cee55154509148c4f39c776a9262e3de6a57dcad",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-23-78eeec9c6f759f9306d6019e3c76f6942bff3d6b44835f3b26a74db5f848b052.tar.zst",
+          "selectedMtimeNs": 1792984700000000000,
+          "selectedSizeBytes": 1337613718,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "472678284ba725efdb8977d342867d0f030783a90f92a7b587d5913523778c85",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3067198,
+        "checkpointProjectionSha256": "82087abda84400eb91eed2bb1ba1a713944c39117268f46ce21fd857f1016fc8",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-23",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-23-78eeec9c6f759f9306d6019e3c76f6942bff3d6b44835f3b26a74db5f848b052.tar.zst",
+        "sourceSha256FromAudit": "6ab7767bc1c8624d9758d78618b8ec741d35d43dc0c270843cb70214e3dd28db",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792986053000000000,
+              "fileName": "2026-10-23-78eeec9c6f759f9306d6019e3c76f6942bff3d6b44835f3b26a74db5f848b052.tar.zst",
+              "mtimeNs": 1792984700000000000,
+              "sizeBytes": 1337613718
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-23",
+        "projectionRows": 3067198,
+        "projectionSha256": "82087abda84400eb91eed2bb1ba1a713944c39117268f46ce21fd857f1016fc8",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "6ab7767bc1c8624d9758d78618b8ec741d35d43dc0c270843cb70214e3dd28db",
+        "status": "verified"
+      }
+    },
+    "2026-10-24": {
+      "auditReportSha256": "006aaa7b06d347236ffcf065e200d93db325b8b748b7cae4870610b71e109a7e",
+      "candidateCacheSha256": "09d358a80cf94c9f1e925c8499595574a90d55a5454bedce29200c7d4959c580",
+      "dayManifestSha256": "91e324f8da9773130729eeb49124b8d7dbece7904cf0e6a6266ba5be81e63723",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-24-3c02c56c8b570e356ff8de8516dfd2814f8e8f97a161cb6a78d8b925e7d79bc7.tar.zst",
+          "selectedMtimeNs": 1792986726000000000,
+          "selectedSizeBytes": 1328906164,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "006aaa7b06d347236ffcf065e200d93db325b8b748b7cae4870610b71e109a7e",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3004069,
+        "checkpointProjectionSha256": "af6280f69b5713976c7bd89e0d16525f38f525e0d5182177ac216d17bfd736f4",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-24",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-24-3c02c56c8b570e356ff8de8516dfd2814f8e8f97a161cb6a78d8b925e7d79bc7.tar.zst",
+        "sourceSha256FromAudit": "786b310fd53d4d1f46b0382eb874d35e8feec2165abe27d3237b821963b86543",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792987086000000000,
+              "fileName": "2026-10-24-3c02c56c8b570e356ff8de8516dfd2814f8e8f97a161cb6a78d8b925e7d79bc7.tar.zst",
+              "mtimeNs": 1792986726000000000,
+              "sizeBytes": 1328906164
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-24",
+        "projectionRows": 3004069,
+        "projectionSha256": "af6280f69b5713976c7bd89e0d16525f38f525e0d5182177ac216d17bfd736f4",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "786b310fd53d4d1f46b0382eb874d35e8feec2165abe27d3237b821963b86543",
+        "status": "verified"
+      }
+    },
+    "2026-10-25": {
+      "auditReportSha256": "18855e7294ed6d233108f07b05a6f6f942f86c68125a15ba72e9e5f0de9aa445",
+      "candidateCacheSha256": "3daff76ca0d6d91e240a59cc6890fb2822cfd8e009368f24087004904ce56378",
+      "dayManifestSha256": "9099d72157138157ac554185b7a96ce640b49f893c7a131afc040cb2525fcce4",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-25-5bea84cd91870ea9d0355ac27b55385922bcfbcc4ca1bac2a70bbaa07fdc3884.tar.zst",
+          "selectedMtimeNs": 1792987752000000000,
+          "selectedSizeBytes": 1142499683,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "18855e7294ed6d233108f07b05a6f6f942f86c68125a15ba72e9e5f0de9aa445",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2529142,
+        "checkpointProjectionSha256": "2e70c6d32719f8de2503e035daf04c251e7f1ef501fa0a333de2f8629f82a5ae",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-25",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-25-5bea84cd91870ea9d0355ac27b55385922bcfbcc4ca1bac2a70bbaa07fdc3884.tar.zst",
+        "sourceSha256FromAudit": "37d7b5cb0cc1f7110bc92dc9f0b00cb3fbb543cb3d9d01880bd90347658bba7a",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1792988071000000000,
+              "fileName": "2026-10-25-5bea84cd91870ea9d0355ac27b55385922bcfbcc4ca1bac2a70bbaa07fdc3884.tar.zst",
+              "mtimeNs": 1792987752000000000,
+              "sizeBytes": 1142499683
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-25",
+        "projectionRows": 2529142,
+        "projectionSha256": "2e70c6d32719f8de2503e035daf04c251e7f1ef501fa0a333de2f8629f82a5ae",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "37d7b5cb0cc1f7110bc92dc9f0b00cb3fbb543cb3d9d01880bd90347658bba7a",
+        "status": "verified"
+      }
+    },
+    "2026-10-26": {
+      "auditReportSha256": "4cbddb672551491f512851830f812c3164f1f60657586006c04d1532e2f13d8f",
+      "candidateCacheSha256": "c32c033bed64cd79a3514d7d54cb714283d19e9219bc87f349a19506492070ee",
+      "dayManifestSha256": "85bbbbec383283a780fa0a01c3abba22faf997a48bd26c2960a6ca80332dfa5f",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-26-e4aab3bdd9ffe34b86437d676ec7e01ab07d7fddf5585c22d41221386baf7681.tar.zst",
+          "selectedMtimeNs": 1793070364000000000,
+          "selectedSizeBytes": 1370774254,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "4cbddb672551491f512851830f812c3164f1f60657586006c04d1532e2f13d8f",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2414710,
+        "checkpointProjectionSha256": "c2b7f2ff91ad6c67d6e99fbf93abf587aebd895b9bdeb606645dc1782cc35fa9",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-26",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-26-e4aab3bdd9ffe34b86437d676ec7e01ab07d7fddf5585c22d41221386baf7681.tar.zst",
+        "sourceSha256FromAudit": "0619a2491e26594d77ddce7dea29b6bc4fe69e233e3a25ca2653f11eac9f3517",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793071756000000000,
+              "fileName": "2026-10-26-e4aab3bdd9ffe34b86437d676ec7e01ab07d7fddf5585c22d41221386baf7681.tar.zst",
+              "mtimeNs": 1793070364000000000,
+              "sizeBytes": 1370774254
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-26",
+        "projectionRows": 2414710,
+        "projectionSha256": "c2b7f2ff91ad6c67d6e99fbf93abf587aebd895b9bdeb606645dc1782cc35fa9",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "0619a2491e26594d77ddce7dea29b6bc4fe69e233e3a25ca2653f11eac9f3517",
+        "status": "verified"
+      }
+    },
+    "2026-10-27": {
+      "auditReportSha256": "6dc18f2c30daa0ecb0677000d3a9f1495df73a8956a8a991b015cdec80605297",
+      "candidateCacheSha256": "7680df63400a0a6a0badf52ba2e7bbfedc6776edf8078ed8d3b11065ba0288e5",
+      "dayManifestSha256": "9167526d4c828e3b9c0b9899cd538a409aab806906912a9897446c213458934b",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-27-e058943cb98d3b22a2036ee71ff76ae18419443b18dc0c36b75c3ef8c90a048d.tar.zst",
+          "selectedMtimeNs": 1793155853000000000,
+          "selectedSizeBytes": 1623268084,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "6dc18f2c30daa0ecb0677000d3a9f1495df73a8956a8a991b015cdec80605297",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2997377,
+        "checkpointProjectionSha256": "d92e710fc86ac905e54b89d3e306d68f901b66cfacf2260dfcda2e080e4b9272",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-27",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-27-e058943cb98d3b22a2036ee71ff76ae18419443b18dc0c36b75c3ef8c90a048d.tar.zst",
+        "sourceSha256FromAudit": "462a539828b0a174b10bd07ca855c9ec3e384e9278bc35b6cac347464dc8fc4b",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793157500000000000,
+              "fileName": "2026-10-27-e058943cb98d3b22a2036ee71ff76ae18419443b18dc0c36b75c3ef8c90a048d.tar.zst",
+              "mtimeNs": 1793155853000000000,
+              "sizeBytes": 1623268084
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-27",
+        "projectionRows": 2997377,
+        "projectionSha256": "d92e710fc86ac905e54b89d3e306d68f901b66cfacf2260dfcda2e080e4b9272",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "462a539828b0a174b10bd07ca855c9ec3e384e9278bc35b6cac347464dc8fc4b",
+        "status": "verified"
+      }
+    },
+    "2026-10-28": {
+      "auditReportSha256": "28512d163984db4eb70e7d32fd82459da0881b7d8362f1bfc4c22cb9ee9c7c1f",
+      "candidateCacheSha256": "74db2002fbf3e2620aac7b2606437f2839d4a0bc748f311a97aeeba17eac7ae4",
+      "dayManifestSha256": "4c000d2eac46163a206c97d822a5d053de2e3d841f1a7971d116241d4d0fe734",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-28-611377c445c834a17c8bfc06d660d637cfdba1f8c4b2755720439c2c81164ee1.tar.zst",
+          "selectedMtimeNs": 1793242132000000000,
+          "selectedSizeBytes": 1641296197,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "28512d163984db4eb70e7d32fd82459da0881b7d8362f1bfc4c22cb9ee9c7c1f",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3045169,
+        "checkpointProjectionSha256": "96e7936169171053028dad60aaf2d89ecf550a7dacf7eeed04890b5e11d745dd",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-28",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-28-611377c445c834a17c8bfc06d660d637cfdba1f8c4b2755720439c2c81164ee1.tar.zst",
+        "sourceSha256FromAudit": "591889f164d7c371ce395fbedfd1713d63cd89a26451e25555504cebb484e2bb",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793329574000000000,
+              "fileName": "2026-10-28-611377c445c834a17c8bfc06d660d637cfdba1f8c4b2755720439c2c81164ee1.tar.zst",
+              "mtimeNs": 1793242132000000000,
+              "sizeBytes": 1641296197
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-28",
+        "projectionRows": 3045169,
+        "projectionSha256": "96e7936169171053028dad60aaf2d89ecf550a7dacf7eeed04890b5e11d745dd",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "591889f164d7c371ce395fbedfd1713d63cd89a26451e25555504cebb484e2bb",
+        "status": "verified"
+      }
+    },
+    "2026-10-29": {
+      "auditReportSha256": "4fdb56c152a336b1fc367d2e264b01d3bc5234082a684a772b68601aecd9e7d5",
+      "candidateCacheSha256": "e332d45c7b781d8afff07194fe63fd4dccfee8f4f91abdc423b48bb157b18d10",
+      "dayManifestSha256": "894089ad1ccfa5148bc25a840e000f8ae8c7717cc40bf1e69df5dbfcca1def64",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-29-4f8228c6072eb16b58cf0f72ad10266e18dc9cda8f351ee061d7966edb2bbeb6.tar.zst",
+          "selectedMtimeNs": 1793331894000000000,
+          "selectedSizeBytes": 1636922714,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "4fdb56c152a336b1fc367d2e264b01d3bc5234082a684a772b68601aecd9e7d5",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3035223,
+        "checkpointProjectionSha256": "0b0ab901411f8b440c31d56ff4607367af9d7fea80de51d306435849997f689a",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-29",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-29-4f8228c6072eb16b58cf0f72ad10266e18dc9cda8f351ee061d7966edb2bbeb6.tar.zst",
+        "sourceSha256FromAudit": "b86a9e8f46fe84d6c2308acf95330366ba1900ecca84235a207cf5903530a8f4",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793502367000000000,
+              "fileName": "2026-10-29-4f8228c6072eb16b58cf0f72ad10266e18dc9cda8f351ee061d7966edb2bbeb6.tar.zst",
+              "mtimeNs": 1793331894000000000,
+              "sizeBytes": 1636922714
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-29",
+        "projectionRows": 3035223,
+        "projectionSha256": "0b0ab901411f8b440c31d56ff4607367af9d7fea80de51d306435849997f689a",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "b86a9e8f46fe84d6c2308acf95330366ba1900ecca84235a207cf5903530a8f4",
+        "status": "verified"
+      }
+    },
+    "2026-10-30": {
+      "auditReportSha256": "59525766cbc8521b6e358af06e543c0ec1c2c5ee9cf94225843354ec4ab9c002",
+      "candidateCacheSha256": "a96168e52b137b5db7ebd1eb8be956c16021f0f589423c1e565a2800f7cbf6de",
+      "dayManifestSha256": "121a64b71c5621ab3a4a56d3f6a0f0284583d47a58757127e20eca62b9d9b898",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-30-5b00105ef63fc7b1318bca7a1dcc897628f3cfd62167c4cbf3ecd787c5132f71.tar.zst",
+          "selectedMtimeNs": 1793504679000000000,
+          "selectedSizeBytes": 1645383535,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "59525766cbc8521b6e358af06e543c0ec1c2c5ee9cf94225843354ec4ab9c002",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3079644,
+        "checkpointProjectionSha256": "284165639273b7d73ada4ed77603b337fa693fc8eb153efc652d026820799b68",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-30",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-30-5b00105ef63fc7b1318bca7a1dcc897628f3cfd62167c4cbf3ecd787c5132f71.tar.zst",
+        "sourceSha256FromAudit": "0213aa3eaccf2b0b94c868f3eef0c6a98e2988a28b92ba6c9d6f6d0935ba466f",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793588816000000000,
+              "fileName": "2026-10-30-5b00105ef63fc7b1318bca7a1dcc897628f3cfd62167c4cbf3ecd787c5132f71.tar.zst",
+              "mtimeNs": 1793504679000000000,
+              "sizeBytes": 1645383535
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-30",
+        "projectionRows": 3079644,
+        "projectionSha256": "284165639273b7d73ada4ed77603b337fa693fc8eb153efc652d026820799b68",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "0213aa3eaccf2b0b94c868f3eef0c6a98e2988a28b92ba6c9d6f6d0935ba466f",
+        "status": "verified"
+      }
+    },
+    "2026-10-31": {
+      "auditReportSha256": "94ac170363c30602261a3de9f0c4ea95bc20f6c7ef478a0fae8269d5b40f73f1",
+      "candidateCacheSha256": "31182385b66cb42a291e1d51677bdca61a4e10a338c5c79c3cc65c310d1fec91",
+      "dayManifestSha256": "300803b7a65a6c5cc43199b1122e61bcb44d519c19c73d36836c565445b9d217",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-10-31-7bd45bb6559208b75573c1484bf74d7c3ff49b6b2b59cf159820399db8018905.tar.zst",
+          "selectedMtimeNs": 1793505410000000000,
+          "selectedSizeBytes": 1616550507,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "94ac170363c30602261a3de9f0c4ea95bc20f6c7ef478a0fae8269d5b40f73f1",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2979138,
+        "checkpointProjectionSha256": "6f49d4f5f79b2ca33503b686b99821a7b2516af4d89ea2c7f75e767ac0563b36",
+        "checkpointSource": "checkpoint",
+        "date": "2026-10-31",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-10-31-7bd45bb6559208b75573c1484bf74d7c3ff49b6b2b59cf159820399db8018905.tar.zst",
+        "sourceSha256FromAudit": "84b4ba3e5a28064f846ca09f36cd8f03439feebc9e8ce3f39e343777e62ea0ea",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793675207000000000,
+              "fileName": "2026-10-31-7bd45bb6559208b75573c1484bf74d7c3ff49b6b2b59cf159820399db8018905.tar.zst",
+              "mtimeNs": 1793505410000000000,
+              "sizeBytes": 1616550507
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-10-31",
+        "projectionRows": 2979138,
+        "projectionSha256": "6f49d4f5f79b2ca33503b686b99821a7b2516af4d89ea2c7f75e767ac0563b36",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "84b4ba3e5a28064f846ca09f36cd8f03439feebc9e8ce3f39e343777e62ea0ea",
+        "status": "verified"
+      }
+    },
+    "2026-11-01": {
+      "auditReportSha256": "9bb4f427c6b7f0dd9616745863539dea7fb1c21f8ee623050f755eee83b3a2b6",
+      "candidateCacheSha256": "1faa44bd35103f481b8dff20cf5e2b5a21d21b1237fd9cbbe00d7cba9f67580f",
+      "dayManifestSha256": "53799d0a922970f0aff96d9ff97467ec2f4cb264c64a921b0b4d7428a61115f9",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-11-01-f8a6367a7ada4178f3fe728a8edbf77eb7fe753109aa00b156cb16ea8a00ba67.tar.zst",
+          "selectedMtimeNs": 1793591250000000000,
+          "selectedSizeBytes": 1582142212,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "9bb4f427c6b7f0dd9616745863539dea7fb1c21f8ee623050f755eee83b3a2b6",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 2794661,
+        "checkpointProjectionSha256": "bc9e41e07a748a94c75ce746817499c8815173b0b420d22930279938a941b097",
+        "checkpointSource": "checkpoint",
+        "date": "2026-11-01",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-11-01-f8a6367a7ada4178f3fe728a8edbf77eb7fe753109aa00b156cb16ea8a00ba67.tar.zst",
+        "sourceSha256FromAudit": "12a08b63fc87e564bcddbe6e4c1bcbdf3334b0ee98764174e6865c32257abe1b",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793761638000000000,
+              "fileName": "2026-11-01-f8a6367a7ada4178f3fe728a8edbf77eb7fe753109aa00b156cb16ea8a00ba67.tar.zst",
+              "mtimeNs": 1793591250000000000,
+              "sizeBytes": 1582142212
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-11-01",
+        "projectionRows": 2794661,
+        "projectionSha256": "bc9e41e07a748a94c75ce746817499c8815173b0b420d22930279938a941b097",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "12a08b63fc87e564bcddbe6e4c1bcbdf3334b0ee98764174e6865c32257abe1b",
+        "status": "verified"
+      }
+    },
+    "2026-11-02": {
+      "auditReportSha256": "76dc4b379e559213e4fe60f288d5cde9a102828b60f58f8e2986f0b74afa2d9d",
+      "candidateCacheSha256": "251d7dad1ed948953b19254229712b15feb3e317286afefcd9ce47a49ec42468",
+      "dayManifestSha256": "c5311ad730056b545bc69522dee614130070352ccf0e308165205283ebf7550d",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-11-02-9539d71a712f5430c2ee21b31f4f1bda8435c2ac66fe090cafae2ac0693a88c5.tar.zst",
+          "selectedMtimeNs": 1793763920000000000,
+          "selectedSizeBytes": 1660917447,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "76dc4b379e559213e4fe60f288d5cde9a102828b60f58f8e2986f0b74afa2d9d",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3063408,
+        "checkpointProjectionSha256": "18754966747e37bbf71efbb1d38aacfffae9ff9043c92aa94357e4ffb071bd59",
+        "checkpointSource": "checkpoint",
+        "date": "2026-11-02",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-11-02-9539d71a712f5430c2ee21b31f4f1bda8435c2ac66fe090cafae2ac0693a88c5.tar.zst",
+        "sourceSha256FromAudit": "588f019aa5101dc590a908a5088c81ef2d1bc59e0f20e840dacf52cb946a4904",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793934437000000000,
+              "fileName": "2026-11-02-9539d71a712f5430c2ee21b31f4f1bda8435c2ac66fe090cafae2ac0693a88c5.tar.zst",
+              "mtimeNs": 1793763920000000000,
+              "sizeBytes": 1660917447
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-11-02",
+        "projectionRows": 3063408,
+        "projectionSha256": "18754966747e37bbf71efbb1d38aacfffae9ff9043c92aa94357e4ffb071bd59",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "588f019aa5101dc590a908a5088c81ef2d1bc59e0f20e840dacf52cb946a4904",
+        "status": "verified"
+      }
+    },
+    "2026-11-03": {
+      "auditReportSha256": "91839eca9ea8a6a9a9c6de622d54809c8481fb3b2c2899fc7f36af8bbef58e4b",
+      "candidateCacheSha256": "d754ec2947bee54e47b90abff27a568970407e2433977f9172962aa5e10ff288",
+      "dayManifestSha256": "efa7b0a9170ed4ad372a10e0a1c0dd290406e04e7e5a8fcad6454a4999bf6ab1",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-11-03-10cfad33a5b26cded1d4d075794fc3a95b4d14309808cfe66efa46bf0f68667c.tar.zst",
+          "selectedMtimeNs": 1793971229000000000,
+          "selectedSizeBytes": 1666241705,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "91839eca9ea8a6a9a9c6de622d54809c8481fb3b2c2899fc7f36af8bbef58e4b",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3110133,
+        "checkpointProjectionSha256": "8de79440a5a703613e76339a3644262671675904515759b8026e9680b2faa053",
+        "checkpointSource": "checkpoint",
+        "date": "2026-11-03",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-11-03-10cfad33a5b26cded1d4d075794fc3a95b4d14309808cfe66efa46bf0f68667c.tar.zst",
+        "sourceSha256FromAudit": "8bb6886c39bc7bdad734c51e4d5017d587f16a73fab629b17cbf0e628ae0c413",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793972909000000000,
+              "fileName": "2026-11-03-10cfad33a5b26cded1d4d075794fc3a95b4d14309808cfe66efa46bf0f68667c.tar.zst",
+              "mtimeNs": 1793971229000000000,
+              "sizeBytes": 1666241705
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-11-03",
+        "projectionRows": 3110133,
+        "projectionSha256": "8de79440a5a703613e76339a3644262671675904515759b8026e9680b2faa053",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "8bb6886c39bc7bdad734c51e4d5017d587f16a73fab629b17cbf0e628ae0c413",
+        "status": "verified"
+      }
+    },
+    "2026-11-04": {
+      "auditReportSha256": "17045c77c9ad1320364b2b4b2df8e21307efc025457b9a783432bc6ea9dc923f",
+      "candidateCacheSha256": "3b0da94cb8cd661d7816dc01ecd7b00d0e2535930d83c29cd7ccaf504c1ed2e7",
+      "dayManifestSha256": "6f04eeb58f3d3699f53000ef0ba1f633c55af59c68a958f140e7b701c2e183f6",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-11-04-cbe5d0ed52fce602dc47c78ccca95841f6f7421c36f18dd7b6492be9a6727605.tar.zst",
+          "selectedMtimeNs": 1793973444000000000,
+          "selectedSizeBytes": 1365729754,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "17045c77c9ad1320364b2b4b2df8e21307efc025457b9a783432bc6ea9dc923f",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3122327,
+        "checkpointProjectionSha256": "38859a94a09b2a6afd922ddc0f08efd47ddc20a2d7d29d49d7617f4588349ce2",
+        "checkpointSource": "checkpoint",
+        "date": "2026-11-04",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-11-04-cbe5d0ed52fce602dc47c78ccca95841f6f7421c36f18dd7b6492be9a6727605.tar.zst",
+        "sourceSha256FromAudit": "10b4f35ac7600f43086e1375cf368096377e3dced90f565a0c5a1ac781fda98d",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793974825000000000,
+              "fileName": "2026-11-04-cbe5d0ed52fce602dc47c78ccca95841f6f7421c36f18dd7b6492be9a6727605.tar.zst",
+              "mtimeNs": 1793973444000000000,
+              "sizeBytes": 1365729754
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-11-04",
+        "projectionRows": 3122327,
+        "projectionSha256": "38859a94a09b2a6afd922ddc0f08efd47ddc20a2d7d29d49d7617f4588349ce2",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "10b4f35ac7600f43086e1375cf368096377e3dced90f565a0c5a1ac781fda98d",
+        "status": "verified"
+      }
+    },
+    "2026-11-05": {
+      "auditReportSha256": "a17ec689b102b4a029294ca23b6e024cc130cc196817c725d4daff4c95655770",
+      "candidateCacheSha256": "aac32ff6b7c3714b8e5e5233de2eab55c2ff3f5a12fabd9ea15262ad0a61acc7",
+      "dayManifestSha256": "a25689ad12e89055a286c83b89ef1fc3148e876a4d6a26f798fb103cf1240966",
+      "sourceIdentity": {
+        "archiveSelection": {
+          "alternatives": [],
+          "auditPolicy": "fully audit selected archive; do not fall back if audit fails",
+          "candidateCount": 1,
+          "policy": "only_canonical_day_archive_v1",
+          "selectedFile": "2026-11-05-c8fbc6b99c3115e70e3640f6892a944ce63c6527d27a53eb43fbccd61e5b563f.tar.zst",
+          "selectedMtimeNs": 1793978020000000000,
+          "selectedSizeBytes": 1682008250,
+          "tieBreak": "lexicographically greatest filename when mtimeNs ties"
+        },
+        "auditDetail": "core",
+        "auditReportSha256": "a17ec689b102b4a029294ca23b6e024cc130cc196817c725d4daff4c95655770",
+        "auditScriptSha256": "61b2bc3e920d043231347237c239c35f434fd2f30c8a58964b79e21e87fcef26",
+        "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+        "checkpointProjectionRows": 3180268,
+        "checkpointProjectionSha256": "595db586808530013604b90666a20a32fc4ffee4f5e29724eaa3f74edcebbe34",
+        "checkpointSource": "checkpoint",
+        "date": "2026-11-05",
+        "deriveScriptSha256": "d194f74393842885459d1de58db9c65ba4981e9c09f0d910cbd162f2ec7b9c2d",
+        "launcherScriptSha256": "7d8b2a11d3901bdfc0c02df497222aea64a5a99d964d71fe8c495d09d2cb45f3",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceFilesFromAudit": [],
+        "sourceKind": "sealed_tar_zst",
+        "sourcePath": "2026-11-05-c8fbc6b99c3115e70e3640f6892a944ce63c6527d27a53eb43fbccd61e5b563f.tar.zst",
+        "sourceSha256FromAudit": "8a53de66c8067461238c56e863b4a8b4bf68fa7f2c75e06660133bb34d6c4be1",
+        "sourceStatFingerprint": {
+          "files": [
+            {
+              "ctimeNs": 1793979713000000000,
+              "fileName": "2026-11-05-c8fbc6b99c3115e70e3640f6892a944ce63c6527d27a53eb43fbccd61e5b563f.tar.zst",
+              "mtimeNs": 1793978020000000000,
+              "sizeBytes": 1682008250
+            }
+          ],
+          "kind": "sealed_tar_zst"
+        },
+        "zstdStreamScriptSha256": "785d7a93f7e7253f53739defea54c3ca08ced7cc045b17da24d544b568a48f80"
+      },
+      "sourceSummary": {
+        "date": "2026-11-05",
+        "projectionRows": 3180268,
+        "projectionSha256": "595db586808530013604b90666a20a32fc4ffee4f5e29724eaa3f74edcebbe34",
+        "projectionSourcePolicy": "checkpoint_events_only",
+        "sourceKind": null,
+        "sourceSha256": "8a53de66c8067461238c56e863b4a8b4bf68fa7f2c75e06660133bb34d6c4be1",
+        "status": "verified"
+      }
+    }
+  },
+  "featureBuilder": {
+    "categoricalFields": [
+      "route",
+      "stopCode",
+      "isWeekend"
+    ],
+    "holidayFeatureSource": "supplied frozen calendar holidayLocalDates only",
+    "hourFeatures": "sin_cos(2*pi*(local_hour*60+minute+second/60)/1440)",
+    "liveFeaturePrefix": "group:<group>:<field>",
+    "missingFeatures": "omitted; no imputation or feature invention",
+    "numericFields": [
+      "direction",
+      "stationIndex",
+      "hourSin",
+      "hourCos",
+      "weekdaySin",
+      "weekdayCos"
+    ],
+    "optionalCategoricalFields": [
+      "isHoliday"
+    ],
+    "timezone": "Asia/Macau",
+    "version": "receipt_proxy_feature_builder_v2",
+    "weekdayFeatures": "sin_cos(2*pi*local_weekday_monday0/7)"
+  },
+  "featureBuilderVersion": "receipt_proxy_feature_builder_v2",
+  "featureVocabularyInColumnOrder": [
+    "direction",
+    "hourCos",
+    "hourSin",
+    "isHoliday=False",
+    "isHoliday=True",
+    "isWeekend=False",
+    "isWeekend=True",
+    "route=1",
+    "route=10",
+    "route=101",
+    "route=101XS",
+    "route=102",
+    "route=103",
+    "route=10B",
+    "route=11",
+    "route=12",
+    "route=15",
+    "route=15T",
+    "route=16",
+    "route=16S",
+    "route=17",
+    "route=17S",
+    "route=17S1",
+    "route=17T",
+    "route=18",
+    "route=18A",
+    "route=18B",
+    "route=19",
+    "route=1A",
+    "route=2",
+    "route=21A",
+    "route=21AT",
+    "route=22",
+    "route=23",
+    "route=25",
+    "route=25AX",
+    "route=25B",
+    "route=25BS",
+    "route=26",
+    "route=26A",
+    "route=26AT",
+    "route=26S",
+    "route=27",
+    "route=28A",
+    "route=28B",
+    "route=28C",
+    "route=29",
+    "route=2A",
+    "route=2AS",
+    "route=3",
+    "route=30",
+    "route=30X",
+    "route=32",
+    "route=33",
+    "route=34",
+    "route=35",
+    "route=36",
+    "route=37",
+    "route=39",
+    "route=3A",
+    "route=3AS",
+    "route=3AX",
+    "route=3X",
+    "route=4",
+    "route=5",
+    "route=50",
+    "route=50B",
+    "route=51",
+    "route=51A",
+    "route=51B",
+    "route=52",
+    "route=52S",
+    "route=55",
+    "route=56",
+    "route=59",
+    "route=5X",
+    "route=60",
+    "route=61",
+    "route=65",
+    "route=6A",
+    "route=6B",
+    "route=7",
+    "route=701X",
+    "route=701XS",
+    "route=71",
+    "route=71S",
+    "route=72",
+    "route=73",
+    "route=8",
+    "route=8A",
+    "route=9",
+    "route=9A",
+    "route=AP1",
+    "route=H1",
+    "route=H2",
+    "route=H3",
+    "route=MT1",
+    "route=MT2",
+    "route=MT3",
+    "route=MT4",
+    "route=MT5",
+    "route=N1A",
+    "route=N1B",
+    "route=N2",
+    "route=N3",
+    "route=N5",
+    "route=N6",
+    "stationIndex",
+    "stopCode=C650/1",
+    "stopCode=C651/1",
+    "stopCode=C652/1",
+    "stopCode=C653/2",
+    "stopCode=C654/2",
+    "stopCode=C654/3",
+    "stopCode=C655/1",
+    "stopCode=C656/1",
+    "stopCode=C657/1",
+    "stopCode=C658/1",
+    "stopCode=C659/1",
+    "stopCode=C660/1",
+    "stopCode=C661/1",
+    "stopCode=C662/1",
+    "stopCode=C663/1",
+    "stopCode=C664/1",
+    "stopCode=C665/1",
+    "stopCode=C666/1",
+    "stopCode=C667/1",
+    "stopCode=C668/1",
+    "stopCode=C669/1",
+    "stopCode=C669/2",
+    "stopCode=C670/1",
+    "stopCode=C671/1",
+    "stopCode=C672/1",
+    "stopCode=C673/1",
+    "stopCode=C674/1",
+    "stopCode=C675/1",
+    "stopCode=C676/1",
+    "stopCode=C677/1",
+    "stopCode=C678/1",
+    "stopCode=C679/1",
+    "stopCode=C680/1",
+    "stopCode=C681/1",
+    "stopCode=C682/1",
+    "stopCode=C683/1",
+    "stopCode=C685/1",
+    "stopCode=C686/1",
+    "stopCode=C687/1",
+    "stopCode=C688/1",
+    "stopCode=C688/2",
+    "stopCode=C689/1",
+    "stopCode=C689/2",
+    "stopCode=C690/1",
+    "stopCode=C690/6",
+    "stopCode=C691/1",
+    "stopCode=C692/1",
+    "stopCode=C693/1",
+    "stopCode=C694/1",
+    "stopCode=C695/1",
+    "stopCode=C696/1",
+    "stopCode=C697/1",
+    "stopCode=C698/1",
+    "stopCode=C700/1",
+    "stopCode=C701/1",
+    "stopCode=C702/1",
+    "stopCode=C703/1",
+    "stopCode=C704/1",
+    "stopCode=L17",
+    "stopCode=M1/14",
+    "stopCode=M1/17",
+    "stopCode=M1/18",
+    "stopCode=M1/3",
+    "stopCode=M1/4",
+    "stopCode=M1/6",
+    "stopCode=M10/1",
+    "stopCode=M10/2",
+    "stopCode=M100/1",
+    "stopCode=M101/1",
+    "stopCode=M102/1",
+    "stopCode=M103/1",
+    "stopCode=M104/1",
+    "stopCode=M105/1",
+    "stopCode=M106/1",
+    "stopCode=M107/1",
+    "stopCode=M108/1",
+    "stopCode=M108/2",
+    "stopCode=M109/1",
+    "stopCode=M11/1",
+    "stopCode=M110/1",
+    "stopCode=M111",
+    "stopCode=M111/1",
+    "stopCode=M112",
+    "stopCode=M112/1",
+    "stopCode=M113",
+    "stopCode=M113/1",
+    "stopCode=M114",
+    "stopCode=M114/1",
+    "stopCode=M116/1",
+    "stopCode=M117/1",
+    "stopCode=M118/1",
+    "stopCode=M119/1",
+    "stopCode=M12/1",
+    "stopCode=M121/1",
+    "stopCode=M122/1",
+    "stopCode=M123/1",
+    "stopCode=M125",
+    "stopCode=M125/1",
+    "stopCode=M126/1",
+    "stopCode=M127",
+    "stopCode=M127/1",
+    "stopCode=M128/1",
+    "stopCode=M129",
+    "stopCode=M129/1",
+    "stopCode=M13/1",
+    "stopCode=M130/1",
+    "stopCode=M131/1",
+    "stopCode=M132/1",
+    "stopCode=M132/2",
+    "stopCode=M133/1",
+    "stopCode=M134",
+    "stopCode=M134/1",
+    "stopCode=M135/1",
+    "stopCode=M135/2",
+    "stopCode=M136/1",
+    "stopCode=M136/2",
+    "stopCode=M137/1",
+    "stopCode=M137/2",
+    "stopCode=M139/1",
+    "stopCode=M139/2",
+    "stopCode=M14/1",
+    "stopCode=M140/1",
+    "stopCode=M140/2",
+    "stopCode=M141/1",
+    "stopCode=M142/1",
+    "stopCode=M143/1",
+    "stopCode=M144/1",
+    "stopCode=M144/2",
+    "stopCode=M144/3",
+    "stopCode=M145/1",
+    "stopCode=M145/2",
+    "stopCode=M146/1",
+    "stopCode=M147",
+    "stopCode=M147/1",
+    "stopCode=M148/1",
+    "stopCode=M149/1",
+    "stopCode=M15/1",
+    "stopCode=M150",
+    "stopCode=M150/1",
+    "stopCode=M151",
+    "stopCode=M151/1",
+    "stopCode=M152/1",
+    "stopCode=M153/1",
+    "stopCode=M153/2",
+    "stopCode=M154/1",
+    "stopCode=M155/1",
+    "stopCode=M156/1",
+    "stopCode=M157",
+    "stopCode=M157/1",
+    "stopCode=M157/2",
+    "stopCode=M158/1",
+    "stopCode=M158/2",
+    "stopCode=M159",
+    "stopCode=M159/1",
+    "stopCode=M16/1",
+    "stopCode=M16/2",
+    "stopCode=M160/1",
+    "stopCode=M160/2",
+    "stopCode=M161/1",
+    "stopCode=M162/1",
+    "stopCode=M163/1",
+    "stopCode=M164",
+    "stopCode=M164/1",
+    "stopCode=M165",
+    "stopCode=M165/1",
+    "stopCode=M166/1",
+    "stopCode=M167",
+    "stopCode=M167/1",
+    "stopCode=M168",
+    "stopCode=M168/1",
+    "stopCode=M170/1",
+    "stopCode=M170/2",
+    "stopCode=M171/1",
+    "stopCode=M171/2",
+    "stopCode=M172/1",
+    "stopCode=M172/10",
+    "stopCode=M172/11",
+    "stopCode=M172/12",
+    "stopCode=M172/13",
+    "stopCode=M172/14",
+    "stopCode=M172/15",
+    "stopCode=M172/16",
+    "stopCode=M172/17",
+    "stopCode=M172/2",
+    "stopCode=M172/3",
+    "stopCode=M172/4",
+    "stopCode=M172/5",
+    "stopCode=M172/6",
+    "stopCode=M172/7",
+    "stopCode=M172/8",
+    "stopCode=M172/9",
+    "stopCode=M173",
+    "stopCode=M173/1",
+    "stopCode=M173/2",
+    "stopCode=M174/1",
+    "stopCode=M175/1",
+    "stopCode=M176/1",
+    "stopCode=M177/1",
+    "stopCode=M178/1",
+    "stopCode=M179",
+    "stopCode=M179/1",
+    "stopCode=M18/10",
+    "stopCode=M180/1",
+    "stopCode=M181",
+    "stopCode=M181/1",
+    "stopCode=M182/1",
+    "stopCode=M183/1",
+    "stopCode=M183/2",
+    "stopCode=M184",
+    "stopCode=M184/1",
+    "stopCode=M186/2",
+    "stopCode=M187",
+    "stopCode=M187/1",
+    "stopCode=M188",
+    "stopCode=M188/1",
+    "stopCode=M189/1",
+    "stopCode=M19/1",
+    "stopCode=M190/1",
+    "stopCode=M191/1",
+    "stopCode=M192",
+    "stopCode=M192/1",
+    "stopCode=M193/1",
+    "stopCode=M194/1",
+    "stopCode=M195",
+    "stopCode=M195/1",
+    "stopCode=M196/1",
+    "stopCode=M197",
+    "stopCode=M197/1",
+    "stopCode=M198",
+    "stopCode=M198/1",
+    "stopCode=M198/2",
+    "stopCode=M199",
+    "stopCode=M199/1",
+    "stopCode=M2/1",
+    "stopCode=M2/2",
+    "stopCode=M20/3",
+    "stopCode=M200/1",
+    "stopCode=M201/1",
+    "stopCode=M202",
+    "stopCode=M202/1",
+    "stopCode=M203/1",
+    "stopCode=M203/2",
+    "stopCode=M204/1",
+    "stopCode=M205/1",
+    "stopCode=M206/1",
+    "stopCode=M206/2",
+    "stopCode=M208/1",
+    "stopCode=M209/2",
+    "stopCode=M21/1",
+    "stopCode=M21/2",
+    "stopCode=M210/1",
+    "stopCode=M211/1",
+    "stopCode=M215/1",
+    "stopCode=M216/1",
+    "stopCode=M219/1",
+    "stopCode=M219/2",
+    "stopCode=M22/1",
+    "stopCode=M220",
+    "stopCode=M220/1",
+    "stopCode=M220/2",
+    "stopCode=M222/1",
+    "stopCode=M222/2",
+    "stopCode=M224",
+    "stopCode=M224/1",
+    "stopCode=M225/1",
+    "stopCode=M226/1",
+    "stopCode=M227",
+    "stopCode=M227/1",
+    "stopCode=M229/1",
+    "stopCode=M230/2",
+    "stopCode=M231/1",
+    "stopCode=M232/1",
+    "stopCode=M233/1",
+    "stopCode=M234/1",
+    "stopCode=M235/1",
+    "stopCode=M235/2",
+    "stopCode=M236/1",
+    "stopCode=M237/1",
+    "stopCode=M238/1",
+    "stopCode=M239/1",
+    "stopCode=M239/2",
+    "stopCode=M239/4",
+    "stopCode=M24/1",
+    "stopCode=M241/1",
+    "stopCode=M242/1",
+    "stopCode=M243/1",
+    "stopCode=M244",
+    "stopCode=M244/1",
+    "stopCode=M245/1",
+    "stopCode=M246/1",
+    "stopCode=M247/1",
+    "stopCode=M25/1",
+    "stopCode=M250/1",
+    "stopCode=M251/1",
+    "stopCode=M253/1",
+    "stopCode=M254/1",
+    "stopCode=M254/2",
+    "stopCode=M255/1",
+    "stopCode=M257/1",
+    "stopCode=M258/1",
+    "stopCode=M259/1",
+    "stopCode=M26/1",
+    "stopCode=M260/1",
+    "stopCode=M261/1",
+    "stopCode=M262/1",
+    "stopCode=M263/1",
+    "stopCode=M264/1",
+    "stopCode=M265/1",
+    "stopCode=M266/1",
+    "stopCode=M267/1",
+    "stopCode=M268/1",
+    "stopCode=M27/1",
+    "stopCode=M270/1",
+    "stopCode=M270/2",
+    "stopCode=M271/1",
+    "stopCode=M272/1",
+    "stopCode=M273/1",
+    "stopCode=M274/1",
+    "stopCode=M276/1",
+    "stopCode=M277",
+    "stopCode=M277/1",
+    "stopCode=M278/1",
+    "stopCode=M28/1",
+    "stopCode=M28/2",
+    "stopCode=M280/1",
+    "stopCode=M281/1",
+    "stopCode=M282/1",
+    "stopCode=M284/1",
+    "stopCode=M285/1",
+    "stopCode=M286/1",
+    "stopCode=M29/1",
+    "stopCode=M30",
+    "stopCode=M30/1",
+    "stopCode=M31/1",
+    "stopCode=M33/1",
+    "stopCode=M35/1",
+    "stopCode=M35/2",
+    "stopCode=M36",
+    "stopCode=M36/1",
+    "stopCode=M36/2",
+    "stopCode=M38/1",
+    "stopCode=M39/1",
+    "stopCode=M4/1",
+    "stopCode=M4/2",
+    "stopCode=M40/1",
+    "stopCode=M43/1",
+    "stopCode=M45",
+    "stopCode=M45/1",
+    "stopCode=M46/1",
+    "stopCode=M46/2",
+    "stopCode=M47",
+    "stopCode=M47/2",
+    "stopCode=M48",
+    "stopCode=M48/1",
+    "stopCode=M49/1",
+    "stopCode=M5/1",
+    "stopCode=M50/1",
+    "stopCode=M51/1",
+    "stopCode=M52/1",
+    "stopCode=M53/1",
+    "stopCode=M54",
+    "stopCode=M54/1",
+    "stopCode=M55/1",
+    "stopCode=M56",
+    "stopCode=M56/1",
+    "stopCode=M59",
+    "stopCode=M59/1",
+    "stopCode=M6/1",
+    "stopCode=M60/1",
+    "stopCode=M61/1",
+    "stopCode=M61/2",
+    "stopCode=M62/1",
+    "stopCode=M63/1",
+    "stopCode=M64/1",
+    "stopCode=M65/1",
+    "stopCode=M66/1",
+    "stopCode=M67/1",
+    "stopCode=M68/1",
+    "stopCode=M69/1",
+    "stopCode=M69/2",
+    "stopCode=M7/1",
+    "stopCode=M7/2",
+    "stopCode=M7/3",
+    "stopCode=M70/1",
+    "stopCode=M71/1",
+    "stopCode=M72/1",
+    "stopCode=M73/1",
+    "stopCode=M73/2",
+    "stopCode=M75/1",
+    "stopCode=M76/1",
+    "stopCode=M76/2",
+    "stopCode=M77/1",
+    "stopCode=M78/1",
+    "stopCode=M8/1",
+    "stopCode=M8/2",
+    "stopCode=M800/4",
+    "stopCode=M800/6",
+    "stopCode=M801/1",
+    "stopCode=M802/1",
+    "stopCode=M804/1",
+    "stopCode=M805/1",
+    "stopCode=M806/1",
+    "stopCode=M807/1",
+    "stopCode=M81/1",
+    "stopCode=M82/1",
+    "stopCode=M83/1",
+    "stopCode=M84/1",
+    "stopCode=M84/2",
+    "stopCode=M85/1",
+    "stopCode=M86/1",
+    "stopCode=M87/1",
+    "stopCode=M88",
+    "stopCode=M88/1",
+    "stopCode=M9/1",
+    "stopCode=M9/2",
+    "stopCode=M9/3",
+    "stopCode=M9/4",
+    "stopCode=M90/1",
+    "stopCode=M91/1",
+    "stopCode=M92/1",
+    "stopCode=M94/1",
+    "stopCode=M95/2",
+    "stopCode=M96/1",
+    "stopCode=M97/1",
+    "stopCode=M98",
+    "stopCode=M98/1",
+    "stopCode=M99",
+    "stopCode=M99/1",
+    "stopCode=T300/1",
+    "stopCode=T301/1",
+    "stopCode=T302/1",
+    "stopCode=T303/1",
+    "stopCode=T304/1",
+    "stopCode=T305/1",
+    "stopCode=T306",
+    "stopCode=T306/1",
+    "stopCode=T306/2",
+    "stopCode=T307/1",
+    "stopCode=T308/1",
+    "stopCode=T308/3",
+    "stopCode=T309/1",
+    "stopCode=T310/1",
+    "stopCode=T310/2",
+    "stopCode=T311/1",
+    "stopCode=T311/2",
+    "stopCode=T313/1",
+    "stopCode=T314/1",
+    "stopCode=T314/2",
+    "stopCode=T315/1",
+    "stopCode=T316",
+    "stopCode=T316/1",
+    "stopCode=T317/1",
+    "stopCode=T318/1",
+    "stopCode=T319/1",
+    "stopCode=T320/1",
+    "stopCode=T321/1",
+    "stopCode=T322/1",
+    "stopCode=T323/1",
+    "stopCode=T324/1",
+    "stopCode=T324/2",
+    "stopCode=T325/1",
+    "stopCode=T325/2",
+    "stopCode=T326/1",
+    "stopCode=T326/2",
+    "stopCode=T326/3",
+    "stopCode=T326/4",
+    "stopCode=T326/5",
+    "stopCode=T327",
+    "stopCode=T327/1",
+    "stopCode=T328/1",
+    "stopCode=T330/1",
+    "stopCode=T330/2",
+    "stopCode=T330/4",
+    "stopCode=T331/1",
+    "stopCode=T332/1",
+    "stopCode=T332/2",
+    "stopCode=T334",
+    "stopCode=T334/1",
+    "stopCode=T335",
+    "stopCode=T335/1",
+    "stopCode=T335/2",
+    "stopCode=T336/1",
+    "stopCode=T337",
+    "stopCode=T337/1",
+    "stopCode=T338",
+    "stopCode=T338/1",
+    "stopCode=T339/2",
+    "stopCode=T339/4",
+    "stopCode=T341/1",
+    "stopCode=T342/1",
+    "stopCode=T343",
+    "stopCode=T343/1",
+    "stopCode=T344",
+    "stopCode=T344/1",
+    "stopCode=T345/1",
+    "stopCode=T345/2",
+    "stopCode=T345/4",
+    "stopCode=T345/5",
+    "stopCode=T345/6",
+    "stopCode=T346/1",
+    "stopCode=T347/1",
+    "stopCode=T348/1",
+    "stopCode=T349/1",
+    "stopCode=T350",
+    "stopCode=T350/1",
+    "stopCode=T351/1",
+    "stopCode=T352",
+    "stopCode=T352/1",
+    "stopCode=T353",
+    "stopCode=T353/1",
+    "stopCode=T354",
+    "stopCode=T354/1",
+    "stopCode=T355/1",
+    "stopCode=T355/2",
+    "stopCode=T356/1",
+    "stopCode=T356/2",
+    "stopCode=T356/3",
+    "stopCode=T358",
+    "stopCode=T358/1",
+    "stopCode=T359/1",
+    "stopCode=T360/1",
+    "stopCode=T361/1",
+    "stopCode=T363/1",
+    "stopCode=T363/2",
+    "stopCode=T364/1",
+    "stopCode=T364/2",
+    "stopCode=T365/1",
+    "stopCode=T365/2",
+    "stopCode=T366/1",
+    "stopCode=T367/1",
+    "stopCode=T368/1",
+    "stopCode=T369/1",
+    "stopCode=T370/1",
+    "stopCode=T372/1",
+    "stopCode=T373/1",
+    "stopCode=T373/2",
+    "stopCode=T374/1",
+    "stopCode=T375/1",
+    "stopCode=T376/1",
+    "stopCode=T376/2",
+    "stopCode=T377/1",
+    "stopCode=T378/1",
+    "stopCode=T379/1",
+    "stopCode=T380/1",
+    "stopCode=T384/1",
+    "stopCode=T385/1",
+    "stopCode=T386/1",
+    "stopCode=T387/1",
+    "stopCode=T388/1",
+    "stopCode=T389/1",
+    "stopCode=T391/1",
+    "stopCode=T392/1",
+    "stopCode=T394/1",
+    "stopCode=T395/1",
+    "stopCode=T396/1",
+    "stopCode=T397/1",
+    "stopCode=T398/1",
+    "stopCode=T399/1",
+    "stopCode=T400/1",
+    "stopCode=T401/1",
+    "stopCode=T402/1",
+    "stopCode=T403/1",
+    "stopCode=T404/1",
+    "stopCode=T406/1",
+    "stopCode=T407/1",
+    "stopCode=T408/1",
+    "stopCode=T408/10",
+    "stopCode=T408/2",
+    "stopCode=T408/5",
+    "stopCode=T408/6",
+    "stopCode=T408/9",
+    "stopCode=T409/1",
+    "stopCode=T410/1",
+    "stopCode=T411/1",
+    "stopCode=T412",
+    "stopCode=T412/1",
+    "stopCode=T413",
+    "stopCode=T413/1",
+    "stopCode=T414/1",
+    "stopCode=T415/1",
+    "stopCode=T417/1",
+    "stopCode=T418/1",
+    "stopCode=T419/1",
+    "stopCode=T420/1",
+    "stopCode=T421/1",
+    "stopCode=T422/1",
+    "stopCode=T423/1",
+    "stopCode=T424/1",
+    "stopCode=T425/1",
+    "stopCode=T426/1",
+    "stopCode=T427/1",
+    "stopCode=T428/1",
+    "stopCode=T429/1",
+    "stopCode=T430/1",
+    "stopCode=T431/1",
+    "stopCode=T432/1",
+    "stopCode=T433/1",
+    "stopCode=T434/1",
+    "stopCode=T435/1",
+    "stopCode=T436/1",
+    "stopCode=T551/1",
+    "stopCode=T551/2",
+    "stopCode=T552/1",
+    "stopCode=T553/1",
+    "stopCode=T554/1",
+    "stopCode=T555/2",
+    "stopCode=T556/1",
+    "stopCode=T557/1",
+    "stopCode=T558/1",
+    "stopCode=T559/1",
+    "stopCode=T560/4",
+    "stopCode=T560/5",
+    "stopCode=T560/7",
+    "weekdayCos",
+    "weekdaySin"
+  ],
+  "featureVocabularySha256": "a8648bd7cc55bde1618adaa01fa385d86ee4ab19a0f3676102d6e5fd6b06ab63",
+  "fitRunnerSha256": "b844c4e90ba97a1242bc681daa4ba2434b24185641effc86100084ec4ea6f94e",
+  "maskScenario": "all_available",
+  "maskedFeatureGroups": [],
+  "modelFile": "dwell_en_route_all_available_p50.json",
+  "modelSha256": "5beae8ce406730299fa0c98ed06e7896c2c78fe1679d4052e736853c6491a316",
+  "physicalGroundTruth": false,
+  "productionEligible": false,
+  "quantileAlpha": 0.5,
+  "schemaVersion": "eta_split_receipt_proxy_qdm_candidate_v1",
+  "task": "dwell_en_route",
+  "training": {
+    "intervalWidthReliabilityWeightingApplied": false,
+    "recencyHalfLifeDays": 14.0,
+    "recencyReferenceUtcDate": "2026-11-05",
+    "rowCount": 6209163,
+    "utcDateRange": [
+      null,
+      "2026-11-05"
+    ]
+  }
+}

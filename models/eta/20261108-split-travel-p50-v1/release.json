@@ -1,0 +1,14 @@
+{
+  "version": "20261108-split-travel-p50-v1",
+  "sourceRun": "20261107-full-range-split",
+  "sourceBundleSha256": "aa52785ca765ced99800ca7c9ce9708d653859a5706b41e888f1b34ab8b8ccb0",
+  "servingSha256": "77188656db00178cc6eaa13fcd8bb0316fcbbd244dd1d92af4756e236b768217",
+  "trainedThroughUtcDate": "2026-11-05",
+  "trainedHeads": [
+    "running",
+    "dwell_en_route"
+  ],
+  "terminalDwell": "insufficient_70_rows_legacy_fallback",
+  "sourcePhysicalGroundTruth": false,
+  "productionAccuracyImprovementEstablished": false
+}

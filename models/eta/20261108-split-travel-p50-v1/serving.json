@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "parkgo_split_travel_serving_v1",
+  "version": "20261108-split-travel-p50-v1",
+  "enabled": true,
+  "authorization": "User approved CDN publication and production activation on 2026-11-08",
+  "sourceCandidateFlagsPreserved": true,
+  "calendar": {
+    "source": {
+      "url": "https://www.gov.mo/en/public-holidays/year-2026/",
+      "checkedAt": "2026-10-14",
+      "policy": "Public holidays, public employee compensatory days and previously user-confirmed festival windows are separate features; isHoliday keeps the existing umbrella fallback regime. Peak flags are predeclared clock windows, not claimed official congestion hours.",
+      "peakWindowsLocalMinutes": {
+        "am": [
+          420,
+          540
+        ],
+        "pm": [
+          1020,
+          1140
+        ],
+        "overnight": [
+          0,
+          360
+        ]
+      }
+    },
+    "publicHolidayLocalDates": [
+      "2026-01-01",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-02-19",
+      "2026-04-03",
+      "2026-04-04",
+      "2026-04-05",
+      "2026-05-01",
+      "2026-05-24",
+      "2026-06-19",
+      "2026-09-26",
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-18",
+      "2026-11-02",
+      "2026-12-08",
+      "2026-12-20",
+      "2026-12-22",
+      "2026-12-24",
+      "2026-12-25"
+    ],
+    "compensatoryLocalDates": [
+      "2026-04-06",
+      "2026-04-07",
+      "2026-05-25",
+      "2026-09-28",
+      "2026-10-19",
+      "2026-12-21"
+    ],
+    "festivalWindowLocalDates": [
+      "2026-09-25",
+      "2026-10-03"
+    ],
+    "holidayLocalDates": [
+      "2026-01-01",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-02-19",
+      "2026-04-03",
+      "2026-04-04",
+      "2026-04-05",
+      "2026-04-06",
+      "2026-04-07",
+      "2026-05-01",
+      "2026-05-24",
+      "2026-05-25",
+      "2026-06-19",
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-28",
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-03",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-11-02",
+      "2026-12-08",
+      "2026-12-20",
+      "2026-12-21",
+      "2026-12-22",
+      "2026-12-24",
+      "2026-12-25"
+    ]
+  },
+  "calendarSha256": "d241a8502897142781e104531c01a2cc73b4c9e12b7d7d487b49c4853c5895b5",
+  "heads": {
+    "running": {
+      "model": "running_all_available_p50.json",
+      "modelSha256": "3b3ed3228bf23d554ddbe4d962ccc5722f889ca5211b115a8a940da8ace8a7ec",
+      "manifest": "running_all_available_p50.manifest.json",
+      "manifestSha256": "904096799ad47fdbf6967852b047a57189dc1819047e71cfeff3fa84e1a41035"
+    },
+    "dwell_en_route": {
+      "model": "dwell_en_route_all_available_p50.json",
+      "modelSha256": "5beae8ce406730299fa0c98ed06e7896c2c78fe1679d4052e736853c6491a316",
+      "manifest": "dwell_en_route_all_available_p50.manifest.json",
+      "manifestSha256": "a01cb42e5e813c2940d86dbe9d942dce0c0730c58a7620979a133609d839d3ec"
+    }
+  },
+  "policy": {
+    "quantile": 0.5,
+    "terminal": "legacy_fallback",
+    "unsupported": "legacy_fallback",
+    "liveCorrections": "existing_pipeline"
+  }
+}

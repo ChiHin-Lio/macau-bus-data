@@ -1,0 +1,181 @@
+{
+  "version": "20261115-split-travel-p50-v2",
+  "sourceRun": "20261114-incremental-1106-1113",
+  "sourceBundleSha256": "addd55eb0a790d9c1bb9d4d1000784e93bd4ddcb9203d0fda68974349f16ab5b",
+  "servingSha256": "0befbf6c7f1d83003b20b7027d795eb603c55cc2c740cfe0442239b79372f608",
+  "trainedThroughUtcDate": "2026-11-13",
+  "ancestralTrainingUtcDates": [
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-24",
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13"
+  ],
+  "baseTreesRetained": 300,
+  "newTrees": 100,
+  "totalTreesPerHead": 400,
+  "newOnlyTrainingUtcDates": [
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13"
+  ],
+  "oldSamplesRetrained": 0,
+  "trainedHeads": [
+    "running",
+    "dwell_en_route"
+  ],
+  "terminalDwell": "legacy_fallback_no_trained_head",
+  "holdoutQualification": "Nov6-10 continuation scored Nov12-13; final eight-day fit has no independent test; receipt proxy before GPS/traffic",
+  "p50Holdout": {
+    "running": {
+      "addedRoundsChosenOnDev": 100,
+      "baseManifestSha256": "904096799ad47fdbf6967852b047a57189dc1819047e71cfeff3fa84e1a41035",
+      "baseModelSha256": "3b3ed3228bf23d554ddbe4d962ccc5722f889ca5211b115a8a940da8ace8a7ec",
+      "baseTrees": 300,
+      "devByAddedRounds": {
+        "0": {
+          "count": 220746,
+          "p90AbsoluteErrorSeconds": 106.55735397338867,
+          "pinballLossSeconds": 24.68474468586264,
+          "receiptProxyMidpointMaeSeconds": 49.36948937172528,
+          "signedBiasSeconds": -22.943564297195493
+        },
+        "100": {
+          "count": 220746,
+          "p90AbsoluteErrorSeconds": 104.51833724975586,
+          "pinballLossSeconds": 24.24848483936684,
+          "receiptProxyMidpointMaeSeconds": 48.49696967873368,
+          "signedBiasSeconds": -22.122657892667785
+        },
+        "25": {
+          "count": 220746,
+          "p90AbsoluteErrorSeconds": 106.254638671875,
+          "pinballLossSeconds": 24.564433314617883,
+          "receiptProxyMidpointMaeSeconds": 49.128866629235766,
+          "signedBiasSeconds": -22.711667200339438
+        },
+        "50": {
+          "count": 220746,
+          "p90AbsoluteErrorSeconds": 105.75934791564941,
+          "pinballLossSeconds": 24.43842925123801,
+          "receiptProxyMidpointMaeSeconds": 48.87685850247602,
+          "signedBiasSeconds": -22.46583581815154
+        }
+      },
+      "finalTrees": 400,
+      "originalTreesUnchanged": true,
+      "testBase": {
+        "count": 435217,
+        "p90AbsoluteErrorSeconds": 109.93708038330078,
+        "pinballLossSeconds": 25.339305874122008,
+        "receiptProxyMidpointMaeSeconds": 50.678611748244016,
+        "signedBiasSeconds": -24.40487076120018
+      },
+      "testContinuation": {
+        "count": 435217,
+        "p90AbsoluteErrorSeconds": 107.79259490966797,
+        "pinballLossSeconds": 24.91602351686111,
+        "receiptProxyMidpointMaeSeconds": 49.83204703372222,
+        "signedBiasSeconds": -23.611667226328898
+      }
+    },
+    "dwell_en_route": {
+      "addedRoundsChosenOnDev": 100,
+      "baseManifestSha256": "a01cb42e5e813c2940d86dbe9d942dce0c0730c58a7620979a133609d839d3ec",
+      "baseModelSha256": "5beae8ce406730299fa0c98ed06e7896c2c78fe1679d4052e736853c6491a316",
+      "baseTrees": 300,
+      "devByAddedRounds": {
+        "0": {
+          "count": 217580,
+          "p90AbsoluteErrorSeconds": 45.00204963684082,
+          "pinballLossSeconds": 10.396283105103691,
+          "receiptProxyMidpointMaeSeconds": 20.792566210207383,
+          "signedBiasSeconds": -7.847243729412627
+        },
+        "100": {
+          "count": 217580,
+          "p90AbsoluteErrorSeconds": 44.66371994018555,
+          "pinballLossSeconds": 10.320723741039632,
+          "receiptProxyMidpointMaeSeconds": 20.641447482079265,
+          "signedBiasSeconds": -7.7017692072666115
+        },
+        "25": {
+          "count": 217580,
+          "p90AbsoluteErrorSeconds": 44.90593833923341,
+          "pinballLossSeconds": 10.37040403808168,
+          "receiptProxyMidpointMaeSeconds": 20.74080807616336,
+          "signedBiasSeconds": -7.805169510343888
+        },
+        "50": {
+          "count": 217580,
+          "p90AbsoluteErrorSeconds": 44.825153732299825,
+          "pinballLossSeconds": 10.3502722305655,
+          "receiptProxyMidpointMaeSeconds": 20.700544461131,
+          "signedBiasSeconds": -7.770897342273555
+        }
+      },
+      "finalTrees": 400,
+      "originalTreesUnchanged": true,
+      "testBase": {
+        "count": 427933,
+        "p90AbsoluteErrorSeconds": 46.58250198364256,
+        "pinballLossSeconds": 10.658299797073497,
+        "receiptProxyMidpointMaeSeconds": 21.316599594146993,
+        "signedBiasSeconds": -8.627414154518299
+      },
+      "testContinuation": {
+        "count": 427933,
+        "p90AbsoluteErrorSeconds": 46.23549270629882,
+        "pinballLossSeconds": 10.599192949475405,
+        "receiptProxyMidpointMaeSeconds": 21.19838589895081,
+        "signedBiasSeconds": -8.443310444504096
+      }
+    }
+  },
+  "sourcePhysicalGroundTruth": false,
+  "productionAccuracyImprovementEstablished": false
+}

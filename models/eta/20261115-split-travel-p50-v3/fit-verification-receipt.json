@@ -1,0 +1,11 @@
+{
+  "status": "complete_candidate_only",
+  "artifacts": {
+    "en_route_remaining.json": "6a0d2441359f43e7473104c96b702652152668f7c6e3cabe619df5866b2cd1de",
+    "terminal_remaining.json": "43dee6c2b6a379efa7aba9863cad77af3a561238c66cac4976f6f83f7e265324",
+    "remaining-serving.json": "ba675e66911b44f87d61793004989766ec4a6e8b6d5052b44e4ab332950ccead",
+    "report.json": "c08bc9e1be7d4109da52c64e3200c921761a3f44f92d21def23398fa5015298f",
+    "native-fixtures.json": "cd2ab78350dafdc3cb985fa9614a881758b4f3f12d2f63fa7403373abd4ceebe",
+    "occurrence-support-receipt.json": "7e9cd76edae2c0d519e8d34f1f73102414cbd8c51bbfd97d6f51d2f428ca7fbf"
+  }
+}

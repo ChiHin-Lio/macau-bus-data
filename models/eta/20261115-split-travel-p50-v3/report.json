@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "parkgo_dwell_remaining_fit_v1",
+  "roles": {
+    "train": [
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11"
+    ],
+    "dev": [
+      "2026-11-12"
+    ],
+    "test": [
+      "2026-11-13",
+      "2026-11-14"
+    ],
+    "final": [
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14"
+    ]
+  },
+  "candidateOnly": true,
+  "physicalGroundTruth": false,
+  "featuresUseFutureGPS": false,
+  "tasks": {
+    "en_route_remaining": {
+      "status": "trained_candidate_only",
+      "counts": {
+        "train": [
+          2207924,
+          2156659
+        ],
+        "dev": [
+          564325,
+          551527
+        ],
+        "test": [
+          1089288,
+          1065378
+        ]
+      },
+      "scale": 0.5,
+      "rounds": 160,
+      "dev": {
+        "rows": 564325,
+        "closedRows": 551527,
+        "closedReceiptMidpointMaeSeconds": 22.36191419644482,
+        "closedReceiptIntervalDistanceSeconds": 16.441071009033188,
+        "fixed120SecondsMae": 82.46908645616584,
+        "p90CoversEntireClosedWindowRate": 0.6345981248424828
+      },
+      "test": {
+        "rows": 1089288,
+        "closedRows": 1065378,
+        "closedReceiptMidpointMaeSeconds": 23.452077939512836,
+        "closedReceiptIntervalDistanceSeconds": 17.723654933008703,
+        "fixed120SecondsMae": 82.12136018845486,
+        "p90CoversEntireClosedWindowRate": 0.6253273486030311
+      },
+      "servingEligibleOnHeldout": true,
+      "existingBaselineComparison": {
+        "baselineModelVersion": "20261115-split-travel-p50-v2",
+        "matchedClosedRows": 1065378,
+        "existingTotalDwellMinusObservedMaeSeconds": 24.284088504813884,
+        "remainingCandidateMaeSeconds": 23.452077939512836
+      },
+      "independentFinalFitMaeAvailable": false
+    },
+    "terminal_remaining": {
+      "status": "trained_candidate_only",
+      "counts": {
+        "train": [
+          111376,
+          105079
+        ],
+        "dev": [
+          27520,
+          26124
+        ],
+        "test": [
+          52613,
+          49779
+        ]
+      },
+      "scale": 0.5,
+      "rounds": 160,
+      "dev": {
+        "rows": 27520,
+        "closedRows": 26124,
+        "closedReceiptMidpointMaeSeconds": 48.36072429027898,
+        "closedReceiptIntervalDistanceSeconds": 42.0401870148267,
+        "fixed120SecondsMae": 83.69840598668881,
+        "p90CoversEntireClosedWindowRate": 0.6558719951002909
+      },
+      "test": {
+        "rows": 52613,
+        "closedRows": 49779,
+        "closedReceiptMidpointMaeSeconds": 50.32971152239392,
+        "closedReceiptIntervalDistanceSeconds": 44.30476998148195,
+        "fixed120SecondsMae": 84.12620217310409,
+        "p90CoversEntireClosedWindowRate": 0.649490749111071
+      },
+      "servingEligibleOnHeldout": true,
+      "existingBaselineComparison": null,
+      "independentFinalFitMaeAvailable": false
+    }
+  },
+  "sourceCounts": {
+    "en_route_remaining": 3861537,
+    "terminal_remaining": 191509
+  }
+}

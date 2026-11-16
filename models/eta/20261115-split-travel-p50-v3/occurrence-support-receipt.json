@@ -1,0 +1,16 @@
+{
+  "sourceFitReceiptSha256": "0b3885fd847b4f34b4e9b991e65fc75c14e7372857969681db766699e06c7465",
+  "retrained": false,
+  "heads": {
+    "en_route_remaining": {
+      "occurrences": 2591,
+      "qualifiedOccurrences": 2555,
+      "treeWeightsSha256Unchanged": "c5937cd3e2f68822500a8b3c0787064a3455f4e520cbda7baab8e64d05c937ce"
+    },
+    "terminal_remaining": {
+      "occurrences": 111,
+      "qualifiedOccurrences": 109,
+      "treeWeightsSha256Unchanged": "61688acd5168c3991d0deadbb808bb7860736b243bb2f40e530f0d2cb5cf4b3b"
+    }
+  }
+}

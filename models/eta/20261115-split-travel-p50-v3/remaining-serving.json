@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "parkgo_dwell_remaining_bundle_v1",
+  "version": "20261115-dwell-aft-v1",
+  "calendar": {
+    "source": {
+      "url": "https://www.gov.mo/en/public-holidays/year-2026/",
+      "checkedAt": "2026-10-14",
+      "policy": "Public holidays, public employee compensatory days and previously user-confirmed festival windows are separate features; isHoliday keeps the existing umbrella fallback regime. Peak flags are predeclared clock windows, not claimed official congestion hours.",
+      "peakWindowsLocalMinutes": {
+        "am": [
+          420,
+          540
+        ],
+        "pm": [
+          1020,
+          1140
+        ],
+        "overnight": [
+          0,
+          360
+        ]
+      }
+    },
+    "publicHolidayLocalDates": [
+      "2026-01-01",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-02-19",
+      "2026-04-03",
+      "2026-04-04",
+      "2026-04-05",
+      "2026-05-01",
+      "2026-05-24",
+      "2026-06-19",
+      "2026-09-26",
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-18",
+      "2026-11-02",
+      "2026-12-08",
+      "2026-12-20",
+      "2026-12-22",
+      "2026-12-24",
+      "2026-12-25"
+    ],
+    "compensatoryLocalDates": [
+      "2026-04-06",
+      "2026-04-07",
+      "2026-05-25",
+      "2026-09-28",
+      "2026-10-19",
+      "2026-12-21"
+    ],
+    "festivalWindowLocalDates": [
+      "2026-09-25",
+      "2026-10-03"
+    ],
+    "holidayLocalDates": [
+      "2026-01-01",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-02-19",
+      "2026-04-03",
+      "2026-04-04",
+      "2026-04-05",
+      "2026-04-06",
+      "2026-04-07",
+      "2026-05-01",
+      "2026-05-24",
+      "2026-05-25",
+      "2026-06-19",
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-28",
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-03",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-11-02",
+      "2026-12-08",
+      "2026-12-20",
+      "2026-12-21",
+      "2026-12-22",
+      "2026-12-24",
+      "2026-12-25"
+    ]
+  },
+  "heads": {
+    "en_route_remaining": {
+      "file": "en_route_remaining.json",
+      "sha256": "6a0d2441359f43e7473104c96b702652152668f7c6e3cabe619df5866b2cd1de",
+      "enabled": true
+    },
+    "terminal_remaining": {
+      "file": "terminal_remaining.json",
+      "sha256": "43dee6c2b6a379efa7aba9863cad77af3a561238c66cac4976f6f83f7e265324",
+      "enabled": true
+    }
+  },
+  "trainedThroughUtcDate": "2026-11-14",
+  "physicalGroundTruth": false,
+  "runningModelRetrained": false
+}

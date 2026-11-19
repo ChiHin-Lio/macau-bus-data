@@ -7,12 +7,12 @@
   "zipSha256": "9b24540f95570db1967e4b200d8432cdfa2eaa8c30a8dd6f055490e026a85960",
   "fileId": 722,
   "zipBytes": 1273837,
-  "geometrySha256": "b45e020daa527861afbbcf7bf0dad334c6d50b3ca1cd1ceae548d709226fb151",
-  "publishedAt": "2026-11-19T03:31:54.305788+00:00",
+  "geometrySha256": "8fdccdfa241ddad1a9d606a9927a18b3bcd940989042035410f9be37cc66f799",
+  "publishedAt": "2026-11-19T19:26:58.572974+00:00",
   "qualifiedDirectionCount": 112,
   "retainedDirectionCount": 0,
-  "publishedDirectionCount": 112,
-  "routeCount": 91,
+  "publishedDirectionCount": 113,
+  "routeCount": 92,
   "qualifiedRoutePairs": [
     "101:0",
     "102:0",
@@ -177,6 +177,7 @@
     "2AS:0",
     "30:0",
     "30X:0",
+    "31T:0",
     "32:0",
     "33:0",
     "34:0",
@@ -1071,6 +1072,27 @@
       "zipSha256": "1d28e1e0b92e41b762ca03a81231464f8b1ce31fa54f7fc75644ae273368d441",
       "zipBytes": 1281616,
       "liveCatalogueGeneratedAt": "2026-11-19T03:30:14.304Z"
+    },
+    "31T:0": {
+      "sourceUrl": "https://data.gov.mo/Detail?id=e7b2e84d-3333-42f0-b676-64ce95306f0d",
+      "fileId": 722,
+      "zipSha256": "f773e7a09737d7f4f9a0bdd05f5fe1a808335c4347e5f6f4b44bb03357d74a19",
+      "zipBytes": 1281616,
+      "sourceExport": "ExportShapeFile20261119",
+      "governmentCatalogueUpdatedAtMacau": "2026-11-20 01:00:02",
+      "validation": "manual_official_geometry_publication_after_review_of_station_sequence_difference",
+      "officialStopSequence": [
+        "M239/2",
+        "TEMP6/3",
+        "M239/2"
+      ],
+      "observedLiveStopSequence": [
+        "M239/1",
+        "L04",
+        "M239/1"
+      ],
+      "liveSequenceObservedAt": "2026-11-19T19:19:11.208Z",
+      "coordinateCount": 292
     }
   }
 }

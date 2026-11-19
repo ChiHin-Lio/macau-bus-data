@@ -7,12 +7,12 @@
   "zipSha256": "9b24540f95570db1967e4b200d8432cdfa2eaa8c30a8dd6f055490e026a85960",
   "fileId": 722,
   "zipBytes": 1273837,
-  "geometrySha256": "dc902b47f09239a86b1e61bdce3013f4fc75e02f6a44bb1b5dd40f60f876dc9f",
-  "publishedAt": "2026-11-18T12:55:28.948609+00:00",
-  "qualifiedDirectionCount": 111,
+  "geometrySha256": "b45e020daa527861afbbcf7bf0dad334c6d50b3ca1cd1ceae548d709226fb151",
+  "publishedAt": "2026-11-19T03:31:54.305788+00:00",
+  "qualifiedDirectionCount": 112,
   "retainedDirectionCount": 0,
-  "publishedDirectionCount": 111,
-  "routeCount": 90,
+  "publishedDirectionCount": 112,
+  "routeCount": 91,
   "qualifiedRoutePairs": [
     "101:0",
     "102:0",
@@ -23,6 +23,7 @@
     "10B:0",
     "11:0",
     "12:0",
+    "12T:0",
     "15:0",
     "16:0",
     "16S:0",
@@ -136,6 +137,7 @@
     "10B:0",
     "11:0",
     "12:0",
+    "12T:0",
     "15:0",
     "16:0",
     "16S:0",
@@ -302,6 +304,13 @@
       "stopSequenceSha256": "a3690022643796304d4c1ea7b71c3cebd9fa10b91ea2ac2ac8baeabb8cb96b79",
       "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1249
+    },
+    {
+      "routePair": "12T:0",
+      "stopCount": 3,
+      "stopSequenceSha256": "21f18c428699644fc9bbc73afa514995e2efdca88cdafcc7ee80e99f46453277",
+      "sequenceSource": "fresh_collector_catalogue",
+      "coordinateCount": 642
     },
     {
       "routePair": "15:0",
@@ -1054,5 +1063,14 @@
   "liveCatalogueGeneratedAt": "2026-11-18T12:55:06.928Z",
   "rejectedVariants": [],
   "stationOrderSource": "VPS collector DSAT routeInfo; geometry does not override live station order",
-  "directionPolicy": "Official directions only; no reversed compatibility directions"
+  "directionPolicy": "Official directions only; no reversed compatibility directions",
+  "sourceByRoutePair": {
+    "12T:0": {
+      "sourceUrl": "https://data.gov.mo/Detail?id=e7b2e84d-3333-42f0-b676-64ce95306f0d",
+      "fileId": 722,
+      "zipSha256": "1d28e1e0b92e41b762ca03a81231464f8b1ce31fa54f7fc75644ae273368d441",
+      "zipBytes": 1281616,
+      "liveCatalogueGeneratedAt": "2026-11-19T03:30:14.304Z"
+    }
+  }
 }

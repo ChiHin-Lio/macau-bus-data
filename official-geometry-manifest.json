@@ -7,13 +7,15 @@
   "zipSha256": "f773e7a09737d7f4f9a0bdd05f5fe1a808335c4347e5f6f4b44bb03357d74a19",
   "fileId": 722,
   "zipBytes": 1281616,
-  "geometrySha256": "30dd115aeca14aa4b28404ebcd384e2e85bf8029444f8eab9e83321bbd80a8b7",
-  "publishedAt": "2026-11-20T03:24:28.500497+00:00",
-  "qualifiedDirectionCount": 104,
-  "retainedDirectionCount": 0,
-  "publishedDirectionCount": 104,
-  "routeCount": 86,
+  "geometrySha256": "65d3bee79d802ced4e24a9ac4848581a74388fc060397611d966f5c2d52551e9",
+  "publishedAt": "2026-11-20T18:23:23.737782+00:00",
+  "qualifiedDirectionCount": 111,
+  "retainedDirectionCount": 2,
+  "publishedDirectionCount": 113,
+  "routeCount": 92,
   "qualifiedRoutePairs": [
+    "101:0",
+    "102:0",
     "102:1",
     "103:0",
     "10:0",
@@ -49,6 +51,7 @@
     "25BS:0",
     "26:0",
     "26A:0",
+    "26A:1",
     "27:0",
     "28A:0",
     "28B:0",
@@ -56,6 +59,7 @@
     "29:0",
     "2:0",
     "2:1",
+    "2A:0",
     "30:0",
     "30X:0",
     "31T:0",
@@ -77,6 +81,7 @@
     "51:0",
     "51A:0",
     "51A:1",
+    "51B:0",
     "52:0",
     "55:0",
     "56:0",
@@ -98,6 +103,7 @@
     "72:0",
     "73:0",
     "7:0",
+    "7:1",
     "8:0",
     "8:1",
     "8A:0",
@@ -112,6 +118,7 @@
     "MT4:0",
     "MT4:1",
     "MT5:0",
+    "N1A:0",
     "N1B:0",
     "N2:0",
     "N2:1",
@@ -120,6 +127,8 @@
     "N6:0"
   ],
   "publishedRoutePairs": [
+    "101:0",
+    "102:0",
     "102:1",
     "103:0",
     "10:0",
@@ -155,6 +164,7 @@
     "25BS:0",
     "26:0",
     "26A:0",
+    "26A:1",
     "27:0",
     "28A:0",
     "28B:0",
@@ -162,6 +172,8 @@
     "29:0",
     "2:0",
     "2:1",
+    "2A:0",
+    "2AS:0",
     "30:0",
     "30X:0",
     "31T:0",
@@ -183,6 +195,7 @@
     "51:0",
     "51A:0",
     "51A:1",
+    "51B:0",
     "52:0",
     "55:0",
     "56:0",
@@ -204,6 +217,7 @@
     "72:0",
     "73:0",
     "7:0",
+    "7:1",
     "8:0",
     "8:1",
     "8A:0",
@@ -211,6 +225,7 @@
     "9A:0",
     "AP1:0",
     "H1:0",
+    "H2:0",
     "H3:0",
     "MT1:0",
     "MT2:0",
@@ -218,6 +233,7 @@
     "MT4:0",
     "MT4:1",
     "MT5:0",
+    "N1A:0",
     "N1B:0",
     "N2:0",
     "N2:1",
@@ -226,6 +242,30 @@
     "N6:0"
   ],
   "qualifiedVariants": [
+    {
+      "routePair": "101:0",
+      "stopCount": 28,
+      "stopSequenceSha256": "21addc3453172a1627c43ce4472121a4c63ebb138e31c466b5b4c2d5e0848596",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 1225,
+      "stopSequenceReview": {
+        "lineSha256": "a87cf4bdc108e844b872cdecd91a1f509c377b0fd46cd5f50594206158c9f501",
+        "officialStopSequenceSha256": "040a42c7e9071c832b9ef6b6bac8f9bbed67a9955cfffab141d71880be35e444",
+        "liveStopSequenceSha256": "be3062dafd681fb9565596fdf1a58915c99076274444876fe037a18510775447"
+      }
+    },
+    {
+      "routePair": "102:0",
+      "stopCount": 24,
+      "stopSequenceSha256": "2d998f4133a2c1aea7b9fa59c05f5826cc0d3d6b89273ff1c79785b923c10ddb",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 1216,
+      "stopSequenceReview": {
+        "lineSha256": "6b268947518308896245f28df0dba6503ac4b02a847d10cc7267f349b029f22d",
+        "officialStopSequenceSha256": "213a039174815ad8417bf9757502f8cc3bd0a0787b7d951838b71a9583047cd2",
+        "liveStopSequenceSha256": "36d3f204ca1fe6bbd84e90d8751b47db0a07c2b5b4f5856f26e2a01d265c3a50"
+      }
+    },
     {
       "routePair": "102:1",
       "stopCount": 20,
@@ -472,6 +512,18 @@
       "coordinateCount": 1195
     },
     {
+      "routePair": "26A:1",
+      "stopCount": 37,
+      "stopSequenceSha256": "ec2568991700bc10e1315eaf8959f72fd0507fa93bbf1429cfc1c315b8f34095",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 1190,
+      "stopSequenceReview": {
+        "lineSha256": "1583411a6c080c1d194d9cc6092f91f7bbec2530a39969fb9dd8ee4b55053d78",
+        "officialStopSequenceSha256": "46149900138fe34e66fcf2f44ee7b1d6782c00a317fee80fc5930eef483ad146",
+        "liveStopSequenceSha256": "7499790a52a00ec661c60dba2ac74710a0f9c6f9fdc5f52b4efb56a926235c37"
+      }
+    },
+    {
       "routePair": "27:0",
       "stopCount": 25,
       "stopSequenceSha256": "7cbfd50ba9a7aa7a2d2a256d93f1628442fb8e0259b57e6cf12e4cc6cbc46451",
@@ -519,6 +571,18 @@
       "stopSequenceSha256": "536f96e54e636171f31e706bc4c7ebd5054c91ec7ad21d778e1c0b80bb55d532",
       "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 660
+    },
+    {
+      "routePair": "2A:0",
+      "stopCount": 29,
+      "stopSequenceSha256": "07faff1a38cc8e7dd85827405336fdb033e224af88a15dedf51233cb5245e6cb",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 1182,
+      "stopSequenceReview": {
+        "lineSha256": "ae59d771e1f4b5bc4ef7cedc0c5d33277daefea2feac743de909fbf30da0c4b0",
+        "officialStopSequenceSha256": "53225846945ec3ef475724f4f4fd683fe7c8e4281ff723288d123dcc723c61bc",
+        "liveStopSequenceSha256": "4395d6bedbdffa406a421acf5dd16d422de9523207bb2c84b3369e2e694f4f21"
+      }
     },
     {
       "routePair": "30:0",
@@ -682,6 +746,18 @@
       "coordinateCount": 753
     },
     {
+      "routePair": "51B:0",
+      "stopCount": 29,
+      "stopSequenceSha256": "43e7f9c6c144625f5d03492adbbdb0caf0456654dd46c03924444d88af895bde",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 1615,
+      "stopSequenceReview": {
+        "lineSha256": "51e4e7c6457a3cc795184ed5376b7f88144f232da50eb2028ffdb8891645d6ec",
+        "officialStopSequenceSha256": "fbc80d8542b779f2fe75a34ff7be2880cd3e63b8b72718ec5aaaa8a41de7abbb",
+        "liveStopSequenceSha256": "9018103e58f196aaed2a215633436a95d52e976bfc2a84331f45f513a5368c0b"
+      }
+    },
+    {
       "routePair": "52:0",
       "stopCount": 24,
       "stopSequenceSha256": "8ddedb8a092215aa3791dc152be0e7f900218147399013a8da378a9cbe5b4e1f",
@@ -829,6 +905,18 @@
       "coordinateCount": 381
     },
     {
+      "routePair": "7:1",
+      "stopCount": 18,
+      "stopSequenceSha256": "edff8d1dcfb88148da913de5ad2341439fa74d87ff74d65459126f312535fb38",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 712,
+      "stopSequenceReview": {
+        "lineSha256": "67685f428356e6e5b52d98e55e40d2d21583f2c8039a8e567f2d046268090b26",
+        "officialStopSequenceSha256": "92b326d600d23429beeba84c21020d177fe040f8c83d1725f095f647430af64b",
+        "liveStopSequenceSha256": "2953d111c0a04761b9fcc95277d7ba4591a36bddf0b8f770f2cc8589ab9ab42f"
+      }
+    },
+    {
       "routePair": "8:0",
       "stopCount": 18,
       "stopSequenceSha256": "ad735bf5faf186fc897e6e6f6764c01ad0f344016043c836764b1bdaab0b8ba2",
@@ -927,6 +1015,18 @@
       "coordinateCount": 1091
     },
     {
+      "routePair": "N1A:0",
+      "stopCount": 25,
+      "stopSequenceSha256": "8332f85ec8ee7691fa0bfeeb9ee6f5d86f16d2ac0ce08df91e30ac32aefa11d0",
+      "sequenceSource": "official_routeInfo_fallback",
+      "coordinateCount": 844,
+      "stopSequenceReview": {
+        "lineSha256": "8287ba0aa2271aba275d9e86de566bc1d6034c89c5b087131ee8e5b34e2bac03",
+        "officialStopSequenceSha256": "f1c7df5f13a16f5afe6c31f1fa3b79879bdcb5ef7706d08cc9a9b2b4f9846327",
+        "liveStopSequenceSha256": "c3dabe9b4a096b6770b6901bcc9b03f4044308f3f667471df7fe78300e292c0f"
+      }
+    },
+    {
       "routePair": "N1B:0",
       "stopCount": 23,
       "stopSequenceSha256": "09b174aa473abffc548eca726f2b7857361e5ce394ac4f65654a193a531b4e2c",
@@ -969,7 +1069,28 @@
       "coordinateCount": 2024
     }
   ],
-  "retainedVariants": [],
+  "retainedVariants": [
+    {
+      "routePair": "2AS:0",
+      "reason": "reviewed_official_map_routeinfo_empty",
+      "qualificationFailureReason": "official_routeInfo_empty",
+      "mapReview": {
+        "lineSha256": "8729398daf2a77d842688f58b7f2fbe8c2c0feebba3bf5355dcf73c6e9a94b49",
+        "officialStopSequenceSha256": "de4ec162daef8ae022ac811ea455245c30ab346d7563092ac73bf1bd4ad096a9",
+        "retainWhenRouteInfoEmpty": true
+      }
+    },
+    {
+      "routePair": "H2:0",
+      "reason": "reviewed_official_map_routeinfo_empty",
+      "qualificationFailureReason": "official_routeInfo_empty",
+      "mapReview": {
+        "lineSha256": "7328f3c36e40da03b447e5bdbb6da7973d5085d8beaeae7f3b76106ddfca5c24",
+        "officialStopSequenceSha256": "23d1f332f7672851c16ea7cbdc640098c757ac2f8e29b475d5ac7e5da27d5cb2",
+        "retainWhenRouteInfoEmpty": true
+      }
+    }
+  ],
   "serviceStopOverlay": {
     "fileName": "dsat_service_stops_20261002.json",
     "sha256": "e3ecd3e4e3a9649a39276fdf6945b95dedfd342add1fa77dd706bab8ba3bd06f",
@@ -989,75 +1110,12 @@
   "liveCatalogueGeneratedAt": "2026-11-20T02:47:08.140Z",
   "rejectedVariants": [
     {
-      "variant": "101:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 28,
-      "liveStopCount": 28,
-      "mismatchIndex": 3,
-      "geometryStopCode": "TEMP_17",
-      "liveStopCode": "L17"
-    },
-    {
-      "variant": "102:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 24,
-      "liveStopCount": 24,
-      "mismatchIndex": 3,
-      "geometryStopCode": "TEMP_17",
-      "liveStopCode": "L17"
-    },
-    {
-      "variant": "26A:1",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 38,
-      "liveStopCount": 37,
-      "mismatchIndex": 9,
-      "geometryStopCode": "C686",
-      "liveStopCode": "C656"
-    },
-    {
-      "variant": "2A:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 29,
-      "liveStopCount": 29,
-      "mismatchIndex": 2,
-      "geometryStopCode": "TEMP_17",
-      "liveStopCode": "L17"
-    },
-    {
       "variant": "2AS:0",
       "reason": "official_routeInfo_empty"
     },
     {
-      "variant": "51B:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 30,
-      "liveStopCount": 29,
-      "mismatchIndex": 12,
-      "geometryStopCode": "M806",
-      "liveStopCode": "L17"
-    },
-    {
-      "variant": "7:1",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 18,
-      "liveStopCount": 18,
-      "mismatchIndex": 17,
-      "geometryStopCode": "M2(於2026年2月7日首班車開始調整)",
-      "liveStopCode": "M2"
-    },
-    {
       "variant": "H2:0",
       "reason": "official_routeInfo_empty"
-    },
-    {
-      "variant": "N1A:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 24,
-      "liveStopCount": 25,
-      "mismatchIndex": 4,
-      "geometryStopCode": "M222",
-      "liveStopCode": "M278"
     }
   ],
   "stationOrderSource": "VPS collector DSAT routeInfo; geometry does not override live station order",
@@ -1067,6 +1125,58 @@
       "zipSha256": "f773e7a09737d7f4f9a0bdd05f5fe1a808335c4347e5f6f4b44bb03357d74a19",
       "fileId": 722,
       "liveCatalogueGeneratedAt": "2026-11-20T03:24:28.047Z"
+    },
+    "101:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "102:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "26A:1": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "2A:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "2AS:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "51B:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "7:1": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "H2:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
+    },
+    "N1A:0": {
+      "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+      "fileId": 722,
+      "reviewedOnMacau": "2026-11-21"
     }
+  },
+  "reviewedMapSource": {
+    "reviewedOnMacau": "2026-11-21",
+    "datasetId": "e7b2e84d-3333-42f0-b676-64ce95306f0d",
+    "reviewedZipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
+    "previousPublishedCommit": "455d74ceaa7d4122d99413cc2613d80bed702d28",
+    "serviceStopEvidence": "data/route_geometry_overlays/dsat_service_stops_20261115.json"
   }
 }

@@ -7,12 +7,12 @@
   "zipSha256": "f773e7a09737d7f4f9a0bdd05f5fe1a808335c4347e5f6f4b44bb03357d74a19",
   "fileId": 722,
   "zipBytes": 1281616,
-  "geometrySha256": "7b16d6ea898706fd53af2f2c91104ef494f8f82ad51e3f59ae772446e93c15a7",
-  "publishedAt": "2026-11-20T02:47:33.675781+00:00",
-  "qualifiedDirectionCount": 103,
+  "geometrySha256": "30dd115aeca14aa4b28404ebcd384e2e85bf8029444f8eab9e83321bbd80a8b7",
+  "publishedAt": "2026-11-20T03:24:28.500497+00:00",
+  "qualifiedDirectionCount": 104,
   "retainedDirectionCount": 0,
-  "publishedDirectionCount": 103,
-  "routeCount": 85,
+  "publishedDirectionCount": 104,
+  "routeCount": 86,
   "qualifiedRoutePairs": [
     "102:1",
     "103:0",
@@ -58,6 +58,7 @@
     "2:1",
     "30:0",
     "30X:0",
+    "31T:0",
     "32:0",
     "33:0",
     "34:0",
@@ -163,6 +164,7 @@
     "2:1",
     "30:0",
     "30X:0",
+    "31T:0",
     "32:0",
     "33:0",
     "34:0",
@@ -531,6 +533,27 @@
       "stopSequenceSha256": "0dd67a490fde17c245f973c9d2ce2dd3018694565fd439bf052c84289155c653",
       "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1054
+    },
+    {
+      "routePair": "31T:0",
+      "stopCount": 3,
+      "stopSequenceSha256": "58d1b00f15fa03c97d59f3b236a3548a99f1c27a2845f1f9214cd91da5606a3e",
+      "sequenceSource": "fresh_collector_catalogue",
+      "coordinateCount": 292,
+      "stopSequenceReview": {
+        "officialStopSequence": [
+          "M239/2",
+          "TEMP6/3",
+          "M239/2"
+        ],
+        "liveStopSequence": [
+          "M239/1",
+          "L04",
+          "M239/1"
+        ],
+        "lineSha256": "a4f4a86f0be0563e554e3d263c215008a2bbbe8b7b1feb3a16dd2be625ba4fab",
+        "expiresAt": "2026-11-22T16:00:00+00:00"
+      }
     },
     {
       "routePair": "32:0",
@@ -1006,15 +1029,6 @@
       "reason": "official_routeInfo_empty"
     },
     {
-      "variant": "31T:0",
-      "reason": "live_station_sequence_mismatch",
-      "geometryStopCount": 3,
-      "liveStopCount": 3,
-      "mismatchIndex": 1,
-      "geometryStopCode": "TEMP6",
-      "liveStopCode": "L04"
-    },
-    {
       "variant": "51B:0",
       "reason": "live_station_sequence_mismatch",
       "geometryStopCount": 30,
@@ -1047,5 +1061,12 @@
     }
   ],
   "stationOrderSource": "VPS collector DSAT routeInfo; geometry does not override live station order",
-  "directionPolicy": "Official directions only; no reversed compatibility directions"
+  "directionPolicy": "Official directions only; no reversed compatibility directions",
+  "sourceByRoutePair": {
+    "31T:0": {
+      "zipSha256": "f773e7a09737d7f4f9a0bdd05f5fe1a808335c4347e5f6f4b44bb03357d74a19",
+      "fileId": 722,
+      "liveCatalogueGeneratedAt": "2026-11-20T03:24:28.047Z"
+    }
+  }
 }

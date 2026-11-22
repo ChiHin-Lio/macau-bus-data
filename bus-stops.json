@@ -3041,8 +3041,7 @@
       "2A",
       "7",
       "MT2",
-      "6B",
-      "12T"
+      "6B"
     ],
     "namePor": "PRAÇA FERREIRA AMARAL",
     "nameEn": "PRAÇA FERREIRA AMARAL"
@@ -4667,9 +4666,7 @@
       "17S",
       "56",
       "AP1",
-      "N1A",
-      "12T",
-      "31T"
+      "N1A"
     ],
     "namePor": "TERMINAL MARÍTIMO DE PASSAGEIROS DO PORTO EXTERIOR",
     "nameEn": "OUTER HARBOUR FERRY TERMINAL"
@@ -10695,19 +10692,5 @@
     ],
     "nameEn": "EDF. TONG FU",
     "namePor": "EDF. TONG FU"
-  },
-  {
-    "id": "L04",
-    "name": "L04",
-    "nameCn": "綜藝館臨時站",
-    "namePor": "Paragem provisória do Fórum de Macau",
-    "nameEn": "Macao Forum Temporary Stop",
-    "coordinates": [
-      113.55279,
-      22.19543
-    ],
-    "routeIds": [
-      "31T"
-    ]
   }
 ]

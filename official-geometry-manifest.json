@@ -7,12 +7,12 @@
   "zipSha256": "64598c6b39640c077e857aca70cfee5f3b221de60e5c476ce7d66a90eb761584",
   "fileId": 722,
   "zipBytes": 1287501,
-  "geometrySha256": "a0cf1a780a5bd78d1f016daf4d7de5dcf0d815a510c56a4fd0e9e16a47209c62",
-  "publishedAt": "2026-11-22T01:50:39.730683+00:00",
-  "qualifiedDirectionCount": 113,
-  "retainedDirectionCount": 2,
-  "publishedDirectionCount": 115,
-  "routeCount": 94,
+  "geometrySha256": "1baac5c174f0cfbe8da2dcb6b179743437f6d2fda18aa3ad1d8c9d0a7650ff4d",
+  "publishedAt": "2026-11-23T02:07:01.218418+00:00",
+  "qualifiedDirectionCount": 109,
+  "retainedDirectionCount": 3,
+  "publishedDirectionCount": 112,
+  "routeCount": 91,
   "qualifiedRoutePairs": [
     "101:0",
     "102:0",
@@ -23,14 +23,12 @@
     "10B:0",
     "11:0",
     "12:0",
-    "12T:0",
     "15:0",
     "16:0",
     "16S:0",
     "17:0",
     "17S:0",
     "17S:1",
-    "17T:0",
     "18:0",
     "18:1",
     "18A:0",
@@ -63,9 +61,7 @@
     "2A:0",
     "30:0",
     "30X:0",
-    "31T:0",
     "32:0",
-    "32T:0",
     "33:0",
     "34:0",
     "34:1",
@@ -176,10 +172,8 @@
     "2:0",
     "2:1",
     "2A:0",
-    "2AS:0",
     "30:0",
     "30X:0",
-    "31T:0",
     "32:0",
     "32T:0",
     "33:0",
@@ -229,7 +223,6 @@
     "9A:0",
     "AP1:0",
     "H1:0",
-    "H2:0",
     "H3:0",
     "MT1:0",
     "MT2:0",
@@ -320,13 +313,6 @@
       "coordinateCount": 1249
     },
     {
-      "routePair": "12T:0",
-      "stopCount": 3,
-      "stopSequenceSha256": "21f18c428699644fc9bbc73afa514995e2efdca88cdafcc7ee80e99f46453277",
-      "sequenceSource": "fresh_collector_catalogue",
-      "coordinateCount": 642
-    },
-    {
       "routePair": "15:0",
       "stopCount": 40,
       "stopSequenceSha256": "dcad9935f4d5a7fe18773d95071e1be7bb7ae012440d60847c91ecd9489bf9a6",
@@ -367,13 +353,6 @@
       "stopSequenceSha256": "858eeac0e70ec8b4afc010521d716fb1cdf02c1e9e9fa0e9f3a4b5967f1f5e7a",
       "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 489
-    },
-    {
-      "routePair": "17T:0",
-      "stopCount": 4,
-      "stopSequenceSha256": "bd64757a01e1c1543ec401294008733b6527774aa436ac17c072e78988a89696",
-      "sequenceSource": "fresh_collector_catalogue",
-      "coordinateCount": 521
     },
     {
       "routePair": "18:0",
@@ -606,29 +585,8 @@
       "routePair": "30X:0",
       "stopCount": 19,
       "stopSequenceSha256": "0dd67a490fde17c245f973c9d2ce2dd3018694565fd439bf052c84289155c653",
-      "sequenceSource": "official_routeInfo_fallback",
-      "coordinateCount": 1054
-    },
-    {
-      "routePair": "31T:0",
-      "stopCount": 3,
-      "stopSequenceSha256": "58d1b00f15fa03c97d59f3b236a3548a99f1c27a2845f1f9214cd91da5606a3e",
       "sequenceSource": "fresh_collector_catalogue",
-      "coordinateCount": 292,
-      "stopSequenceReview": {
-        "officialStopSequence": [
-          "M239/2",
-          "TEMP6/3",
-          "M239/2"
-        ],
-        "liveStopSequence": [
-          "M239/1",
-          "L04",
-          "M239/1"
-        ],
-        "lineSha256": "a4f4a86f0be0563e554e3d263c215008a2bbbe8b7b1feb3a16dd2be625ba4fab",
-        "expiresAt": "2026-11-22T16:00:00+00:00"
-      }
+      "coordinateCount": 1054
     },
     {
       "routePair": "32:0",
@@ -636,13 +594,6 @@
       "stopSequenceSha256": "b419fdee33092826c4431b9c69ab672d0f09c1917057c1d3fca4fc743b8dd8af",
       "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 1228
-    },
-    {
-      "routePair": "32T:0",
-      "stopCount": 7,
-      "stopSequenceSha256": "2de80ecc56a79d7e7337cff9988ffc2607ed8b55604eebdc9306c8e73452e2ea",
-      "sequenceSource": "fresh_collector_catalogue",
-      "coordinateCount": 430
     },
     {
       "routePair": "33:0",
@@ -891,7 +842,7 @@
       "routePair": "71S:0",
       "stopCount": 14,
       "stopSequenceSha256": "fe9f8d4ce6031ff0efd2108d4a421e320142cdc65abdb73f2fbc01052e4abd37",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 690
     },
     {
@@ -1083,30 +1034,34 @@
       "routePair": "N6:0",
       "stopCount": 36,
       "stopSequenceSha256": "df0447177cb207b23024d3676cd65605fc5e392f15225336893273cfc7894f13",
-      "sequenceSource": "official_routeInfo_fallback",
+      "sequenceSource": "fresh_collector_catalogue",
       "coordinateCount": 2024
     }
   ],
   "retainedVariants": [
     {
-      "routePair": "2AS:0",
-      "reason": "reviewed_official_map_routeinfo_empty",
+      "routePair": "12T:0",
+      "reason": "same_zip_geometry_identical_current_routeinfo_unavailable",
       "qualificationFailureReason": "official_routeInfo_empty",
-      "mapReview": {
-        "lineSha256": "8729398daf2a77d842688f58b7f2fbe8c2c0feebba3bf5355dcf73c6e9a94b49",
-        "officialStopSequenceSha256": "de4ec162daef8ae022ac811ea455245c30ab346d7563092ac73bf1bd4ad096a9",
-        "retainWhenRouteInfoEmpty": true
-      }
+      "lastQualifiedAt": "2026-11-22T01:50:13.019Z",
+      "sourceGeometrySha256": "a0cf1a780a5bd78d1f016daf4d7de5dcf0d815a510c56a4fd0e9e16a47209c62",
+      "lastQualifiedSequenceSource": "fresh_collector_catalogue"
     },
     {
-      "routePair": "H2:0",
-      "reason": "reviewed_official_map_routeinfo_empty",
+      "routePair": "17T:0",
+      "reason": "same_zip_geometry_identical_current_routeinfo_unavailable",
       "qualificationFailureReason": "official_routeInfo_empty",
-      "mapReview": {
-        "lineSha256": "7328f3c36e40da03b447e5bdbb6da7973d5085d8beaeae7f3b76106ddfca5c24",
-        "officialStopSequenceSha256": "23d1f332f7672851c16ea7cbdc640098c757ac2f8e29b475d5ac7e5da27d5cb2",
-        "retainWhenRouteInfoEmpty": true
-      }
+      "lastQualifiedAt": "2026-11-22T01:50:13.019Z",
+      "sourceGeometrySha256": "a0cf1a780a5bd78d1f016daf4d7de5dcf0d815a510c56a4fd0e9e16a47209c62",
+      "lastQualifiedSequenceSource": "fresh_collector_catalogue"
+    },
+    {
+      "routePair": "32T:0",
+      "reason": "same_zip_geometry_identical_current_routeinfo_unavailable",
+      "qualificationFailureReason": "official_routeInfo_empty",
+      "lastQualifiedAt": "2026-11-22T01:50:13.019Z",
+      "sourceGeometrySha256": "a0cf1a780a5bd78d1f016daf4d7de5dcf0d815a510c56a4fd0e9e16a47209c62",
+      "lastQualifiedSequenceSource": "fresh_collector_catalogue"
     }
   ],
   "serviceStopOverlay": {
@@ -1125,15 +1080,31 @@
     },
     "appliedOverlayIds": []
   },
-  "liveCatalogueGeneratedAt": "2026-11-22T01:50:13.019Z",
+  "liveCatalogueGeneratedAt": "2026-11-23T02:06:24.108Z",
   "rejectedVariants": [
     {
+      "variant": "12T:0",
+      "reason": "official_routeInfo_empty"
+    },
+    {
+      "variant": "17T:0",
+      "reason": "official_routeInfo_empty"
+    },
+    {
       "variant": "2AS:0",
+      "reason": "reviewed_raw_station_sequence_changed"
+    },
+    {
+      "variant": "31T:0",
+      "reason": "official_routeInfo_empty"
+    },
+    {
+      "variant": "32T:0",
       "reason": "official_routeInfo_empty"
     },
     {
       "variant": "H2:0",
-      "reason": "official_routeInfo_empty"
+      "reason": "reviewed_raw_station_sequence_changed"
     }
   ],
   "reviewedMapSource": {
